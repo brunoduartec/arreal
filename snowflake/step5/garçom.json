@@ -1,0 +1,22 @@
+{
+    "BASIC": {
+        "Name": "Sem nome",
+        "Age": "60",
+        "Place of birth": "Cidadezinha",
+        "Sign": "",
+        "Current location": "",
+        "Nationality": "",
+        "Education": "Primeiro grau imcompleto",
+        "Occupation": "garçom",
+        "Income": "R$1200/mes"
+    },
+    "PHYSICAL APPEARANCE": "Cabelos grisalhos, bariga saliente, careca, com a ponta dos dedos e as barbas queimadas de cigarro, pele enrugada",
+    "SPEECH AND COMMUNICATION": {
+        "posture": ["Violenta","arrogante","metódico"]
+
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "O garçom viveu uma infância de muitas privações, seu pai sempre empregado do dono do restaurante, vivia dizendo pra ele que não tinha direito a nada a não ser a vida que tinham e a aceitar a vida que tinham."
+    },
+    "Short Description": "Sempre viveu como invisível no restaurante da cidade, quando seu pai morreu assumiu seu papel de garçom, posição essa que manteve até os 60 anos de idade nunca tendo ambições por crer que não tinha direito"
+}

@@ -1,0 +1,23 @@
+{
+    "description": "Step 2: Expand it to a one-paragraph summary",
+    "exposition": {
+        "description": "(what is the status quo at the start of the story)",
+        "text": "No inicio da historia o personagem principal, estudante da setima serie, sem nenhum amigo e desacreditado de todos."
+    },
+    "first plot point": {
+        "description": "(what major event kicks off the story)",
+        "text": "Em um sonho vive um tempo em uma casa perturbada enquanto na verdade está em coma por ter sido levado à uma realidade fantasiosa por Crispim, ao despertar descobre que todo ser humano pode ter habilidades especiais."
+    },
+    "mid-point": {
+        "description": "(where things take a turn for the worse)",
+        "text": "Vai atrás de compreender as habilidades especiais e acaba descobrindo que algumas pessoas ja sabiam mas que eles não estão felizes com ele saber e ter habilidades"
+    },
+    "Plot point two": {
+        "description": "(where your character hits rock-bottom and starts turning things around)",
+        "text": "Depois de se sentir muito culpado pela morte de algumas pessoas por não usar bem suas habilidades, acredita que em um futuro próximo vai haver muita morte por conta das pessoas terem descoberto as habilidades e decide tomar a dianteira da situação para impedir esse futuro mas percebe que tudo é inevitável"
+    },
+    "Climax and denouement": {
+        "description": "(how the story resolves)",
+        "text": "O futuro que previu era na verdade uma fantasia que havia criado por acreditar que as habilidades o trariam grandes poderes. Enquanto ele busca compreender como pode sozinho resolver toda a questão, alguns despertos orquestram uma revolta entre despertos e não despertos. Por fim o garoto não aceitando que na verdade toda sua luta era sem sentido e havia causado mais problemas do que resolvido alguma coisa faz com que todos esqueçam que existem as habilidades"
+    }
+}

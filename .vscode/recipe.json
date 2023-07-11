@@ -1,0 +1,23 @@
+{
+    "name": "Docker",
+    "tools": [
+      {
+        "name": "latexmk",
+        "command": "latexmk",
+        "args": [
+          "-outdir=%OUTDIR%",
+          "-synctex=1",
+          "-interaction=nonstopmode",
+          "-file-line-error",
+          "-pdf",
+          "%DOC%"
+        ]
+      }
+    ],
+    "recipes": [
+      {
+        "name": "latexmk",
+        "tools": ["latexmk"]
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "BASIC": {
+        "Name": "Jonas Albuquerque",
+        "Age": "16",
+        "Place of birth": "",
+        "Sign": "",
+        "Current location": "",
+        "Nationality": "",
+        "Education": "",
+        "Occupation": "",
+        "Income": ""
+    },
+    "PHYSICAL APPEARANCE": "",
+    "SPEECH AND COMMUNICATION": {
+        "posture": ["convencido", "arrogante", "violento"]
+
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+    }
+
+}

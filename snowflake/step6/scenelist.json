@@ -1,0 +1,503 @@
+{
+    "scene": [
+        {
+            "name": "O despertar",
+            "words": 2034,
+            "motive": [
+                "Começa com o garoto já com habilidades e tentando barganhar aceitação do leitor",
+                "Mostra o garoto no mundo comum e mostra como ele descobriu as habilidades",
+                "Apresentar o garoto",
+                "Apresentar Lúcia",
+                "Falar que o garoto sempre foi sonhador",
+                "Apresentar as habilidades por meio de Ítalo",
+                "Mostrar que a irmão nunca deu muita bola pro garoto e mesmo com ele contando do rapaz que voa ela continua sem acreditar",
+                "Mostrar que ele sempre foi muito sozinho e teve muita vontade de ser reconhecido porque na escola ou em casa ninguém o notava"
+            ],
+            "comments":[
+                "Aqui como é o capítulo inicial é importante gastar um tempo descrevendo e apresentando os personagens e mostrando o status quo do personagem no mundo real",
+                "Deixar no ar que ele viu mas depois ficou procurando e não achava nada"
+            ],
+            "characters": ["Garoto", "Lúcia", "Jonas", "Ítalo", "Larissa", "Pedro", "Crispim"],
+            "conflict":"",
+            "status": "revisado"
+        },
+        {
+            "name": "O cativeiro",
+            "words": 2031,
+            "motive": "Crispim tenta despertar a mente do garoto colocando ele em uma situação inusitada e com muitas coisas fora da naturalidade",
+            "comments":[
+                "Precisa apresentar Crispim",
+                "Criar uma imagem de Joana diferente de quem ela realmente é"],
+            "characters": ["Garoto", "Crispim", "Joana"],
+            "status": "revisado"
+        },
+        {
+            "name": "Para eu preciso descer",
+            "words": 1954,
+            "motive": ["O garoto percebe que Crispim não foi uma ilusão do coma e descobre onde ele mora",
+            "Garoto descobre que existem as habilidades",
+            "Garoto começa a desconfiar de Crispim",
+            "Joana se mostra submissa apesar de mais agressiva que na ilusão"
+            ],
+            "characters": ["Garoto", "Crispim", "Joana", "Lúcia"],
+            "comments":[
+                "Joana se comporta diferente do que ele conhecia",
+                "Importante o garoto falar que percebe o quanto ela é diferente"
+            ],
+            "status": "revisado"
+        },
+        {
+            "name": "Vim te buscar",
+            "words": 1131,
+            "motive": "O garoto tenta resgatar Crispim do coma e percebe que ele o estava enganando e que existm as habilidades e ele também as tem",
+            "characters": ["Garoto", "Crispim"]
+        },
+        {
+            "name": "E agora ? Em que eu devo acreditar ?",
+            "words": 1002,
+            "motive": "O garoto volta na casa para entender e aceitar um pouco que o que passou foi real",
+            "comment": "Talvez nao seja necessario esse capitulo",
+            "characters": ["Garoto", "Joana"]
+        },
+        {
+            "name": "Leve seu relogio",
+            "words": 1006,
+            "motive": "Encontra com seu eu do futuro mas ainda não sabe, decide se meter em uma situação de medo de propósito para ver se desperta sua habilidade de novo",
+            "comment": "Um pouco enrolado, diálogos fracos, não tem um propósito direto",
+            "characters": ["Garoto", "Lúcia"]
+        },
+        {
+            "name": "A emboscada",
+            "words": 1376,
+            "motive": "Tenta descobrir sobre suas habilidades indo a um beco mas encontra Larissa e os outros e com medo acaba ficando invisível",
+            "comments": "O que eles estavam fazendo lá? Como sabiam que ele ia pra lá?",
+            "characters": ["Garoto", "Joana", "Ítalo", "Larissa", "Pedro"]
+        },
+        {
+            "name": "Tudo que parece é?",
+            "words": 1149,
+            "motive": "MOstra como o garoto usa as habilidades como poderes e como isso faz com que as pessoas descubram e despertem",
+            "comment": "Interessante aqui mostrar como Lúcia ficou com a pulga atras de orelha com o irmão",
+            "characters": ["Garoto", "Joana", "Lúcia", "Garçom"]
+        },
+        {
+            "name": "Colateral",
+            "words": 933,
+            "motive": "Conta história do jantar do garoto do ponto de vista de outra pessoa, que posteriormente desperta",
+            "comment": "Muito curto, poderia explorar um pouco mais a percepção que ela tem sobre o garoto e a situação e como ela achou estranho e concluiu sobre as habilidades",
+            "characters": ["Garoto", "Helena"]
+        },
+        {
+            "name": "Vestido Vermelho",
+            "words": 1304,
+            "motive": "Conta como Helena usa as habilidades para se sentir melhor e termina morta no coreto",
+            "comment": "No diálogo dar a entender quem era que estava falando e quem a matou",
+            "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
+        },
+        {
+            "name": "Mulher sem nome",
+            "words": 1196,
+            "motive": "Trata a culpa e a responsabilidade de usar as habilidades e outras pessoas verem",
+            "comment": "Quem são os homens de preto?",
+            "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
+        },
+
+        {
+            "name": "Os três e a menina de fogo",
+            "words": 1360,
+            "motive": "O garoto tem contato com outras pessoas com habilidades e a perseguição se torna mais real",
+            "comment": "A batalha é muito raza e não trato como as pessoas não viram ou se viram quem viu",
+            "characters": ["Garoto", "Helena", "Garçom", "Pedro", "Larissa", "Jonas", "Ítalo"]
+        },
+        {
+            "name": "O vilarejo encantado",
+            "words": 1225,
+            "motive": "O garoto conhece a anciâ que mostra pra ele que ele precisa exercitar mais a sua criatividade e duvidar menos das coisas. Começa um ataque ao vilarejo",
+            "comment": "Porque Crispim falou para o garoto sair dali? Ele o estava ajudando?",
+            "characters": ["Garoto", "Crispim"]
+        },
+        {
+            "name": "A culpa",
+            "words": 1299,
+            "motive": "Motra como as habilidades podem trazer o mal, mostra a menina morta nas mãos da anciã",
+            "comment": "Dá facilmente pra juntar com o vilarejo encantado",
+            "characters": ["Garoto", "Larissa", "Pedro"]
+        },
+        {
+            "name": "O telecinético",
+            "words": 1234,
+            "motive": "Contar a história de Pedro",
+            "comment": "Preciso no começo dar a entender que o garoto estava vendo tudo e logo a história é contada com ele como observador",
+            "characters": ["Pedro", "Larissa"]
+        },
+        {
+            "name": "Larissa",
+            "words": 1022,
+            "motive": "Contar a história de Larissa e sua conexão com Crispim",
+            "comment": "Abordar mais a relação dos dois",
+            "characters": ["Larissa", "Pedro"]
+        },
+        {
+            "name": "Crispim",
+            "words": 1034,
+            "motive": "Construir Crispim como alguém que sofreu na vida e tem os motivos para se portar como se porta. Apresentar para Larissa as habilidades e mostrar como algumas pessoas lidariam com ceticismo",
+            "comment": "",
+            "characters": ["Crispim", "Larissa"]
+        },
+        {
+            "name": "Unindo forças",
+            "words": 1191,
+            "motive": "Mostrar o momento que todos eles se uniram e como Crispim sempre os controlava",
+            "comment": "Pode facilmente ser junto com o capítulo Crispim",
+            "characters": ["Crispim", "Larissa"]
+        },
+        {
+            "name": "Desdobrado",
+            "words": 1172,
+            "motive": [
+                "Vai até o momento em que Crispim estava unindo as forças de todos e percebe que ele não era quem ele imaginava, que estava enganando a todos",
+                "Garoto de volta ao corpo mas nervoso com tudo que viu fica descontrolado, acaba indo para o passado no momento do mercadinho e percebe que ele mesmo o havia ajudado",
+                "Vai para o futuro e então vê como sua cidade estava quebrada"
+            ],
+            "comment": ["A primeira parte podia fazer parte do capítulo unindo forças", "O final está confuso"],
+            "characters": ["Crispim", "Larissa"]
+        },
+        {
+            "name": "A busca",
+            "words": 693,
+            "motive": "Mostra ele descobrindo que existem várias habilidades e que todos podem ter todas",
+            "comment": ["Muito raso e explicito, poderia ter alguma experiência que ele passa e descobre isso e não só falando",
+                "pode ser unido com o capitulo Desdobrado",
+                "Não falar que está em espírito porque não quero que seja um livro espírita, falar que estou fora do corpo"
+            ],
+            "characters": ["Garoto"]
+        },
+        {
+            "name": "Des Envolvendo",
+            "words": 978,
+            "motive": ["Entende como Ítalo fazia pra volitar conhecendo a historia dele enquanto criança", "Volta para seu corpo e decide então que é hora de iniciar a sua parte em impedir Crispim mas ainda não sabe como vai fazer isso"],
+            "comment": "Qual a razão de o garoto ter ido atrás do Ítalo? Preciso deixar explicito que ele queria ajuda",
+            "characters": ["Garoto", "Ítalo"]
+        },
+        {
+            "name": "Mais leve",
+            "words": 1186,
+            "motive": [
+                "É sequestrado por Crispim e Joana",
+                "Garoto volita e descobre que Crispim realmente não era alguem bom e que não estava em coma coisa nenhuma e que Joana sabia disso",
+                "Consegue volitar pela primeira vez"
+            ],
+            "comment": ["Os diálogos estão muito ruims",
+                "É importante nesse capítulo mostrar como Joana apesar de estar do lado de Crispim, como descobriu que ele não estava em coma e a estava enganando, está bem desconfortável"
+            ],
+            "characters": ["Garoto", "Jonas", "Crispim"]
+        },
+        {
+            "name": "Sempre aqui",
+            "words": 1151,
+            "motive": ["Percebe que está sozinho e que precisa de ajuda, se lembra da anciã", "Decide voltar para o vilarejo para encontrar com a anciã", "Se conecta mentalmente coma anciã que fala que sempre esteve com ele", "Percebe que estava vivendo muito na sua zona de conforto e que precisava saber varias habilidades pra poder ir contra Crispim. Termina com uma iminente luta com Larissa"],
+            "comment": ["O inicio do capítulo está muito confuso e não ajuda em nada a história andar", "É importante nesse capítulo a anciã mostrar pra o garoto que ele não consegue alterar muito as coisas porque é inevitável e motrar pra ele que as habilidades não são poderes mas são como sentidos, todos temos"],
+            "characters": ["Garoto", "Larissa", "anciã"]
+        },
+        {
+            "name": "Contra fogo",
+            "words": 1168,
+            "motive": ["Percebe que estava vivendo muito na sua zona de conforto e que precisava saber varias habilidades pra poder ir contra Crispim. Termina com uma iminente luta com Larissa", "Conta pra Larissa que viu o futuro e de toda a destruição que ele vira mas ela não acredita mas fica com uma pulga atrás da orelha", "Tenta dominar o fogo pois estava no meio de um circulo de fogo", "Ítalo salva ele pelos braços volitando e fugindo dali"],
+            "comment": ["É importante mostrar nesse capítulo que a larissa não entende muito bem porque Crispim gosta e protege tanto o garoto"],
+            "characters": ["Garoto", "Larissa"]
+        },
+        {
+            "name": "Dois lados",
+            "words": 1096,
+            "motive": ["Inicio da aliança do garoto com Ítalo", "Leva o garoto para a floresta e mostra como ela está em chamas", "Ítalo mostra para o garoto que o garçom que realmente era o problema"],
+            "comment": ["O garoto continua ainda falando que não sabe o que fazer mas a capítulos atrás disse que queria se levantar e aprender outras habilidades"],
+            "characters": ["Garoto", "Ítalo"]
+        },
+        {
+            "name": "Cai o véu",
+            "words": 1246,
+            "motive": ["Ítalo leva o garoto para a casa do garoto", "Ítalo da a entender que aconteceu alguma coisa a mais no massare do vilarejo, mais tarde o garoto vai perceber que na verdade eles só conseguiram entrar porque ele havia voltado no tempo e abriu a cúpula"],
+            "comment": ["Por que ele decide ir para casa nesse momento que o estão perceguindo?", "Lúcia ouve que um barulho vindo do quarto do irmão e corre para ver o que estava acontecendo mas fica do lado de fora ouvindo"],
+            "characters": ["Garoto", "Ítalo"]
+        },
+        {
+            "name": "Sozinho",
+            "words": 1515,
+            "motive": ["Lúcia conhece Ítalo e tenta jogar alguns verdes para ver se o irmão dela conta tudo mas ele não fala nada", "Ítalo mostra para o garoto como se continuarem usando as habilidades sem alarde as pessoas talvez nunca notem porque elas estão acostumadas a não acreditar", "Ítalo como percebe que o garoto precisa reagir o coloca no topo de uma montanha e o deixa lá sozinho", "O garoto passa varios dias preso no topo até reagir"],
+            "comment": ["Importante mostrar mais a noção de passagem de tempo e de como o garoto aperas de ter ficado com raiva de Ítalo percebe que aquilo foi para o bem, esse ponto está muito superficial"],
+            "characters": ["Garoto", "Ítalo"]
+        },
+        {
+            "name": "Sacrificios",
+            "words": 1342,
+            "motive": [
+                "Reviravolta do garçom",
+                "Começa a redenção de Crispim aos poucos quanto ele percebe que não dominava a todos",
+                "Joana morre",
+                "Mostrar o garoto usando mais de uma habilidade, o que vai despertar para o garçom a possibilidade de ele também poder usar mais de um"
+            ],
+            "comment": ["Seria interessante trabalhar o fato de Joana demonstrar mais que se sente enganada",
+                "Nesse capítulo preciso pensar em alguma maneira que o Garçom enganou a todos e não tinha matado Joana pois depois quando o garoto volta e ela não morreu na verdade ele não pode mudar o tempo"
+            ],
+            "characters": ["Garoto", "Garçom", "Joana", "Crispim", "Ítalo"]
+        },
+        {
+            "name": "O passado a quem pertence?",
+            "words": 1616,
+            "motive": [
+                "O garoto volta no momento da emboscada e acaba ele sendo o criador da destruição",
+                "Ítalo fala para o garoto que aquilo ja tinha acontecido e que ele acha que não podemos mudar o tempo",
+                "Garçom aproveita que Crispim estava fora do corpo e o prende pra fora"
+            ],
+            "comment": ["Crispim viu o garçom matando Joana e confia muito rápido nele",
+                "A anciã fala que podemos mudar o futuro, mas eu quero passar a ideia de que não podemos"
+            ],
+            "characters": ["Larissa", "Pedro", "Garoto", "Crispim", "Ítalo"]
+        },
+        {
+            "name": "Que plano é esse?",
+            "words": 1023,
+            "motive": ["Garçom tenta convencer Larissa que o garoto matou Joana", "Pedro fala que teve um sonho com Crispim falando para não acreditar no garçom", "Falar do plano deles de ir atrás de outras pessoas", "Falam que Ítalo tinha ido atrás do garoto para entender do que ele era capaz mas que continuava junto de Larissa e Pedro"],
+            "comment": ["Frases contando e não mostrando", "Larissa é explosiva mas quando soube da morte da sua irmã e de Crispim preso não vai correndo se vingar, vai encontrar Pedro", "É importante que Pedro fale para Larissa do sonho antes de ela encontrar o Garçom e assim mudar o diálogo para que ela pareça suspeita dele"],
+            "characters": ["Crispim", "Larissa", "Garçom"]
+        },
+        {
+            "name": "Um tempo sozinho",
+            "words": 1196,
+            "motive": ["Ítalo não sabe que existem muitas habilidades e o garoto aqui percebe isso, que só ele sabe que podemos ter várioas habilidades",
+                "Estão frustrados por acharem que poderiam mudar o tempo mas Ítalo fala para o garoto que na verdade ele se lembra de te-lo visto na floresta da ultima vez também, então mesmo na outra realidade aquilo ja tinha acontecido", "O garoto fala que acredita que podemos sim mudar o tempo mas Ítalo desconfia que não", "deixa Ítalo no tempo presente e vai para o futuro em que pretende aprender varias habilidades",
+                "Vê pela primeira vez as pessoas de máscaras nos rostos",
+                "Fala que precisa ficar um tempo sozinho para aprender novas habilidades"
+            ],
+            "comment": ["No inicio fala que Ítalo pega um cigarro, mas ele muito provavelmente nao fuma",
+                "Preciso melhorar a desculpa dele de que as pessoas não podem ter todas as habilidades"
+            ],
+            "characters": ["Garoto", "Ítalo"]
+        },
+        {
+            "name": "Pintura mental",
+            "words": 1092,
+            "motive": ["Encontra o menino cego que tem a habilidade de ver o que as pessoas estão pensando como uma pintura",
+                "Aprende a ler a mente",
+                "Questionar quem está certo e quem está errado", "Começa a ver o que as pessoas estão pensando e sentindo, o que lhe dá um senso de empatia maior"
+            ],
+            "comment": ["Poderia fazer ele conhecer novas habilidades", "Esse capítulo não tem nenhum conflito"],
+            "characters": ["Garoto"]
+        },
+        {
+            "name": "Uma visita inesperada",
+            "words": 1381,
+            "motive": ["Garçom vai até a casa do garoto para conhecer um pouco mais sobre ele e dar a entender que poderia fazer mal à irmã dele se assim quisesse", "Garçom sequestra Lúcia e leva para a casa de Crispim", "Garoto aparece com um grande feixe de luz", "Garçom esfaqueia Lucia, mas o garoto a cura", "Tem a chance de matar o garçom mas não o faz porque fala que não quer se corromper", "Garçom percebe que precisa de aliados"],
+            "comment": ["Lúcia já sabia das habilidades, não era totalmente ignorante quanto", "Mudar o locutor para ser o garoto descrevendo", "Aqui é importante o garçom mostrar sua inveja do garoto"],
+            "characters": ["Garçom", "Lúcia", "Garoto"]
+        },
+        {
+            "name": "Lucidez",
+            "words": 1192,
+            "motive": [
+                "Lúcia descobre que o garoto estava mentindo pra ela sobre as habilidades", "Lúcia fica brava porque o garoto usou leitura de mente nela", "Lúcia fala para o garoto que precisa de espaço e que vai para Nova Iorque", "Garçom fica indignado e fala que vai para Nova Iorque porque lá seu plano faz mais sentido e ele de quebra se vinga do garoto",
+
+                "No final Lúcia está em Nova Iorque com o gato e vê o zepelling",
+                "Fala que lá em baixo, vendo pela janela, tem muitos carros batidos e que acha que é porque as pessoas viram o zepelling", "Decide descer para ver o que estava acontecendo e não ficar ali só olhnado, já que é uma jornalista, porque não ir atrás"
+            ],
+            "comment": ["Esse capítulo tem duas sub historias, uma da lucia descobrindo e uma do garçom depois do garoto sumir", "Com quem o Garçom estava falando?", "No final ja mostra Lúcia em Nova Iorque, poderia ser em outro capitulo"],
+            "characters": ["Lúcia", "Garoto"]
+        },
+        {
+            "name": "Traído",
+            "words": 1232,
+            "motive": [
+                "Pensa que tinha traído a irmã por não ter contado pra ela sobre as habilidades antes", "Decide voltar a encontrar Ítalo", "O garoto mostra nesse capítulo que já tem pleno controle de várias habilidades", "Fala do plano de Larissa de fazer uma transmissão para falar pra todas as pessoas do mundo das habilidades para que assim todos tendo elas reduziria o impacto do garçom ou crispim se revoltarem", "Percebe que não importa o que faça o futuro dá um jeito de convergir",
+
+
+                "Lúcia está em Nova Iorque agora na rua",
+                "Lúcia encontra pessoas correndo mas ninguem fala nada pra ela, só fogem",
+                "Encontra a menina ajoelhada no meio da rua",
+                "Estavam acontecendo explosões de baixo da terra"
+            ],
+            "comment": ["Nesse momento já está no final, ele nao deveria mais ter dúvidas e ficar reticente", "O garoto se sente traído mas sua reação é muito sutil, preciso demonstrar mais que ele se incomodou", "Talvez aqui ja mostrar que as pessoas não estão vendo o dirigível"],
+            "characters": ["Garoto", "Ítalo", "Larissa"]
+        },
+        {
+            "name": "Descaradamente",
+            "words": 1248,
+            "motive": [
+                "Larissa pede para o garoto salvar Crispim", "O garoto percebe que Larissa ou o teme ou não confia nele", "Encontra Crispim num lugar escuro",
+
+                "Larissa fala com a menina que acha que está atordoada no centro da rua", "Uma pessoa fala que tem um homem pegando fogo no metrô e Larissa decide ir atrás pra ver o que esta acontecendo"
+            ],
+            "comment": ["Por que ele foi se esconder na casa se ele sabe que tá tudo pegando fogo", "Larissa tem cabelo vermelho e não azul", "Aqui seria interessante Larissa falar que não sabia porque Crispim queria tanto perceguir ele se nunca falou o motivo", "Larissa está em dois lugares ao mesmo tempo, pode parecer confuso já que não dei a entender se são tempos diferentes"],
+            "characters": ["Larissa", "Garoto", "Lúcia"]
+        },
+        {
+            "name": "Fragmentos",
+            "words": 1249,
+            "motive": ["Fala ainda sobre a explosão no metrô",
+                "Estava chovendo do nada, nesse ponto Crispim estava fazendo isso mas ninguem sabia", "Conta como Lúcia se sentiu enquanto o garoto estava em coma", "Conta também como ela descobriu tudo"
+            ],
+            "comment": ["Tempo verbal está estranho, colocar como se fosse o garoto contando", "Capitulo bem confuso e não sei se precisa de todo esse suspense para dizer que ela ja entendeu, talvez eu poderia usar esse momento pra ela perceber algo mais do que só que o garoto tem habilidades, talvez ela ter percebido o quanto pra o garoto aquilo tudo não passava de um de seus quadrinhos de herois e bandidos"],
+            "characters": ["Lúcia", "Larissa"]
+        },
+        {
+            "name": "Epifania",
+            "words": 1329,
+            "motive": [
+                "Garoto encontra Crispim dentro de sua consciência", 
+                "Garoto fala que percebe que não precisa usar violência porque ele consegue se controlar", 
+                "Crispim fala que entendeu que tudo não se trata de poder", 
+                "Crispim fala para o garoto que não se trata tudo dele", 
+                "Nesse capítulo tem mais um indicativo de que o garoto já estava vendo as habilidades como poder e de como ele se achava onipotente", 
+                "Crispim sabe do futuro, ele viu também até onde garoto viu e decide se esconder dentro de si, como fez da outra vez", 
+                "Crispim fala para o garoto que era tudo inevitável e que ele podia ir lá e provar que ele estava errado", 
+                "Quando volta a seu corpo, Larissa tinha colocado fogo na casa para que ele e Crispim morressem, mas ele tinha ja deixado os corpos em outro lugar",
+                "Larissa acha que o garoto havia morrido",
+
+
+
+                "Lúcia questiona Larissa(menina) sobre o que tinha acontecido e Larissa fala que ela precisa se meter em menos problemas"],
+            "comment": ["Começa com uma digressão confusa", "Discaradamente igual as cenas do The OA, bom mudar", "Aqui Crispim podia falar para o garoto que não se trata de bem ou mal", "Se ele tinha deixado o corpo em outro lugar porque voltou pra casa, podia falar que de onde estava podia ver que a casa estava pegando fogo.", "Muito rasa a parte que Lúcia pergunta para Larissa quem ela é"],
+            "characters": ["Garoto", "Crispim", "Lúcia", "Larissa"]
+        },
+        {
+            "name": "Faz sentido?",
+            "words": 1689,
+            "motive": [
+                "Larissa, Pedro e Ítalo decidem ir atrás de outras pessoas como aliados",
+                "Recrutam Jonas",
+                "Vão até a casa do Bento para tentar recrutá-lo também",
+                "Ao chegarem na casa do Bento, garçom ja estava lá",
+                "Garçom podia também lançar fogo porque ele entendeu podia fazer isso também mas não pensa que pode outras",
+                "Garçom intimida Pedro falando que ele se submete à Larissa",
+                
+                "No final Larissa e Lúcia estão na frente do metrô e Larissa(menina) fala pra ela que o que aconteceu foi um ataque de um desperto",
+                "Ao final Lúcia questiona porque Larissa(menina) não se queimou nem está com problemas"
+            ],
+            "comment": [
+                "Nesse ponto da historia acho que ja deveria estar encaminhando pro final",
+                "O que significa essa frase: segurando telepaticamente os seus braços e pernas.?",
+                "O capitulo parece que parou o fluxo da historia",
+                "Seria bom ter conflito desde o começo",
+                "Os diálogos não apresentam personalidade",
+                "Preciso dar um motivo melhor para o Jonas querer segui-los",
+                "Muito fraco o momento que Jonas decide seguir o Garçom por pensar como ele",
+                "Pedro não deveria argumentar muito com o Garçom pois ele é mais bronco do que raciocínio",
+                "Seria interessante Larissa participar também do diálogo com o garçom, mostrando que ela é mais forte Pedro",
+                "Aqui Lúcia ja poderia falar que estava fugindo dos despertos e que ela ja sabia porque o irmão dela era um deles"
+                
+            ],
+            "characters": ["Larissa", "Pedro", "Ítalo", "Jonas", "Bento", "Garçom"]
+        },
+        {
+            "name": "Explosão no metrô",
+            "words": 1442,
+            "motive": [
+                "Explicar a explosão no metrô um pouco melhor porque até então ele estava em pedaços nos capítulos",
+                "Pedro tenta falar com Larissa ao telefone para contar que sabia do garçom mas ela não quis ouvir",
+                "Pedro tenta enfrentar o Garçom mas ele agora pode também lançar chamas assim como Larissa",
+                "Garçom estava tentando quebrar o metrô para que todos o vissem e ficassem entusiasmado com as habilidades",
+                "Bento bate na cabeça de Pedro pelas costas, pega seu celular e grava o garçom mostrando suas habilidades",
+
+                "Garoto volta no momento em que o garçom começou a ficar frustrado que provavelmente é o momento em que despertou",
+                "No final o garoto fala que precisa de algo grande para chamar a atenção"
+            ],
+            "comment": [
+                "Não tem conflito",
+                "Vale a pena quebrar a cena no futuro em pequenos pedaços?",
+                "Eles achavam que o Garoto estava morto então não podem citá-lo",
+                "No parágrafo em que fala de quando voltou depois de ter tentado impedir que Crispim despertasse, fala que algumas coisas tinham mudado, preciso enfatizar que pequenas coisas sim mas no fim o resultado é o mesmo porque as pessoas fizeram com que chegasse no mesmo fim",
+                "O parágrafo final está bem estranho porque fica muito explicito e meio caricato que ele viu Larissa e não sabe quem é",
+                "Acho que seria interessante não ter o último parágrafo e não ficar toda hora ele falando que sabe que não sabe o que fazer e ele não falar que pretende levar algo grande, isso pode aparecer como suspense depois"
+            ],
+            "characters": ["Pedro", "Larissa"]
+        },
+        {
+            "name": "A resistência",
+            "words": 1709,
+            "motive": [
+                "Lúcia começa a querer ir mais a fundo e escrever sobre tudo o que esta acontecendo",
+                "Fala sobre o dirigível e Lucia não vê",
+                "O telefone de Larissa(menina) fica tocando",
+                "Mostra que Lucia é impetuosa e cautelosa",
+                "Entram de novo no metrô porque Lúcia quer ver o que aconteceu",
+                "Larissa fala para a menina que parece que ela não quer acreditar que tudo aquilo foi feito por alguém e mostra o video do Garçom e o caderninho que ela guardava para categorizar os despertos",
+                "Antes de entrar no metrô, Larissa pega um lenço e amarra no rosto e Lúcia diz que gosta por estarem criando uma marca o que é bom para as pessoas comprarem mais a idéia da revolução mas Larissa questiona ela do que esta falando",
+                "O Garçom sobe pelas escadas da frente o metrô no meio de todos fugindo e Larissa puxa Lucia falando pra elas se esconderem atrás de uma banca de jornais",
+                "Larissa fala que precisa ir atrás da pessoa que estava ligando e dá um pedaço de papel para Lúcia",
+                "Lúcia decide seguir os três por ser um grande furo de noticia"
+            ],
+            "comment": [
+                "Importante aqui quando Lucia ve a ficha do Garoto, Larissa falar que no começo não achava que ele era nada de mais e que realmente não sabe o que ele pretende, não falar que ele é bom ou mal",
+                "Preciso olhar se ali tem mesmo uma banca",
+                "Larissa falou o nome, Lily mas Lúcia nunca usou"
+            ],
+            "characters": ["Larissa","Lúcia"]
+        },
+        {
+            "name": "Sem moral",
+            "words": 1889,
+            "motive": [
+                "Garçom, Jonas e Bento andam pelo centro de Nova Iorque no meio da rua causando destruição para que todos o vejam",
+                "Garçom quer agora oprimir as pessoas por pensar que elas nunca o viam",
+                "Saem mostrando para as pessoas que todas elas podem usar as habilidades contanto que acreditem",
+                "Mostra que muitas são as pessoas que usam as habilidades para seu proveito e não questionam ou vão contra os três como eles mesmos supunham",
+                "Mesmo com varios despertando, alguns ainda não fazem pois tem mais dificuldade em aceitar o inacreditável",
+                "Pedro fala que encontrou Ítalo e ele estava ajudando o garoto a trazer um dirigível para Nova Iorque",
+                "Larissa fala como acha o garoto foda e começa então a ver o dirigível",
+                "Pedro no meio da ligação para de responder e Larissa ouve o celular caindo no chão",
+                "Lucia vê um video de um padre fingindo ser o messias e logo encontra Larissa, correndo pelas ruas",
+                "Larissa fica com vergonha do que está acontecendo e conta para Lucia que conhece o garoto e que ele está do lado deles",
+                "Larissa cora ao falar que elas precisam estar juntas, não como um casal mas como um time",
+                "Lucia diz que apesar de ainda não confiar nela, precisam realmente se unir, colocam as mascaras e falam que vão montar um levante",
+                "O garoto, agora em cima do Empire State, nota que em baixo estava acontecendo a mesma cena que ele vislumbrou quando veio para o futuro, percebendo que não conseguiu mudar nada"
+            ],
+            "comment": [
+                "Importante pensar se ele continua andando com as roupas de Garçom",
+                "O narrador faz alguns comentários ao longo do capítulo, já que o narrador é o garoto é interessante que eles sejam feitos com o intuito de o redimir ou exprimir sua opinião preconceituosa",
+                "Pedro fala que a brodway era uma rua de teatros e dá a entender que não era arte, preciso colocar que ele na realidade gostava de outra forma de arte e que Larissa não o conhece",
+                "Não sei se é interessante já falar do dirigivel aqui mas manter o suspense",
+                "Aqui bom dar a entender que ela acha que o garoto está do lado deles e não que tem certeza",
+                "Larissa achava que o garoto estava morto, então é importante que aqui ela pelo menos de a entender que estava surpresa"
+            ],
+            "characters": ["Garçom", "Jonas", "Bento"]
+        },
+        {
+            "name": "Como chegamos até aqui",
+            "words": 1864,
+            "motive": ["Começa com Larissa falando que sente um peso na cabeça mas que não sabe de onde já que o garoto e Crispim estão mortos"],
+            "comment": [
+                "Nesse momento, Pedro já tinha falado pra ela do dirigivel e de que o garoto estava vivo",
+                "Estou fazendo muito isso de colocar capítulos anacrônicos"],
+            "characters": ["Larissa", "Pedro"]
+        },
+        {
+            "name": "",
+            "words": 0,
+            "motive": [
+                "Garoto desce para ver porque as pessoas estava criando levantes de mascaras",
+                "Encontra sua irmã Lúcia",
+                "Logo que desce percebe o garotinho junto delas e começa a ter um diálogo que parece ser com as duas mas é com ele porque percebe que na realidade era Crispim que tinha mudado sua forma para parecer pequeno",
+                "Larissa percebe pelo olhar dele que era mesmo Crispim e pergunta porque ele estava fazendo isso",
+                "Crispim estava acompanhando Larissa para garantir que apesar de querer que todo aquele caos acontecesse não queria que ela se ferisse",
+                "O garoto fala pra Crispim voltar à sua forma normal e quando isso acontece Pedro que vinha ao longe pensa que é uma ameaça e lança uma grande pedra que atinge Crispim em cheio no peito fazendo com que ele comece a agonizar e morrer",
+                "O capítulo termina com Larissa perdoando Crispim ele se arrependendo de tudo que fez ela passar e ela falando que vai impedir que tudo isso aconteça nem que seja a ultima coisa que ela faça"
+            ],
+            "comment": ["Modificar o capitulo que eles aparecem em NY para fazer com que um garotinho comece a seguir Larissa, assim quando o garoto descer ele percebe que era na verdade Crispim"],
+            "characters": []
+        },
+        {
+            "name": "",
+            "words": 0,
+            "motive": [],
+            "comment": [],
+            "characters": []
+        },
+        {
+            "name": "",
+            "words": 0,
+            "motive": [],
+            "comment": [],
+            "characters": []
+        }
+
+    ]
+}

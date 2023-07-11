@@ -1,0 +1,64 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% eBook 
+% LaTeX Template
+% Version 1.0 (29/12/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Luis Cobo (luiscobogutierrez@gmail.com) with extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT CONFIGURATIONS AND INFORMATION
+%----------------------------------------------------------------------------------------
+
+\documentclass[oneside,17pt]{memoir} % Font size
+
+\input{structure.tex} % Include the file that specifies the document structure and layout
+
+\title{Arreal} % Book title
+\author{Bruno Duarte Corrêa} % Author
+\newcommand{\edition}{First Edition} % Book edition
+ 
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+ 
+\thispagestyle{empty} % Suppress page numbering
+\ThisCenterWallPaper{1.0}{./images/capa} % Add the background image, the first argument is the scaling - adjust this as necessary so the image fits the entire page
+
+% \includegraphics[width=12.5cm]{./images/cover}
+
+% \begin{tikzpicture}[remember picture,overlay]
+% \node [rectangle, rounded corners, fill=white, opacity=0, anchor=south west, minimum width=10cm, minimum height=6cm] (box) at (-0.5,-10) (box){}; % White rectangle - "minimum width/height" adjust the width and height of the box; "(-0.5,-10)" adjusts the position on the page
+% \node[anchor=west, color01, xshift=-1.5cm, yshift=-5cm, text width=2.9cm, font=\sffamily\bfseries] at (box.north){\theauthor}; % "Text width" adjusts the wrapping width, "xshift/yshift" adjust the position relative to the white rectangle
+% \end{tikzpicture}
+
+\newpage\null\thispagestyle{empty}\newpage
+
+\newpage % Make sure the following content is on a new page
+ 
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+% \tableofcontents % Prints the table of contents
+
+% \input{chapters/sinopse.tex}
+
+\foreach \chapternumber in {0,...,44}{
+	\input{chapters/chapter\chapternumber.tex}
+} 
+
+\end{document}

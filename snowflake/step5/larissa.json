@@ -1,0 +1,22 @@
+{
+    "BASIC": {
+        "Name": "Larissa Ferreira",
+        "Age": "15",
+        "Place of birth": "",
+        "Sign": "Touro",
+        "Current location": "",
+        "Nationality": "",
+        "Education": "",
+        "Occupation": "",
+        "Income": ""
+    },
+    "PHYSICAL APPEARANCE": ["cabelos curtos vermelhos, se veste com calças jeans e blusa de couro vermelha"],
+    "SPEECH AND COMMUNICATION": {
+        "posture": ["Violenta", "Arrogante", "Confiante"]
+
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Viveu sua infância na periferia, somente com a sua mãe, seu pai, Crispim, era sempre distante porque na realidade tinha outra família. Cresceu vendo sua mãe ser maltratada e deixada de lado por isso traz dentro de si uma revolta constante com o mundo"
+    }
+
+}

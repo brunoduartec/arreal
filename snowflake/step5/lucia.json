@@ -1,0 +1,22 @@
+{
+    "BASIC": {
+        "Name": "Lúcia Nascimento",
+        "Age": "20",
+        "Place of birth": "",
+        "Sign": "",
+        "Current location": "",
+        "Nationality": "",
+        "Education": "",
+        "Occupation": "",
+        "Income": ""
+    },
+    "PHYSICAL APPEARANCE": "",
+    "SPEECH AND COMMUNICATION": {
+        "posture": "" // Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?,
+
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+    }
+
+}

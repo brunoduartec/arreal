@@ -1,0 +1,22 @@
+{
+    "BASIC": {
+        "Name": "Crispim Gonçalves",
+        "Age": "70",
+        "Place of birth": "Cidadezinha",
+        "Sign": "",
+        "Current location": "",
+        "Nationality": "",
+        "Education": "Segundo grau completo",
+        "Occupation": "Militar do exército",
+        "Income": ""
+    },
+    "PHYSICAL APPEARANCE": "Cabelos grandes e brancos, barba grande e branca, pele enrugada",
+    "SPEECH AND COMMUNICATION": {
+        "posture": ["Rígida, sóbria,agressiva"]
+
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Filho único, decidiu virar militar quando viu um anúncio e acho que fosse um caminho mais fácil do que estudar muitos anos e ir atrás de um emprego"
+    },
+    "Short Description": "Militar medíocre nunca conseguiu subir de cargo e vivia vários anos na mesma patente o que fazia com que ele tivesse raiva da idéia de o poder ser dado a alguém que a seu ver não tinha direito"
+}

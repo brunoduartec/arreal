@@ -1,0 +1,30 @@
+{
+    "BASIC": {
+        "Name": "sem nome",
+        "Age": "17",
+        "Place of birth": "Cidade pequena",
+        "Sign": "Leão",
+        "Current location": "Cidade pequena",
+        "Nationality": "Brasileira",
+        "Education": "7 serie",
+        "Occupation": "Estudante",
+        "Income": "classe média"
+    },
+    "PHYSICAL APPEARANCE": {
+        "altura": "1.7m",
+        "peso": "70kg",
+        "tom da pele": "moreno de pele clara",
+        "cabelo": "cabelo curto"
+    },
+    "SPEECH AND COMMUNICATION": {
+        "posture (Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?)": [
+            "tímido",
+            "relutante",
+            "omisso"
+        ]
+    },
+    "THE PAST": {
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Teve uma infância boa com pais que o amavam"
+    },
+    "Short Description": "Sempre foi um menino curioso e gostou de realizar coisas que estimulassem a sua criatividade. Não tinha muitos amigos pois todos os achavam excentrico demais. Tinha uma relação de dependência com sua mãe e quando a mesma morre fica um pouco perdido e acaba transferindo tal afeição para sua irmão Lúcia. Por conta de todos o desprezarem acabou desenvolvendo uma obsessão pela aprovação do outro o que faz com que todas as suas decisões fossem embasadas em ser aceito e amado.Gostava muito de histórias de superheróis e seus superpoderes, sendo o superman seu favorito. Desde pequeno sonha em viajar o mundo e conhecer as culturas e comidas variadas."
+}
