@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  11 JUL 2023 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  12 JUL 2023 15:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1466,8 +1466,6 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/it' will be
 (Font)              scaled to size 20.74pt on input line 1.
 )
 (./chapters/chapter0.tex
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining portuges shorthand "|
@@ -1490,10 +1488,6 @@ Package babel Info: Redefining portuges shorthand "|
 [3
 
 ]
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 62.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 62.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining portuges shorthand "|
@@ -2406,11 +2400,11 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 25002 strings out of 493029
- 432512 string characters out of 6136234
- 495900 words of memory out of 5000000
- 27856 multiletter control sequences out of 15000+600000
- 19676 words of font info for 34 fonts, out of 8000000 for 9000
+ 24996 strings out of 493029
+ 432336 string characters out of 6136234
+ 495866 words of memory out of 5000000
+ 27853 multiletter control sequences out of 15000+600000
+ 14612 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,54p,1094b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/us
@@ -2419,7 +2413,7 @@ e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on index.pdf (140 pages, 7087946 bytes).
+Output written on index.pdf (140 pages, 7071594 bytes).
 PDF statistics:
  847 PDF objects out of 1000 (max. 8388607)
  693 compressed objects within 7 object streams
