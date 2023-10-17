@@ -471,7 +471,7 @@
         },
         {
             "name": "Panos no rosto",
-            "words": 0,
+            "words": 2499,
             "motive": [
                 "Garoto desce para ver porque as pessoas estava criando levantes de mascaras",
                 "Encontra sua irmã Lúcia",
@@ -479,25 +479,25 @@
                 "Larissa percebe pelo olhar dele que era mesmo Crispim e pergunta porque ele estava fazendo isso",
                 "Crispim estava acompanhando Larissa para garantir que apesar de querer que todo aquele caos acontecesse não queria que ela se ferisse",
                 "O garoto fala pra Crispim voltar à sua forma normal e quando isso acontece Pedro que vinha ao longe pensa que é uma ameaça e lança uma grande pedra que atinge Crispim em cheio no peito fazendo com que ele comece a agonizar e morrer",
-                "O capítulo termina com Larissa perdoando Crispim ele se arrependendo de tudo que fez ela passar e ela falando que vai impedir que tudo isso aconteça nem que seja a ultima coisa que ela faça"
+                "Larissa se descontrola e arde em chamas fazendo com que o garoto se distraia em acalma-la",
+                "Garçom pega Lúcia pelo pescoço o que faz com o que o garoto se descontrole e o exploda ",
+                "O capítulo termina com o garoto fugindo do local e se teleportando para longe"
             ],
             "comment": ["Modificar o capitulo que eles aparecem em NY para fazer com que um garotinho comece a seguir Larissa, assim quando o garoto descer ele percebe que era na verdade Crispim"],
             "characters": []
         },
         {
             "name": "A Princesa",
-            "words": 0,
-            "motive": [
-            ],
-            "comment": [""],
+            "words": 2546,
+            "motive": [],
+            "comment": [],
             "characters": []
         },
         {
-            "name": "Recomeço",
-            "words": 0,
-            "motive": [
-            ],
-            "comment": [""],
+            "name": "Final",
+            "words": 2220,
+            "motive": [],
+            "comment": [],
             "characters": []
         }
 

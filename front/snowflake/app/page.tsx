@@ -1,10 +1,14 @@
 import Image from 'next/image'
-import { Board } from './components/Board/board'
+import { Block } from './block'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-row items-left justify-between p-24">
-      <Board/>
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      Ola
+      <Block
+      name = {"Banana"}
+      shouldRender = {true}
+      />
     </main>
   )
 }
