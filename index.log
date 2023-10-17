@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  17 OCT 2023 12:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  17 OCT 2023 13:36
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
@@ -2278,26 +2279,26 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 47.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 47.
  [122
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
  [123]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 124.
  [124]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 160.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 160.
  [125])
 (./chapters/chapter43.tex
 Package babel Info: Redefining portuges shorthand "|
@@ -2315,51 +2316,56 @@ Package babel Info: Redefining portuges shorthand "|
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 79.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 79.
+(babel)             in language  on input line 86.
  [128]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 119.
  [129]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
- [130])
+(babel)             in language  on input line 147.
+ [130]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 183.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 183.
+ [131])
 (./chapters/chapter44.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [131]
+ [132]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
- [132
+ [133
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
- [133]
+ [134]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 93.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 93.
- [134]) (./chapters/nota_autor.tex
+ [135]) (./chapters/nota_autor.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[135]
+[136]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TOsF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 1.
 )
@@ -2367,7 +2373,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 66.
- [136
+ [137
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
@@ -2380,8 +2386,8 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 24986 strings out of 493029
- 432187 string characters out of 6136234
+ 24987 strings out of 493029
+ 432195 string characters out of 6136234
  494863 words of memory out of 5000000
  27851 multiletter control sequences out of 15000+600000
  14612 words of font info for 28 fonts, out of 8000000 for 9000
@@ -2393,10 +2399,10 @@ e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_ctsnwr.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on index.pdf (136 pages, 7056660 bytes).
+Output written on index.pdf (137 pages, 7059895 bytes).
 PDF statistics:
- 828 PDF objects out of 1000 (max. 8388607)
- 678 compressed objects within 7 object streams
- 183 named destinations out of 1000 (max. 500000)
+ 832 PDF objects out of 1000 (max. 8388607)
+ 681 compressed objects within 7 object streams
+ 184 named destinations out of 1000 (max. 500000)
  378 words of extra memory for PDF output out of 10000 (max. 10000000)
 
