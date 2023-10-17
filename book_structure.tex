@@ -1,0 +1,62 @@
+\documentclass{book}
+
+
+%----------------------------------------------------------------------------------------
+%	REQUIRED PACKAGES
+%----------------------------------------------------------------------------------------
+
+\usepackage[portuguese]{babel}
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+% \usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\usepackage[osf]{libertine} % Use the Libertine font
+% \usepackage{microtype} % Improves character and word spacing
+
+\usepackage{tikz} % Required for drawing custom shapes
+\definecolor[named]{color01}{rgb}{.2,.4,.6} % Color used in the title page
+\usepackage{wallpaper} % Required for setting background images (title page)
+
+\usepackage[unicode=true,bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]{hyperref} % PDF meta-information specification
+
+\usepackage{tikz}
+\usepackage{tikzpagenodes}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+
+\usepackage{lipsum} % Para gerar texto de exemplo
+
+\begin{document}
+
+\frontmatter
+
+\title{O livro da minha fantasia}
+\author{Seu nome}
+\date{2023}
+
+\maketitle
+
+\tableofcontents
+
+\mainmatter
+
+\chapter{O primeiro capítulo}
+
+\lipsum[1-20]
+
+\chapter{O segundo capítulo}
+
+\lipsum[21-40]
+
+\chapter{O terceiro capítulo}
+
+\lipsum[41-60]
+
+\backmatter
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}

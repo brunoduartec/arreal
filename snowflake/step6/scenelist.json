@@ -24,7 +24,7 @@
         {
             "name": "O cativeiro",
             "words": 2031,
-            "motive": "Crispim tenta despertar a mente do garoto colocando ele em uma situação inusitada e com muitas coisas fora da naturalidade",
+            "motive": ["Crispim tenta despertar a mente do garoto colocando ele em uma situação inusitada e com muitas coisas fora da naturalidade"],
             "comments":[
                 "Precisa apresentar Crispim",
                 "Criar uma imagem de Joana diferente de quem ela realmente é"],
@@ -49,7 +49,7 @@
         {
             "name": "Vim te buscar",
             "words": 1131,
-            "motive": "O garoto tenta resgatar Crispim do coma e percebe que ele o estava enganando e que existm as habilidades e ele também as tem",
+            "motive": ["O garoto tenta resgatar Crispim do coma e percebe que ele o estava enganando e que existm as habilidades e ele também as tem"],
             "characters": ["Garoto", "Crispim"]
         },
         {
@@ -62,42 +62,42 @@
         {
             "name": "Leve seu relogio",
             "words": 1006,
-            "motive": "Encontra com seu eu do futuro mas ainda não sabe, decide se meter em uma situação de medo de propósito para ver se desperta sua habilidade de novo",
+            "motive": ["Encontra com seu eu do futuro mas ainda não sabe, decide se meter em uma situação de medo de propósito para ver se desperta sua habilidade de novo"],
             "comment": "Um pouco enrolado, diálogos fracos, não tem um propósito direto",
             "characters": ["Garoto", "Lúcia"]
         },
         {
             "name": "A emboscada",
             "words": 1376,
-            "motive": "Tenta descobrir sobre suas habilidades indo a um beco mas encontra Larissa e os outros e com medo acaba ficando invisível",
+            "motive": ["Tenta descobrir sobre suas habilidades indo a um beco mas encontra Larissa e os outros e com medo acaba ficando invisível"],
             "comments": "O que eles estavam fazendo lá? Como sabiam que ele ia pra lá?",
             "characters": ["Garoto", "Joana", "Ítalo", "Larissa", "Pedro"]
         },
         {
             "name": "Tudo que parece é?",
             "words": 1149,
-            "motive": "MOstra como o garoto usa as habilidades como poderes e como isso faz com que as pessoas descubram e despertem",
+            "motive": ["Mostra como o garoto usa as habilidades como poderes e como isso faz com que as pessoas descubram e despertem"],
             "comment": "Interessante aqui mostrar como Lúcia ficou com a pulga atras de orelha com o irmão",
             "characters": ["Garoto", "Joana", "Lúcia", "Garçom"]
         },
         {
             "name": "Colateral",
             "words": 933,
-            "motive": "Conta história do jantar do garoto do ponto de vista de outra pessoa, que posteriormente desperta",
+            "motive": ["Conta história do jantar do garoto do ponto de vista de outra pessoa, que posteriormente desperta"],
             "comment": "Muito curto, poderia explorar um pouco mais a percepção que ela tem sobre o garoto e a situação e como ela achou estranho e concluiu sobre as habilidades",
             "characters": ["Garoto", "Helena"]
         },
         {
             "name": "Vestido Vermelho",
             "words": 1304,
-            "motive": "Conta como Helena usa as habilidades para se sentir melhor e termina morta no coreto",
+            "motive": ["Conta como Helena usa as habilidades para se sentir melhor e termina morta no coreto"],
             "comment": "No diálogo dar a entender quem era que estava falando e quem a matou",
             "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
         },
         {
             "name": "Mulher sem nome",
             "words": 1196,
-            "motive": "Trata a culpa e a responsabilidade de usar as habilidades e outras pessoas verem",
+            "motive": ["Trata a culpa e a responsabilidade de usar as habilidades e outras pessoas verem"],
             "comment": "Quem são os homens de preto?",
             "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
         },
@@ -105,49 +105,49 @@
         {
             "name": "Os três e a menina de fogo",
             "words": 1360,
-            "motive": "O garoto tem contato com outras pessoas com habilidades e a perseguição se torna mais real",
+            "motive": ["O garoto tem contato com outras pessoas com habilidades e a perseguição se torna mais real"],
             "comment": "A batalha é muito raza e não trato como as pessoas não viram ou se viram quem viu",
             "characters": ["Garoto", "Helena", "Garçom", "Pedro", "Larissa", "Jonas", "Ítalo"]
         },
         {
             "name": "O vilarejo encantado",
             "words": 1225,
-            "motive": "O garoto conhece a anciâ que mostra pra ele que ele precisa exercitar mais a sua criatividade e duvidar menos das coisas. Começa um ataque ao vilarejo",
+            "motive": ["O garoto conhece a anciâ que mostra pra ele que ele precisa exercitar mais a sua criatividade e duvidar menos das coisas. Começa um ataque ao vilarejo"],
             "comment": "Porque Crispim falou para o garoto sair dali? Ele o estava ajudando?",
             "characters": ["Garoto", "Crispim"]
         },
         {
             "name": "A culpa",
             "words": 1299,
-            "motive": "Motra como as habilidades podem trazer o mal, mostra a menina morta nas mãos da anciã",
+            "motive": ["Motra como as habilidades podem trazer o mal, mostra a menina morta nas mãos da anciã"],
             "comment": "Dá facilmente pra juntar com o vilarejo encantado",
             "characters": ["Garoto", "Larissa", "Pedro"]
         },
         {
             "name": "O telecinético",
             "words": 1234,
-            "motive": "Contar a história de Pedro",
+            "motive": ["Contar a história de Pedro"],
             "comment": "Preciso no começo dar a entender que o garoto estava vendo tudo e logo a história é contada com ele como observador",
             "characters": ["Pedro", "Larissa"]
         },
         {
             "name": "Larissa",
             "words": 1022,
-            "motive": "Contar a história de Larissa e sua conexão com Crispim",
+            "motive": ["Contar a história de Larissa e sua conexão com Crispim"],
             "comment": "Abordar mais a relação dos dois",
             "characters": ["Larissa", "Pedro"]
         },
         {
             "name": "Crispim",
             "words": 1034,
-            "motive": "Construir Crispim como alguém que sofreu na vida e tem os motivos para se portar como se porta. Apresentar para Larissa as habilidades e mostrar como algumas pessoas lidariam com ceticismo",
+            "motive": ["Construir Crispim como alguém que sofreu na vida e tem os motivos para se portar como se porta. Apresentar para Larissa as habilidades e mostrar como algumas pessoas lidariam com ceticismo"],
             "comment": "",
             "characters": ["Crispim", "Larissa"]
         },
         {
             "name": "Unindo forças",
             "words": 1191,
-            "motive": "Mostrar o momento que todos eles se uniram e como Crispim sempre os controlava",
+            "motive": ["Mostrar o momento que todos eles se uniram e como Crispim sempre os controlava"],
             "comment": "Pode facilmente ser junto com o capítulo Crispim",
             "characters": ["Crispim", "Larissa"]
         },
@@ -165,7 +165,7 @@
         {
             "name": "A busca",
             "words": 693,
-            "motive": "Mostra ele descobrindo que existem várias habilidades e que todos podem ter todas",
+            "motive": ["Mostra ele descobrindo que existem várias habilidades e que todos podem ter todas"],
             "comment": ["Muito raso e explicito, poderia ter alguma experiência que ele passa e descobre isso e não só falando",
                 "pode ser unido com o capitulo Desdobrado",
                 "Não falar que está em espírito porque não quero que seja um livro espírita, falar que estou fora do corpo"
@@ -470,7 +470,7 @@
             "characters": ["Larissa", "Pedro"]
         },
         {
-            "name": "",
+            "name": "Panos no rosto",
             "words": 0,
             "motive": [
                 "Garoto desce para ver porque as pessoas estava criando levantes de mascaras",
@@ -485,17 +485,19 @@
             "characters": []
         },
         {
-            "name": "",
+            "name": "A Princesa",
             "words": 0,
-            "motive": [],
-            "comment": [],
+            "motive": [
+            ],
+            "comment": [""],
             "characters": []
         },
         {
-            "name": "",
+            "name": "Recomeço",
             "words": 0,
-            "motive": [],
-            "comment": [],
+            "motive": [
+            ],
+            "comment": [""],
             "characters": []
         }
 
