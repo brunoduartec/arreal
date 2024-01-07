@@ -1,21 +1,22 @@
 {
     "BASIC": {
         "Name": "Joana Gonçalves",
-        "Age": "30",
+        "Age": "23",
         "Place of birth": "",
         "Sign": "",
         "Current location": "",
         "Nationality": "",
-        "Education": "",
+        "Education": "Superior incompleto",
         "Occupation": "",
         "Income": ""
     },
-    "PHYSICAL APPEARANCE": ["Morena"],
+    "PHYSICAL APPEARANCE": ["morena de pele clara, cabelo comprido e ondulado, seios fartos. Se veste com vestidos e roupas soltas coloridas. 1,55m 52kg"],
     "SPEECH AND COMMUNICATION": {
         "posture": ["submissa","vingativa"]
     },
     "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Quando pequena convivia com seu pai sempre ausente emocionalmente, ele a tratava sempre com formalismo por ser militar e não tratava sua mãe muito bem. Quanso sua mão Helena, faleceu sentiu seu pai ainda mais distante"
-    }
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Quando pequena convivia com seu pai sempre ausente emocionalmente, ele a tratava sempre com formalismo por ser militar e não tratava sua mãe muito bem. Quando sua mão Helena, faleceu sentiu seu pai ainda mais distante"
+    },
+    "Short Description":"Sempre quis ser arquiteta mas precisou abandonar seu sonho para cuidar de seu pai Crispim que alucinava e acabou por entrar em um coma de anos. Por ter que cuidar do seu pai e abandonar seus sonho acabou se tornando"
 
 }

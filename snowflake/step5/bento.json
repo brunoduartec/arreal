@@ -2,21 +2,18 @@
     "BASIC": {
         "Name": "Bento Dinis da Silva",
         "Age": "15",
-        "Place of birth": "",
-        "Sign": "",
+        "Place of birth": "cidade pequena",
+        "Sign": "Escorpião",
         "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+        "Education": "primeiro grau imcompleto",
+        "Occupation": "estudante",
+        "Income": "nenhum"
     },
-    "PHYSICAL APPEARANCE": "",
+    "PHYSICAL APPEARANCE": "homem, 1,75m, 85 kg. Loiro de pele clara, olhos verdes, cabelo curto, se veste com bermuda e tênis de skate. ",
     "SPEECH AND COMMUNICATION": {
-        "posture": "" // Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?,
-
+        "posture": ["egoísta","violência","ignorância", "inocência"]
     },
     "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Filho de pais separados de classe média alta. Desde pequeno teve tudo o que quis na vida e se envolveu em brigas por replicar nas ruas a violência psicológica que sentia em casa. Gosta das coisas certas à sua maneira e se zanga quando sente que algo está indo contra o tradicional. Costuma fazer as coisas de forma bastante passional e não pensando muito nas consequências"
     }
-
 }

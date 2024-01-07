@@ -1,16 +1,16 @@
 {
     "BASIC": {
         "Name": "Ítalo Santos",
-        "Age": "17",
+        "Age": "19",
         "Place of birth": "",
-        "Sign": "",
+        "Sign": "Libra",
         "Current location": "",
         "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+        "Education": "Segundo grau imcompleto",
+        "Occupation": "Estudante",
+        "Income": "Estudante"
     },
-    "PHYSICAL APPEARANCE": "",
+    "PHYSICAL APPEARANCE": "Negro, cabelo curto, se veste com calça jeans e camiseta de flanela por cima de uma camisa preta.",
     "SPEECH AND COMMUNICATION": {
         "posture": [
             "Amável",
@@ -19,7 +19,7 @@
 
     },
     "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Sempre viveu uma vida religiosa, criado por seus pais que o reprimiam muito fazendo com que ele falasse pouco por medo de ser repreendido. Crispim sempre percebia como ele era reprimido e um tanto sucetível a se revoltar e portanto ter contato com seus sentimentos mais de agressividade, fazendo com que sua habilidade despertasse."
-    }
-
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Sempre viveu uma vida religiosa, criado por seus pais que o reprimiam muito fazendo com que ele falasse pouco por medo de ser repreendido. Seus pais eram militares e fanáticos da igreja evangélica o que fez com que a sua percepção da realidade fosse moldada pela visão de seus pais por muito tempo"
+    },
+    "Short Description": "Sempre reprimido e um tanto sucetível a se revoltar e portanto ter contato com seus sentimentos mais de agressividade, fazendo com que sua habilidade despertasse no sentimento de fugir de sua realidade.Por ter sofrido muito Bully é meio desgostoso da vida e não se empolga com nada mas é também muito prestativo e justo. Buscava sempre a imagem de messias e algo que o retirasse do sofrimento que tinha."
 }

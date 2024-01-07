@@ -3,20 +3,19 @@
         "Name": "Crispim Gonçalves",
         "Age": "70",
         "Place of birth": "Cidadezinha",
-        "Sign": "",
+        "Sign": "Capricórnio",
         "Current location": "",
         "Nationality": "",
         "Education": "Segundo grau completo",
         "Occupation": "Militar do exército",
-        "Income": ""
+        "Income": "Aposentado militar"
     },
     "PHYSICAL APPEARANCE": "Cabelos grandes e brancos, barba grande e branca, pele enrugada",
     "SPEECH AND COMMUNICATION": {
-        "posture": ["Rígida, sóbria,agressiva"]
-
+        "posture": ["Rígida", "sóbria","agressiva", "orgulho"]
     },
     "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Filho único, decidiu virar militar quando viu um anúncio e acho que fosse um caminho mais fácil do que estudar muitos anos e ir atrás de um emprego"
+        "What type of childhood did they have (sheltered, neglected, etc.)?": "Filho único, apanhava muito enquanto criança e precisava se esconder de seu pai que tinha problemas com bebida"
     },
-    "Short Description": "Militar medíocre nunca conseguiu subir de cargo e vivia vários anos na mesma patente o que fazia com que ele tivesse raiva da idéia de o poder ser dado a alguém que a seu ver não tinha direito"
+    "Short Description": "Decidiu virar militar quando viu um anúncio e achou que fosse um caminho mais fácil do que estudar muitos anos e ir atrás de um emprego. Militar medíocre nunca conseguiu subir de cargo e vivia vários anos na mesma patente o que fazia com que ele tivesse raiva da idéia de o poder ser dado a alguém que a seu ver não tinha direito. Casado com Helena em um casamento tradicional e de aparências que apresentava para seus companheiros militares. Teve uma filha fora do casamento (Larissa) mas nunca a reconheceu. Assim que Helena faleceu, começou a conviver com a mãe de Larissa e a falar para todos que ela era sua filha adotiva mas ainda mantinha a imagem de que era viuvo de Helena e convivendo com Joana."
 }
