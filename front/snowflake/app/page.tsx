@@ -9,9 +9,6 @@ export default function Home() {
       name = {"Banana"}
       shouldRender = {true}
       />
-      <Block/>
-      <Block/>
-      <Block/>
     </main>
   )
 }
