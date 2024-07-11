@@ -15,7 +15,8 @@
             ],
             "comments":[
                 "Aqui como é o capítulo inicial é importante gastar um tempo descrevendo e apresentando os personagens e mostrando o status quo do personagem no mundo real",
-                "Deixar no ar que ele viu mas depois ficou procurando e não achava nada"
+                "Deixar no ar que ele viu mas depois ficou procurando e não achava nada",
+                "Explorar mais a sensação de inadequação"
             ],
             "characters": ["Garoto", "Lúcia", "Jonas", "Ítalo", "Larissa", "Pedro", "Crispim"],
             "conflict":"",
@@ -27,7 +28,10 @@
             "motive": ["Crispim tenta despertar a mente do garoto colocando ele em uma situação inusitada e com muitas coisas fora da naturalidade"],
             "comments":[
                 "Precisa apresentar Crispim",
-                "Criar uma imagem de Joana diferente de quem ela realmente é"],
+                "Criar uma imagem de Joana diferente de quem ela realmente é",
+                "Construir mais a relação do garoto e Lúcia",
+                "Falar um pouco mais como o garoto se sentiu sabendo que sua mãe morreu"
+            ],
             "characters": ["Garoto", "Crispim", "Joana"],
             "status": "revisado"
         },
@@ -49,14 +53,18 @@
         {
             "name": "Vim te buscar",
             "words": 1131,
-            "motive": ["O garoto tenta resgatar Crispim do coma e percebe que ele o estava enganando e que existm as habilidades e ele também as tem"],
+            "motive": ["O garoto tenta resgatar Crispim do coma e percebe que ele o estava enganando e que existm as habilidades e ele também as tem",
+            "Explorar mais vulnerabilidades de Crispin",
+            "Falar do termo despertos",
+            ""
+        ],
             "characters": ["Garoto", "Crispim"]
         },
         {
             "name": "E agora ? Em que eu devo acreditar ?",
             "words": 1002,
             "motive": "O garoto volta na casa para entender e aceitar um pouco que o que passou foi real",
-            "comment": "Talvez nao seja necessario esse capitulo",
+            "comment": ["Talvez nao seja necessario esse capitulo","Construir mais a relação de Joana com o garoto", "Construir mais a relação com Lúcia"],
             "characters": ["Garoto", "Joana"]
         },
         {
@@ -77,37 +85,34 @@
             "name": "Tudo que parece é?",
             "words": 1149,
             "motive": ["Mostra como o garoto usa as habilidades como poderes e como isso faz com que as pessoas descubram e despertem"],
-            "comment": "Interessante aqui mostrar como Lúcia ficou com a pulga atras de orelha com o irmão",
+            "comment": ["Interessante aqui mostrar como Lúcia ficou com a pulga atras de orelha com o irmão",
+            "Ambientar mais o beco onde ele foi",
+            "Descrever mais o restaurante",
+            "Enfatizar mais como a mulher e o garçom notaram"
+
+        ],
             "characters": ["Garoto", "Joana", "Lúcia", "Garçom"]
         },
         {
             "name": "Colateral",
             "words": 933,
             "motive": ["Conta história do jantar do garoto do ponto de vista de outra pessoa, que posteriormente desperta"],
-            "comment": "Muito curto, poderia explorar um pouco mais a percepção que ela tem sobre o garoto e a situação e como ela achou estranho e concluiu sobre as habilidades",
+            "comment": ["Muito curto, poderia explorar um pouco mais a percepção que ela tem sobre o garoto e a situação e como ela achou estranho e concluiu sobre as habilidades","Trabalhar mais o temperamento do garçom"],
             "characters": ["Garoto", "Helena"]
         },
         {
             "name": "Vestido Vermelho",
             "words": 1304,
             "motive": ["Conta como Helena usa as habilidades para se sentir melhor e termina morta no coreto"],
-            "comment": "No diálogo dar a entender quem era que estava falando e quem a matou",
-            "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
+            "comment": ["No diálogo dar a entender quem era que estava falando e quem a matou","Dar mais claresa de que foi o garçom que matou ela","Esse grupo de terno preto nao tem mais na historia?","Adicionar mais drama na morte dela", "Trazer mais o propósito de Cripin nesse capítulo","Construir mais Larissa, Pedro, Ítalo e o garçom com dialogos", "Ítalo participou dessa morte?"],
+            "characters": ["Garoto", "Helena", "Garçom", "Pedro", "Larissa"]
         },
         {
             "name": "Mulher sem nome",
             "words": 1196,
             "motive": ["Trata a culpa e a responsabilidade de usar as habilidades e outras pessoas verem"],
-            "comment": "Quem são os homens de preto?",
+            "comment": ["Quem são os homens de preto?", "Descrever mais seus sentimentos"],
             "characters": ["Garoto", "Helena", "Garçom", "Pedro"]
-        },
-
-        {
-            "name": "Os três e a menina de fogo",
-            "words": 1360,
-            "motive": ["O garoto tem contato com outras pessoas com habilidades e a perseguição se torna mais real"],
-            "comment": "A batalha é muito raza e não trato como as pessoas não viram ou se viram quem viu",
-            "characters": ["Garoto", "Helena", "Garçom", "Pedro", "Larissa", "Jonas", "Ítalo"]
         },
         {
             "name": "O vilarejo encantado",
@@ -489,14 +494,21 @@
         {
             "name": "A Princesa",
             "words": 2546,
-            "motive": [],
+            "motive": [
+                "Garoto volta no tempo para uma época medieval que todos do vilarejo tem habilidates",
+                "Princesa se questiona sobre porque as pessoas usavam pro mal",
+                "Princesa se mata e todos com duvidas param de ter habilidades"
+            ],
             "comment": [],
             "characters": []
         },
         {
             "name": "Final",
             "words": 2220,
-            "motive": [],
+            "motive": [
+                "Garoto volta para a linha principal do tempo",
+                "Garoto faz com que todos esqueçam de tudo"
+            ],
             "comment": [],
             "characters": []
         }

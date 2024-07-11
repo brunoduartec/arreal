@@ -10,7 +10,9 @@ export function ChaptersInfo() {
     let sceneId = 0;
     const listItems = scenes.map((s, k) => <ChapterInfo
         key={sceneId++}
-        info={s}
+        name={s.name}
+        words= {s.word}
+    
     />);
 
     return (
