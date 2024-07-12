@@ -20,12 +20,11 @@
 %----------------------------------------------------------------------------------------
 
 \usepackage[portuguese]{babel}
-
 \usepackage[utf8]{inputenc} % Required for inputting international characters
-% \usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
 
 \usepackage[osf]{libertine} % Use the Libertine font
-% \usepackage{microtype} % Improves character and word spacing
+\usepackage{microtype} % Improves character and word spacing
 
 \usepackage{tikz} % Required for drawing custom shapes
 \definecolor[named]{color01}{rgb}{.2,.4,.6} % Color used in the title page
@@ -38,7 +37,6 @@
 
 \newcommand{\useChapters}{true}
 
-
 %----------------------------------------------------------------------------------------
 %	PAPER, MARGIN AND HEADER/FOOTER SIZES
 %----------------------------------------------------------------------------------------
@@ -49,7 +47,10 @@
 \setulmarginsandblock{30pt}{36pt}{*} % Top/bottom margins
 \setheadfoot{14pt}{12pt} % Header/footer height
 \setheaderspaces{*}{8pt}{*} % Extra header space
- 
+
+% Ajuste de espaçamento entre linhas
+\linespread{1.5} % Ajuste o fator conforme necessário para obter aproximadamente 30 linhas por página
+
 %----------------------------------------------------------------------------------------
 %	FOOTNOTE CUSTOMIZATION
 %----------------------------------------------------------------------------------------

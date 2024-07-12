@@ -1,7 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1704288610 "structure.tex" "structure.pdf" "structure" 1704288610
+["pdflatex"] 1720745805 "structure.tex" "structure.pdf" "structure" 1720745804
   "/etc/texmf/web2c/texmf.cnf" 1516619203 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf" 1367878976 6605 2bd2937f1ce929b4a1367cc2d320364e ""
@@ -73,6 +74,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty" 1454284088 5619 b1e63522e111972696a4db609d2b915f ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu" 1454284088 2006 ed35f065eb949f203d1b6acd2bc1dcb8 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu" 1454284088 3183 76313d3584eba6cfdb7421aa6c69c2dd ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def" 1454284088 9927 925418b4e40d02671b4728df100ec5ef ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu" 1454284088 10900 d4e94223e6330199a3b8e8abe87fe6e1 ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty" 1454284088 16155 3b0b2cc7c05e0ccf8c3ce5da21d4bccb ""
   "/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def" 1454284088 7767 aa88823823f5e767d79ea1166ab1ae74 ""
@@ -99,6 +101,9 @@
   "/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty" 1425680843 11285 dbd4440be337fece041abdf4e6e17516 ""
   "/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls" 1436394781 403230 6bf76732fdcfa6fe50f636e34851879a ""
   "/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty" 1425680843 1325 61d651ec19190481219253f142256d58 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def" 1369617620 48788 102de9fe36ddc0fb46fd6734b1f3e8fb ""
+  "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg" 1369617620 23086 f25ab3218b2c6f172ac44dbf381961e1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty" 1369617620 68045 fe140a1fc105016163d67aadd9efe194 ""
   "/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty" 1177890616 3878 6aa7c08ff2621006e0603349e40a30a8 ""
   "/usr/share/texlive/texmf-dist/tex/latex/mweights/mweights.sty" 1374530784 3457 2eba631093db7bdf50a8ad7cfda3c77d ""
   "/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty" 1303254447 3834 707ef09f31d7d2ea47ba89974755dfe0 ""
@@ -126,7 +131,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1516619686 3859861 04e648992d7bca842dd49ac05fd782a7 ""
   "structure.aux" 1690852589 8 a94a2480d3289e625eea47cd1b285758 ""
-  "structure.tex" 1704284560 7908 7ec31894c0ce74c4454d3693f35b5d54 ""
+  "structure.tex" 1720745801 8047 4956c2f38a7e8d7ed6692f763fe20130 ""
   (generated)
-  "structure.pdf"
   "structure.log"
+  "structure.pdf"
