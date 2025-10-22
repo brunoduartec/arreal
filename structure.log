@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  12 JUL 2024 00:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  31 JUL 2024 23:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1363,17 +1363,42 @@ page
 Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
 \c@checkoddpage=\count176
 LaTeX Info: Redefining \checkoddpage on input line 25.
-)))
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count177
+)
+
+******************************************************
+Stock height and width: 640.187pt by 401.18402pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 640.187pt by 401.18402pt
+Text height and width: 574pt by 351pt
+Spine and edge margins: 25pt and 25pt
+Upper and lower margins: 30pt and 36.187pt
+Headheight and headsep: 14pt and 8pt
+Footskip: 12pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 11pt
+Sidecapsep and sidecapwidth: 7pt and 71pt
+Sidebarhsep and sidebarwidth: 7pt and 71pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 71pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
+******************************************************
+
+)
 ! Emergency stop.
 <*> structure.tex
                   
 Here is how much of TeX's memory you used:
- 24942 strings out of 493029
- 431904 string characters out of 6136234
- 531995 words of memory out of 5000000
- 28170 multiletter control sequences out of 15000+600000
+ 25242 strings out of 493029
+ 435425 string characters out of 6136234
+ 537534 words of memory out of 5000000
+ 28466 multiletter control sequences out of 15000+600000
  5001 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,1n,54p,464b,153s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,1n,54p,890b,153s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

@@ -35,6 +35,9 @@
 \usepackage{tikz}
 \usepackage{tikzpagenodes}
 
+\usepackage{pgffor} % Required for iterating through a list
+\usepackage{etoolbox} % Required for dynamically changing chapter titles
+
 \newcommand{\useChapters}{true}
 
 %----------------------------------------------------------------------------------------
@@ -66,14 +69,7 @@
 %----------------------------------------------------------------------------------------
 
 \makepagestyle{mio} % Define a new custom page style
-% \setlength{\headwidth}{\textwidth} % Header the same width as the text
-% \makeheadrule{mio}{\textwidth}{0.1mm} % Header rule height
-% \makeoddhead{mio}{\scriptsize{\theauthor\hskip.2cm\vrule\hskip.2cm\itshape{\thetitle}}}{}{} % Header specification
-\makeoddhead{mio}{}{}{\thepage} % Header specification
-% \makeoddfoot{mio}{}{\scriptsize {\thepage \quad \vrule \quad \thelastpage}}{} % Footer specification
-% \makeoddfoot{mio}{}{}{}
-% \makeoddfoot{plain}{}{\footnotesize {\thepage \quad \vrule \quad \thelastpage}}{} % Pages of chapters
-\pagestyle{mio} % Set the page style to the custom style defined above
+\pagestyle{empty} % Set the page style to empty to remove page numbers
 
 %----------------------------------------------------------------------------------------
 %	PART FORMAT
@@ -90,69 +86,73 @@
 
 \makechapterstyle{Tufte}{ % Define a new chapter style
 	\renewcommand{\chapterheadstart}{\null \vskip3.5\onelineskip} % Whitespace before the chapter starts
-	\renewcommand{\printchaptername}{\large\itshape\chaptername} % "Chapter" text font specification
-	\renewcommand{\printchapternum}{\LARGE\thechapter \\} % Chapter number font specification
-		\renewcommand{\afterchapternum}{} % Space between the chapter number and text
-		\renewcommand{\printchaptertitle}[1]{ % Chapter title font specification
-			\raggedright
-			\itshape\Huge{##1}}
-		\renewcommand{\afterchaptertitle}{
-			\vskip3.5\onelineskip
+	\renewcommand{\printchaptername}{} % Remove "Chapter" text
+	\renewcommand{\printchapternum}{} % Remove Chapter number
+	\renewcommand{\afterchapternum}{} % Space between the chapter number and text
+	\renewcommand{\printchaptertitle}[1]{ % Chapter title font specification
+		\raggedright
+		\itshape\Huge{##1}}
+	\renewcommand{\afterchaptertitle}{
+		\vskip3.5\onelineskip
 	}}
-	\chapterstyle{Tufte} % Set the chapter style to the custom style defined above
-				
-	%----------------------------------------------------------------------------------------
-	%	SECTION FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\setsecheadstyle{\sethangfrom{\noindent ##1}\raggedright\sffamily\itshape\Large} % Section title font specification
-	\setbeforesecskip{-.6\onelineskip} % Whitespace before the section
-	\setaftersecskip{.3\onelineskip} % Whitespace after the section
-				
-	%----------------------------------------------------------------------------------------
-	%	SUBSECTION FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\setsubsecheadstyle{\sethangfrom{\noindent  ##1}\raggedright\sffamily\large\itshape} % Subsection title font specification
-	\setbeforesubsecskip{-.5\onelineskip} % Whitespace before the subsection
-	\setaftersubsecskip{.2\onelineskip} % Whitespace after the subsection
-				
-	%----------------------------------------------------------------------------------------
-	%	SUBSUBSECTION FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\setsubsubsecheadstyle{\sethangfrom{\noindent ##1}\raggedright\sffamily\itshape} % Subsubsection title font specification
-	\setbeforesubsubsecskip{-.5\onelineskip} % Whitespace before the subsubsection
-	\setaftersubsubsecskip{.1\onelineskip} % Whitespace after the subsubsection
-				
-	%----------------------------------------------------------------------------------------
-	%	CAPTION FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\captiontitlefont{\itshape\footnotesize} % Caption font specification
-	\captionnamefont{\footnotesize} % "Caption" text font specification
-				
-	%----------------------------------------------------------------------------------------
-	%	QUOTATION ENVIRONMENT FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\renewenvironment{quotation}
-	{\par\leftskip=1em\vskip.5\onelineskip\em}
-	{\par\vskip.5\onelineskip}
-				
-	%----------------------------------------------------------------------------------------
-	%	QUOTE ENVIRONMENT FORMAT
-	%----------------------------------------------------------------------------------------
-				
-	\renewenvironment{quote}
-	{\list{}{\em\leftmargin=1em}\item[]}{\endlist\relax}
-				
-	%----------------------------------------------------------------------------------------
-	%	MISCELLANEOUS DOCUMENT SPECIFICATIONS
-	%----------------------------------------------------------------------------------------
-				
-	\setlength{\parindent}{1em} % Paragraph indentation
-				
-	\midsloppy % Fewer overfull lines - used in the memoir class and allows a setting somewhere between \fussy and \sloppy
-				
-	\checkandfixthelayout % Tell memoir to implement the above
+\chapterstyle{Tufte} % Set the chapter style to the custom style defined above
+
+%----------------------------------------------------------------------------------------
+%	SECTION FORMAT
+%----------------------------------------------------------------------------------------
+
+\setsecheadstyle{\sethangfrom{\noindent ##1}\raggedright\sffamily\itshape\Large} % Section title font specification
+\setbeforesecskip{-.6\onelineskip} % Whitespace before the section
+\setaftersecskip{.3\onelineskip} % Whitespace after the section
+
+%----------------------------------------------------------------------------------------
+%	SUBSECTION FORMAT
+%----------------------------------------------------------------------------------------
+
+\setsubsecheadstyle{\sethangfrom{\noindent  ##1}\raggedright\sffamily\large\itshape} % Subsection title font specification
+\setbeforesubsecskip{-.5\onelineskip} % Whitespace before the subsection
+\setaftersubsecskip{.2\onelineskip} % Whitespace after the subsection
+
+%----------------------------------------------------------------------------------------
+%	SUBSUBSECTION FORMAT
+%----------------------------------------------------------------------------------------
+
+\setsubsubsecheadstyle{\sethangfrom{\noindent ##1}\raggedright\sffamily\itshape} % Subsubsection title font specification
+\setbeforesubsubsecskip{-.5\onelineskip} % Whitespace before the subsubsection
+\setaftersubsubsecskip{.1\onelineskip} % Whitespace after the subsubsection
+
+%----------------------------------------------------------------------------------------
+%	CAPTION FORMAT
+%----------------------------------------------------------------------------------------
+
+\captiontitlefont{\itshape\footnotesize} % Caption font specification
+\captionnamefont{\footnotesize} % "Caption" text font specification
+
+%----------------------------------------------------------------------------------------
+%	QUOTATION ENVIRONMENT FORMAT
+%----------------------------------------------------------------------------------------
+
+\renewenvironment{quotation}
+{\par\leftskip=1em\vskip.5\onelineskip\em}
+{\par\vskip.5\onelineskip}
+
+%----------------------------------------------------------------------------------------
+%	QUOTE ENVIRONMENT FORMAT
+%----------------------------------------------------------------------------------------
+
+\renewenvironment{quote}
+{\list{}{\em\leftmargin=1em}\item[]}{\endlist\relax}
+
+%----------------------------------------------------------------------------------------
+%	MISCELLANEOUS DOCUMENT SPECIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\setlength{\parindent}{1em} % Paragraph indentation
+
+\midsloppy % Fewer overfull lines - used in the memoir class and allows a setting somewhere between \fussy and \sloppy
+
+\checkandfixthelayout % Tell memoir to implement the above
+
+% Desativa a numeração de página
+\aliaspagestyle{chapter}{empty}
+\aliaspagestyle{plain}{empty}
