@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  31 JUL 2024 23:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  29 OCT 2025 00:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1395,7 +1395,7 @@ Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 Here is how much of TeX's memory you used:
  25242 strings out of 493029
  435425 string characters out of 6136234
- 537534 words of memory out of 5000000
+ 537532 words of memory out of 5000000
  28466 multiletter control sequences out of 15000+600000
  5001 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
