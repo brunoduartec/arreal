@@ -145,7 +145,89 @@ Uma apresentação que prometa complexidade sem vender apenas espetáculo:
 
 Se a estrutura sustentar suas promessas, Marina será uma leitora capaz de defender o livro, formular teorias e recomendar sua ambição psicológica. Se a continuidade interromper repetidamente a experiência, ela reconhecerá o potencial da ideia, mas descreverá a obra como uma versão ainda não finalizada. Sua avaliação, portanto, funciona como teste de confiança narrativa e acabamento editorial.
 
-## 6. Públicos secundários
+## 6. Persona jovem orientada por vínculo e ritmo
+
+### Luana, 18 anos — a leitora que precisa sentir antes de teorizar
+
+Luana tem 18 anos, terminou recentemente o ensino médio e divide seu tempo entre faculdade, redes sociais, séries, jogos narrativos e leitura. Descobre a maior parte dos livros por vídeos curtos, recomendações de amigos e trechos compartilhados. Lê fantasia jovem adulta, suspense sobrenatural e histórias com grupos de personagens marcados por amizade, conflito e pertencimento.
+
+Ela se interessa imediatamente pela ideia de habilidades ligadas a emoções, porque gosta de reconhecer medos e desejos reais dentro do fantástico. Não exige ação contínua, mas precisa criar vínculo com alguém e sentir que as consequências atingem relações que teve tempo de acompanhar. Mistérios funcionam quando aumentam sua curiosidade; lacunas emocionais fazem parecer que perdeu uma cena importante.
+
+#### Hábitos e preferências
+
+- lê principalmente pelo celular ou em e-book e costuma avançar vários capítulos de uma vez;
+- decide rapidamente se uma abertura tem voz, conflito e uma personagem com quem possa se importar;
+- gosta de capítulos curtos, diálogos marcantes e ganchos claros;
+- compartilha reações emocionais e teorias durante a leitura;
+- aceita linguagem informal e mudanças de perspectiva quando sabe quem está vivendo a cena;
+- perde o ritmo quando uma explicação interrompe um conflito ou quando uma relação muda sem preparação.
+
+#### Desejos como leitora
+
+- torcer por amizades e relações familiares imperfeitas;
+- reconhecer ansiedade, insegurança e desejo de pertencimento sem transformar tudo em discurso;
+- surpreender-se com mortes e traições que tenham preparação e consequência;
+- imaginar qual habilidade teria e o que ela revelaria sobre si;
+- sentir que cada capítulo muda uma relação, uma escolha ou um perigo.
+
+#### Dores e objeções
+
+- abandona quando personagens novos são apresentados apenas para sofrer ou morrer;
+- confunde-se com mudanças de narrador sem separação visual;
+- perde o vínculo quando saltos temporais alteram relações sem mostrar a transformação;
+- não gosta de precisar reconstruir como as personagens chegaram a uma situação;
+- tolera menos capítulos que repetem acontecimentos já compreendidos.
+
+#### O que a convenceria a ler
+
+> Ele passou anos querendo desaparecer. Então descobriu que esse desejo podia torná-lo invisível — e que todas as pessoas escondiam uma habilidade nascida de seus medos, afetos e feridas. Agora, cada novo despertar aproxima seus amigos de uma verdade capaz de mudar o mundo.
+
+#### Reação esperada depois da leitura
+
+Luana pode se tornar uma divulgadora espontânea se criar vínculo com o Garoto, Lúcia, Ítalo e os demais despertos. Seu teste revela se a narrativa oferece tempo suficiente para que acontecimentos graves sejam sentidos, e não apenas compreendidos.
+
+## 7. Persona adulta orientada por regras e causalidade
+
+### Eduardo, 41 anos — o leitor que monta o mecanismo da história
+
+Eduardo tem 41 anos, trabalha com tecnologia e lê fantasia, ficção científica e suspense há mais de duas décadas. Gosta de paradoxos temporais, narradores não confiáveis e sistemas sobrenaturais incompletos, desde que consiga formular hipóteses e comparar cada revelação com o que já foi estabelecido.
+
+Ele não precisa de regras matemáticas nem exige explicações imediatas. Sua diversão está em montar o mecanismo da história: identificar limites, causas, custos e exceções. Aceita reler uma passagem complexa quando percebe ganho de sentido, mas perde confiança diante de contradições factuais que o texto não reconhece.
+
+#### Hábitos e preferências
+
+- lê romances longos e costuma terminar obras ambiciosas mesmo após tropeços pontuais;
+- anota nomes, datas, capacidades e relações quando a trama envolve tempo ou múltiplas perspectivas;
+- prefere pistas verificáveis a explicações retrospectivas sem preparação;
+- aceita ritmo lento quando uma ideia está sendo aprofundada;
+- distingue uma personagem equivocada de uma regra contradita pela própria narração;
+- consegue saltar uma repetição editorial se o enigma principal continuar forte.
+
+#### Desejos como leitor
+
+- compreender como crença, emoção e corpo interagem nas habilidades;
+- ver paradoxos temporais produzirem consequências inevitáveis ou reveladoras;
+- acompanhar personagens que usem as mesmas regras de maneiras diferentes;
+- receber respostas que reorganizem pistas anteriores;
+- chegar ao desfecho capaz de reconstruir a cadeia de causas.
+
+#### Dores e objeções
+
+- nomes ou objetos que mudam sem explicação interrompem sua leitura analítica;
+- poderes convenientes sem custo ou preparação reduzem a tensão;
+- mudanças de corpo, aparência ou perspectiva precisam ser sinalizadas;
+- uma regra pode ser flexível, mas não pode desaparecer apenas para resolver uma cena;
+- perde a confiança quando duas afirmações factuais incompatíveis aparecem no mesmo capítulo.
+
+#### O que o convenceria a ler
+
+> Se qualquer pessoa pode fazer o impossível ao acreditar, quem controla os limites do real? Entre consciências projetadas, futuros em guerra e habilidades que atravessam o tempo, um jovem tenta impedir uma catástrofe sem perceber que suas próprias escolhas podem ser a origem dela.
+
+#### Reação esperada depois da leitura
+
+Eduardo tende a perdoar irregularidades de ritmo quando o paradoxo central o recompensa. Se abandonar, será porque deixou de acreditar que as regras e a continuidade podem sustentar uma conclusão verificável.
+
+## 8. Públicos secundários
 
 ### Leitores adultos de fantasia urbana
 
@@ -159,7 +241,7 @@ Leitores menos ligados a super-heróis, mas atraídos pela ideia de que habilida
 
 Leitores que desejam cenários, relações e vozes brasileiras em gêneros muitas vezes associados a cidades estrangeiras. Arreal, a escola, o coreto, as relações familiares e o contraste posterior com Nova Iorque são elementos importantes para esse posicionamento.
 
-## 7. Público com menor afinidade
+## 9. Público com menor afinidade
 
 *Arreal* provavelmente terá menor aderência entre leitores que:
 
@@ -172,7 +254,7 @@ Leitores que desejam cenários, relações e vozes brasileiras em gêneros muita
 
 Esse grupo não deve determinar a identidade do livro, mas suas expectativas precisam ser administradas pela capa, sinopse e categorização corretas.
 
-## 8. Promessas de leitura
+## 10. Promessas de leitura
 
 A comunicação de *Arreal* deve priorizar quatro promessas:
 
@@ -181,7 +263,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 3. **Conflito moral:** descobrir o próprio poder não significa saber como utilizá-lo.
 4. **Escalada narrativa:** a história começa em uma pequena cidade brasileira e cresce até alcançar outras épocas, lugares e possibilidades de realidade.
 
-## 9. Cuidados de comunicação
+## 11. Cuidados de comunicação
 
 - Não classificar o livro apenas como uma aventura adolescente ou escolar.
 - Não prometer somente grandes batalhas de super-heróis.
@@ -190,7 +272,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - Usar a identidade brasileira como diferencial sem sugerir que toda a narrativa permanece em Arreal.
 - Evitar tratar as habilidades como um sistema mecânico; no livro, elas são fundamentalmente sensoriais e emocionais.
 
-## 10. Possíveis mensagens de divulgação
+## 12. Possíveis mensagens de divulgação
 
 - “O que você faria se descobrisse que sempre pôde fazer o impossível?”
 - “Toda habilidade nasce de alguma coisa que tentamos esconder.”
@@ -198,7 +280,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - “Todos podem despertar. Nem todos deveriam decidir pelo mundo.”
 - “Antes de salvar a humanidade, ele terá de descobrir se deseja salvá-la ou controlá-la.”
 
-## 11. Hipóteses para validação
+## 13. Hipóteses para validação
 
 Antes de fechar o posicionamento comercial, recomenda-se testar com leitores beta:
 
@@ -210,7 +292,7 @@ Antes de fechar o posicionamento comercial, recomenda-se testar com leitores bet
 - quais elementos podem ser mencionados na sinopse sem prejudicar as revelações;
 - se leitores fora do público habitual de super-heróis se interessam pela dimensão psicológica.
 
-## 12. Síntese editorial
+## 14. Síntese editorial
 
 O público de maior potencial para *Arreal* é formado por leitores jovens adultos e adultos jovens que cresceram imaginando ter superpoderes, mas hoje procuram histórias capazes de questionar essa fantasia. A persona central não deseja apenas descobrir quem é mais forte: deseja entender o que o poder revela sobre quem o possui.
 
