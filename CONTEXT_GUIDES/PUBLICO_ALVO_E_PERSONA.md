@@ -97,7 +97,55 @@ Uma apresentação que combine a fantasia dos poderes com o dilema moral:
 
 Caio provavelmente comentaria que começou esperando uma história de poderes e terminou pensando sobre identidade, culpa e controle. Poderia discutir se o Garoto salvou o mundo ou decidiu por todos, qual personagem utilizou melhor suas habilidades e se esquecer foi realmente uma solução.
 
-## 5. Públicos secundários
+## 5. Persona crítica de contraste
+
+### Marina, 32 anos — a leitora que cobra o preço da promessa
+
+Marina tem 32 anos, trabalha em uma área que exige leitura e análise e lê entre vinte e trinta livros por ano. Fantasia urbana, ficção científica, suspense psicológico e histórias de viagem no tempo estão entre seus gêneros preferidos. Ela cresceu com super-heróis, mas hoje escolhe livros que tratam o extraordinário com consequências humanas e coerência interna.
+
+Ela pertence ao público potencial de *Arreal*, porém representa sua parcela menos tolerante. Não exige explicações imediatas para todo mistério e gosta de montar teorias, desde que consiga distinguir uma pergunta intencional de uma informação ausente. Aceita cronologias fragmentadas, mudanças de narrador e regras sobrenaturais flexíveis, mas espera que o texto sinalize essas escolhas e preserve a confiança construída com o leitor.
+
+Marina lê com atenção à causalidade: quer compreender por que uma personagem tomou determinada decisão, como chegou a um lugar e o que mudou entre uma cena e outra. Quando encontra contradições de nomes, aparências, relações ou regras, não as ignora facilmente. Uma ocorrência isolada pode ser uma pista; várias ocorrências sem reconhecimento passam a parecer falta de acabamento.
+
+#### Hábitos e preferências
+
+- lê resenhas antes de comprar, mas evita textos com spoilers;
+- alterna lançamentos comerciais com obras independentes e dá oportunidade a autores brasileiros;
+- aprecia capítulos curtos quando cada um produz avanço, consequência ou mudança de perspectiva;
+- gosta de narradores não confiáveis, desde que a instabilidade seja deliberada e perceptível;
+- tolera uma abertura lenta se houver tensão, precisão e promessa clara;
+- costuma abandonar livros quando sente que está fazendo sozinho o trabalho de ligação que o texto deveria oferecer;
+- recomenda com entusiasmo obras que sustentam uma releitura e pune, em sua avaliação, erros que quebram a imersão.
+
+#### Desejos como leitora
+
+- descobrir regras e conexões antes ou junto dos personagens;
+- sentir que revelações posteriores recompensam detalhes anteriores;
+- acompanhar escolhas morais cujas consequências não sejam anuladas por conveniência;
+- encontrar personagens contraditórios, mas psicologicamente reconhecíveis;
+- confiar que repetições, lacunas e mudanças de voz têm uma função narrativa;
+- chegar ao final preparada para debater o desfecho, não para reconstruir acontecimentos básicos.
+
+#### Dores e objeções
+
+- perde a confiança quando uma passagem parece faltar entre dois capítulos;
+- considera grave a repetição extensa de uma mesma cena sem novo ponto de vista ou informação;
+- confunde mistério com falha de revisão quando nomes, idades, aparências ou capacidades se contradizem sem reação do texto;
+- rejeita decisões importantes que surgem antes de a motivação emocional ter sido dramatizada;
+- cansa-se quando reflexões reiteram uma ideia sem modificar a situação ou aprofundar o conflito;
+- pode abandonar mesmo uma boa premissa se os erros de continuidade se acumularem.
+
+#### O que a convenceria a ler
+
+Uma apresentação que prometa complexidade sem vender apenas espetáculo:
+
+> Todos podem fazer o impossível. O problema é que cada habilidade nasce daquilo em que uma pessoa precisa acreditar — e espalhar essa descoberta pode ser mais perigoso do que escondê-la. Em uma cidade brasileira marcada por traumas, alianças e versões conflitantes da realidade, um jovem terá de decidir quem pode conhecer a verdade.
+
+#### Reação esperada depois da leitura
+
+Se a estrutura sustentar suas promessas, Marina será uma leitora capaz de defender o livro, formular teorias e recomendar sua ambição psicológica. Se a continuidade interromper repetidamente a experiência, ela reconhecerá o potencial da ideia, mas descreverá a obra como uma versão ainda não finalizada. Sua avaliação, portanto, funciona como teste de confiança narrativa e acabamento editorial.
+
+## 6. Públicos secundários
 
 ### Leitores adultos de fantasia urbana
 
@@ -111,7 +159,7 @@ Leitores menos ligados a super-heróis, mas atraídos pela ideia de que habilida
 
 Leitores que desejam cenários, relações e vozes brasileiras em gêneros muitas vezes associados a cidades estrangeiras. Arreal, a escola, o coreto, as relações familiares e o contraste posterior com Nova Iorque são elementos importantes para esse posicionamento.
 
-## 6. Público com menor afinidade
+## 7. Público com menor afinidade
 
 *Arreal* provavelmente terá menor aderência entre leitores que:
 
@@ -124,7 +172,7 @@ Leitores que desejam cenários, relações e vozes brasileiras em gêneros muita
 
 Esse grupo não deve determinar a identidade do livro, mas suas expectativas precisam ser administradas pela capa, sinopse e categorização corretas.
 
-## 7. Promessas de leitura
+## 8. Promessas de leitura
 
 A comunicação de *Arreal* deve priorizar quatro promessas:
 
@@ -133,7 +181,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 3. **Conflito moral:** descobrir o próprio poder não significa saber como utilizá-lo.
 4. **Escalada narrativa:** a história começa em uma pequena cidade brasileira e cresce até alcançar outras épocas, lugares e possibilidades de realidade.
 
-## 8. Cuidados de comunicação
+## 9. Cuidados de comunicação
 
 - Não classificar o livro apenas como uma aventura adolescente ou escolar.
 - Não prometer somente grandes batalhas de super-heróis.
@@ -142,7 +190,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - Usar a identidade brasileira como diferencial sem sugerir que toda a narrativa permanece em Arreal.
 - Evitar tratar as habilidades como um sistema mecânico; no livro, elas são fundamentalmente sensoriais e emocionais.
 
-## 9. Possíveis mensagens de divulgação
+## 10. Possíveis mensagens de divulgação
 
 - “O que você faria se descobrisse que sempre pôde fazer o impossível?”
 - “Toda habilidade nasce de alguma coisa que tentamos esconder.”
@@ -150,7 +198,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - “Todos podem despertar. Nem todos deveriam decidir pelo mundo.”
 - “Antes de salvar a humanidade, ele terá de descobrir se deseja salvá-la ou controlá-la.”
 
-## 10. Hipóteses para validação
+## 11. Hipóteses para validação
 
 Antes de fechar o posicionamento comercial, recomenda-se testar com leitores beta:
 
@@ -162,7 +210,7 @@ Antes de fechar o posicionamento comercial, recomenda-se testar com leitores bet
 - quais elementos podem ser mencionados na sinopse sem prejudicar as revelações;
 - se leitores fora do público habitual de super-heróis se interessam pela dimensão psicológica.
 
-## 11. Síntese editorial
+## 12. Síntese editorial
 
 O público de maior potencial para *Arreal* é formado por leitores jovens adultos e adultos jovens que cresceram imaginando ter superpoderes, mas hoje procuram histórias capazes de questionar essa fantasia. A persona central não deseja apenas descobrir quem é mais forte: deseja entender o que o poder revela sobre quem o possui.
 
