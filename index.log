@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  14 NOV 2025 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.22)  14 JUL 2026 10:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1533,26 +1533,26 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 60.
  [4]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 81.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 81.
+(babel)             in language  on input line 80.
  [5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 114.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 114.
+(babel)             in language  on input line 109.
  [6]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 137.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 141.
- [7])
-(./chapters/chapter1.tex
+(babel)             in language  on input line 137.
+ [7]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 163.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [8]
+(babel)             in language  on input line 163.
+
+[8]) (./chapters/chapter1.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
@@ -1654,449 +1654,459 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 33.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 33.
  [26
 
-])
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
+ [27]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+ [28]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+ [29])
 (./chapters/chapter7.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [27]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [28]
+ [30]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 50.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 50.
- [29
+ [31
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
- [30]) (./chapters/chapter8.tex
+ [32]) (./chapters/chapter8.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [31]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 4.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 40.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 40.
-
-[32
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 97.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 97.
  [33]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
+(babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
- [34]) (./chapters/chapter8-1.tex
+(babel)             in language  on input line 40.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 40.
+ [34
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 99.
+
+[35]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 168.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 168.
+ [36]) (./chapters/chapter8-1.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [35]
+ [37]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 20.
+(Font)              scaled to size 10.0pt on input line 13.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
- [36
+(babel)             in language  on input line 50.
+ [38
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 99.
+(babel)             in language  on input line 101.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 99.
- [37]
+(babel)             in language  on input line 101.
+ [39]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 160.
+(babel)             in language  on input line 158.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 160.
- [38])
+(babel)             in language  on input line 158.
+ [40])
 (./chapters/chapter9.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [39]
+ [41]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 28.
- [40
+ [42
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
- [41]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 60.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 60.
- [42]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 75.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 75.
+(babel)             in language  on input line 40.
  [43]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 60.
  [44]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
- [45])
+(babel)             in language  on input line 73.
+ [45]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 94.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 94.
+ [46]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 119.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 119.
+ [47])
 (./chapters/chapter10.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [46]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 40.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 40.
- [47
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
  [48]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
- [49]
+(babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 188.
+(babel)             in language  on input line 44.
+ [49
+
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 188.
- [50]) (./chapters/chapter11.tex
+(babel)             in language  on input line 89.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 89.
+ [50]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 138.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 138.
+ [51]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 189.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 189.
+ [52]) (./chapters/chapter11.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[51]
+[53]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 27.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 27.
- [52
+ [54
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 57.
- [53]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 105.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 105.
- [54]) (./chapters/chapter12.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [55]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 105.
+ [56]) (./chapters/chapter12.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [57]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [56]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
- [57
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
  [58]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 41.
+ [59
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 85.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 85.
+ [60]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 122.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 122.
- [59]
+ [61]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 154.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 154.
 
-[60]
+[62]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 195.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 195.
- [61]) (./chapters/chapter13.tex
+ [63]) (./chapters/chapter13.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [62]
+ [64]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 36.
- [63
+ [65
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 90.
- [64]
+ [66]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 147.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 147.
- [65])
+ [67])
 (./chapters/chapter14.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [66]
+ [68]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 59.
- [67
+(babel)             in language  on input line 54.
+ [69
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 114.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 114.
- [68]) (./chapters/chapter15.tex
+(babel)             in language  on input line 110.
+ [70]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [69]
+(babel)             in language  on input line 173.
+ [71]) (./chapters/chapter15.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[70]
+[72]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 51.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 51.
- [71
+ [73
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
- [72]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
- [73]) (./chapters/chapter16.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [74]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 172.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 172.
+ [75]) (./chapters/chapter16.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [76]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
- [75
+(babel)             in language  on input line 44.
+ [77
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 93.
- [76])
+(babel)             in language  on input line 96.
+ [78])
 (./chapters/chapter17.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [77]
+ [79]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 26.
- [78
+ [80
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 60.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 60.
- [79]
+ [81]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 112.
- [80]) (./chapters/chapter18.tex
+ [82]) (./chapters/chapter18.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[81]
+[83]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
- [82
+ [84
 
 ]) (./chapters/chapter19.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [83]
+ [85]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
- [84
+ [86
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 101.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 101.
- [85]) (./chapters/chapter20.tex
+ [87]) (./chapters/chapter20.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[86]
+[88]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
- [87
+ [89
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 76.
- [88]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
- [89]) (./chapters/chapter21.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [90]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+ [91]) (./chapters/chapter21.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [92]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 28.
- [91
+ [93
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 70.
- [92]
+ [94]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 110.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 110.
- [93])
+ [95])
 (./chapters/chapter22.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [94]
+ [96]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 47.
- [95
+ [97
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 98.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 98.
- [96]) (./chapters/chapter23.tex
+ [98]) (./chapters/chapter23.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [97]
+ [99]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
@@ -2104,394 +2114,399 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 48.
 
-[98
+[100
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 100.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 100.
- [99]) (./chapters/chapter24.tex
+ [101]) (./chapters/chapter24.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [100]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 50.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 50.
- [101
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 109.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 109.
  [102]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
+(babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
- [103])
+(babel)             in language  on input line 54.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 54.
+ [103
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 111.
+ [104]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 162.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 162.
+ [105])
 (./chapters/chapter25.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [104]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 35.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 35.
- [105
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 74.
  [106]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 35.
+ [107
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 74.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 74.
+ [108]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 142.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 142.
- [107]) (./chapters/chapter26.tex
+ [109]) (./chapters/chapter26.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[108]
+[110]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 49.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 49.
- [109
+ [111
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 104.
- [110]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 171.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 171.
- [111]) (./chapters/chapter27.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [112]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 171.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 171.
+ [113]) (./chapters/chapter27.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [114]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
- [113
+(babel)             in language  on input line 44.
+ [115
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 92.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 92.
- [114]
+ [116]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+ [117]
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 132.
+(Font)              <7> on input line 138.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 132.
+(Font)              <5> on input line 138.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 138.
+(babel)             in language  on input line 185.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 138.
- [115]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
- [116]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
-
-[117]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 289.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 185.
  [118]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 334.
+(babel)             in language  on input line 232.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 334.
- [119]) (./chapters/chapter28.tex
+(babel)             in language  on input line 232.
+ [119]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 292.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 292.
+
+[120]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 335.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 335.
+ [121]) (./chapters/chapter28.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [120]
+ [122]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 46.
- [121
+ [123
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 94.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 94.
- [122]
+ [124]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 143.
- [123])
+ [125])
 (./chapters/chapter29.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [124]
+ [126]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
- [125
+ [127
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
- [126]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 131.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 131.
- [127]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 181.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 181.
  [128]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 131.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 131.
  [129]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
+(babel)             in language  on input line 181.
  [130]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 310.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 310.
+(babel)             in language  on input line 225.
  [131]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 349.
+(babel)             in language  on input line 268.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 349.
-
-[132]) (./chapters/chapter30.tex
+(babel)             in language  on input line 268.
+ [132]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 309.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 309.
  [133]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 350.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 350.
+
+[134]) (./chapters/chapter30.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [135]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
- [134
+ [136
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
- [135]) (./chapters/chapter31.tex
+ [137]) (./chapters/chapter31.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[136]
+[138]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
- [137
+ [139
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 86.
- [138]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
- [139]) (./chapters/chapter32.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [140]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 143.
+ [141]) (./chapters/chapter32.tex
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [141]
+ [142]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [143]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
- [142
+ [144
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 74.
- [143]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 130.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 130.
-
-[144]) (./chapters/chapter33.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
  [145]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+
+[146]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 178.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 178.
+ [147]) (./chapters/chapter33.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [148]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 42.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 42.
- [146
+ [149
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
- [147]
+ [150]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 153.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 153.
- [148])
+ [151])
 (./chapters/chapter34.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [149]
+ [152]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
- [150
+ [153
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 93.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 93.
- [151]
+ [154]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
- [152]) (./chapters/chapter35.tex
+(babel)             in language  on input line 149.
+ [155]) (./chapters/chapter35.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[153]
+[156]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
- [154
+ [157
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 132.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 132.
- [155]
+ [158]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 196.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 196.
- [156]) (./chapters/chapter36.tex
+ [159]) (./chapters/chapter36.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [157]
+ [160]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 20.
- [158
+ [161
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 39.
- [159]
+ [162]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 63.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 63.
- [160])
+ [163])
 (./chapters/chapter37.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [161]
+ [164]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TOsF o
@@ -2512,354 +2527,364 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 37.
 
-[162
+[165
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 68.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 68.
- [163]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 103.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 103.
- [164]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 148.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 148.
- [165]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 188.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 188.
  [166]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
+(babel)             in language  on input line 103.
  [167]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 273.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 273.
- [168]) (./chapters/chapter38.tex
+(babel)             in language  on input line 148.
+ [168]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 188.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 188.
  [169]
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 231.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 231.
+ [170]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 273.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 273.
+ [171]) (./chapters/chapter38.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [172]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 23.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 23.
 
-[170
+[173
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 46.
- [171]
+ [174]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 67.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 67.
- [172]) (./chapters/chapter39.tex
+ [175]) (./chapters/chapter39.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [173]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 30.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 30.
- [174
-
-]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 63.
- [175]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 97.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 97.
  [176]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
- [177]
+(babel)             in language  on input line 30.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 30.
+ [177
 
-[178]
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 217.
- [179]) (./chapters/chapter40.tex
+(babel)             in language  on input line 63.
+ [178]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 97.
+ [179]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
  [180]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 31.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 31.
- [181
+(babel)             in language  on input line 177.
 
-]
+[181]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
- [182]
+(babel)             in language  on input line 217.
+ [182]) (./chapters/chapter40.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 104.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 104.
+(babel)             in language  on input line 1.
  [183]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
- [184]
+(babel)             in language  on input line 31.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 31.
+ [184
+
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 67.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
  [185]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 225.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 225.
-
-[186]) (./chapters/chapter41.tex
+(babel)             in language  on input line 104.
+ [186]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 137.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 137.
  [187]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 182.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 182.
+ [188]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 34.
- [188
+(babel)             in language  on input line 225.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 225.
 
-]
+[189]) (./chapters/chapter41.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 69.
- [189]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 1.
  [190]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 137.
- [191]
+(babel)             in language  on input line 38.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 38.
+ [191
+
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 75.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 75.
  [192]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 108.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 108.
  [193]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 246.
-
-[194]) (./chapters/chapter42.tex
+(babel)             in language  on input line 142.
+ [194]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 179.
  [195]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 217.
+ [196]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 19.
- [196
+(babel)             in language  on input line 257.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 257.
 
-]
+[197]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 291.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 39.
- [197]
+(babel)             in language  on input line 291.
+ [198]) (./chapters/chapter42.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
- [198]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 1.
  [199]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 115.
- [200]
+(babel)             in language  on input line 19.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 19.
+ [200
+
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 39.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 39.
  [201]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
-
-[202]
+(babel)             in language  on input line 67.
+ [202]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
- [203]) (./chapters/chapter43.tex
+(babel)             in language  on input line 91.
+ [203]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 115.
  [204]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
- [205
+(babel)             in language  on input line 143.
 
-]
+[205]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 167.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 167.
  [206]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
- [207]
+(babel)             in language  on input line 198.
+ [207]) (./chapters/chapter43.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 98.
+(babel)             in language  on input line 1.
  [208]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 113.
- [209]
+(babel)             in language  on input line 21.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 21.
+ [209
 
-[210]
+]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
+(babel)             in language  on input line 43.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
+(babel)             in language  on input line 43.
+ [210]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 64.
  [211]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 92.
  [212]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 119.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
- [213]) (./chapters/chapter44.tex
+(babel)             in language  on input line 119.
+
+[213]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 142.
  [214]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 159.
+ [215]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 23.
- [215
-
-]
+(babel)             in language  on input line 181.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 181.
  [216]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 205.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 87.
- [217]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 129.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 129.
-
-[218]) (./chapters/chapter45.tex
+(babel)             in language  on input line 205.
+ [217]) (./chapters/chapter44.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [219]
+ [218]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 31.
- [220
+(babel)             in language  on input line 23.
+ [219
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 72.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 72.
- [221])
+(babel)             in language  on input line 49.
+ [220]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 90.
- [222]
-(./chapters/habilidades.tex
+(babel)             in language  on input line 81.
+
+[221]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 115.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 115.
+ [222]) (./chapters/chapter45.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
  [223]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [224]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+ [225
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 74.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 74.
+ [226]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 106.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 106.
+ [227])
+(./chapters/habilidades.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [228]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TOsF on 
@@ -2884,33 +2909,33 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TOsF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TOsF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 21.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 43.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 43.
 
-[224
+[229
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 93.
+(babel)             in language  on input line 89.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 93.
- [225]
+(babel)             in language  on input line 89.
+ [230]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 141.
- [226]) (./chapters/nota_autor.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 132.
+ [231]) (./chapters/nota_autor.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
- [227])
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [232])
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 96.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 96.
- [228
+ [233
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
@@ -2919,17 +2944,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: ECF53F90822B71D64C7ACECB50D3BC9A;5445.
+(rerunfilecheck)             Checksum: CF3967B33804DB0CB4BC26EB6632109B;5501.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 27054 strings out of 493029
- 469741 string characters out of 6136234
+ 27065 strings out of 493029
+ 469943 string characters out of 6136234
  550838 words of memory out of 5000000
  29584 multiletter control sequences out of 15000+600000
- 68895 words of font info for 144 fonts, out of 8000000 for 9000
+ 69637 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,55p,976b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,13n,55p,976b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_mx3chd.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/shar
 e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_hj4mhx.enc}{/usr/share/texl
@@ -2940,10 +2965,10 @@ t/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on index.pdf (228 pages, 7243370 bytes).
+Output written on index.pdf (233 pages, 7255880 bytes).
 PDF statistics:
- 1291 PDF objects out of 1440 (max. 8388607)
- 1043 compressed objects within 11 object streams
- 307 named destinations out of 1000 (max. 500000)
+ 1312 PDF objects out of 1440 (max. 8388607)
+ 1059 compressed objects within 11 object streams
+ 312 named destinations out of 1000 (max. 500000)
  22402 words of extra memory for PDF output out of 24883 (max. 10000000)
 
