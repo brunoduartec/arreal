@@ -4,6 +4,22 @@ O projeto passou por uma revisora profissional que levantou os pontos abaixo.
 
 Os comentários foram transcritos integralmente do arquivo `Arreal_Editado.docx` e organizados por capítulo. Quando a observação estava inserida dentro de um parágrafo, o trecho correspondente foi mantido como contexto.
 
+## Ampliação dos leitores sintéticos — Diego, Teresa e Bianca
+
+Status de revisão: Revisado
+
+Mudanças: Criadas em `PUBLICO_ALVO_E_PERSONA.md` três personas complementares: Diego, orientado por ação, progressão e apelo comercial; Teresa, orientada por linguagem, subtexto e ambiguidade; e Bianca, orientada por relações LGBTQIA+, consentimento e intimidade dramatizada. As leituras sequenciais foram registradas em `REVISAO_PERSONA_DIEGO.md`, `REVISAO_PERSONA_TERESA.md` e `REVISAO_PERSONA_BIANCA.md`. Os três leitores chegaram ao capítulo 45 e aos materiais complementares. Diego quase interrompe nos capítulos 35 e 43 por perda de impulso; Teresa identifica o capítulo 43 como uma das passagens mais fortes, mas aponta excesso de explicação moral e recapitulação; Bianca confirma que Larissa conhece Lúcia aos dezoito anos, que não há romance durante a crise e que a relação é confirmada apenas cinco anos depois, aos vinte e três, embora considere pouco dramatizada a passagem da parceria para o amor. Nenhuma alteração foi feita no manuscrito nesta etapa.
+
+---
+
+## Quinta leitura sintética — Aline
+
+Status de revisão: Revisado
+
+Mudanças: Criada em `PUBLICO_ALVO_E_PERSONA.md` a persona Aline, 29 anos, orientada por agência feminina, coerência emocional e construção de relações. A leitura sequencial foi registrada em `REVISAO_PERSONA_ALINE.md` e interrompida no capítulo 26, “Sacrifícios”. Aline não abandona por confusão, mas pelo acúmulo formado por Helena sequestrada e morta, Guaraciara morta fora de cena e Joana coagida, usada como refém e assassinada para produzir reações nos homens. Os capítulos posteriores não foram avaliados, conforme o protocolo dos leitores sintéticos. Nenhuma alteração foi feita no manuscrito nesta etapa.
+
+---
+
 ## Ajuste canônico — idade de Larissa
 
 Status de revisão: Revisado

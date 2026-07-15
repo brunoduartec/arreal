@@ -227,7 +227,168 @@ Ele não precisa de regras matemáticas nem exige explicações imediatas. Sua d
 
 Eduardo tende a perdoar irregularidades de ritmo quando o paradoxo central o recompensa. Se abandonar, será porque deixou de acreditar que as regras e a continuidade podem sustentar uma conclusão verificável.
 
-## 8. Públicos secundários
+## 8. Persona orientada por agência e coerência emocional
+
+### Aline, 29 anos — a leitora que precisa que as personagens existam além da dor
+
+Aline tem 29 anos, trabalha com comunicação e lê fantasia urbana, ficção especulativa psicológica e romances com personagens LGBTQIA+. Ela aceita mundos estranhos, habilidades pouco mecânicas e protagonistas moralmente falhos, desde que as relações sejam construídas por convivência e que cada personagem conserve desejos próprios para além da função que exerce no arco do protagonista.
+
+Seu olhar se concentra em agência e consequência emocional. Uma personagem pode errar, ferir, manipular ou morrer; o que Aline rejeita é perceber um padrão em que mulheres ganham voz apenas o tempo suficiente para sofrer e se transformar em culpa, motivação ou redenção de homens. Ela também observa diferenças de idade, consentimento, dependência e desequilíbrio de poder nas relações.
+
+#### Hábitos e preferências
+
+- lê de doze a dezoito livros por ano, principalmente em e-book;
+- alterna fantasia urbana, suspense psicológico e romances centrados em personagens;
+- aceita narrativas sombrias quando a violência produz consequências para quem a sofre, não apenas para quem observa;
+- gosta de mulheres contraditórias, ambiciosas, agressivas ou moralmente falhas;
+- interessa-se por relações LGBTQIA+ que tenham tempo, escolha e intimidade dramatizada;
+- tolera abstração e mudanças temporais melhor do que atalhos emocionais.
+
+#### Desejos como leitora
+
+- acompanhar personagens femininas com objetivos, escolhas e conflitos próprios;
+- ver trauma explicar uma decisão sem apagar responsabilidade;
+- perceber que mortes e violências não existem apenas para amadurecer o protagonista;
+- encontrar relações construídas por convivência, consentimento e transformação mútua;
+- poder se envolver com Larissa, Lúcia, Helena, Joana e Guaraciara como pessoas, não como funções narrativas.
+
+#### Dores e objeções
+
+- abandona quando mortes de mulheres se acumulam como gatilhos para arcos masculinos;
+- rejeita personagens femininas apresentadas apenas como mãe, irmã, filha, interesse amoroso ou vítima;
+- perde o vínculo quando uma relação é declarada antes de ser dramatizada;
+- considera diferenças de idade e poder parte da caracterização, não um detalhe que possa permanecer ambíguo;
+- não confunde uma mulher violenta com uma personagem sem agência: sua exigência é que ela escolha e responda pelo que faz.
+
+#### O que a convenceria a ler
+
+> Toda habilidade nasce de uma ferida, mas nenhuma ferida determina sozinha o que uma pessoa fará com o poder. Em Arreal, mulheres e homens despertam desejos capazes de alterar a realidade — e precisam responder pelas pessoas que escolhem se tornar.
+
+#### Reação esperada depois da leitura
+
+Aline pode defender a complexidade moral de Larissa e o vínculo com Lúcia se ambas mantiverem escolhas próprias e tempo de convivência. Seu teste revela se as mulheres de *Arreal* possuem trajetórias completas ou se suas perdas aparecem, repetidamente, como combustível emocional para personagens masculinos.
+
+## 9. Persona orientada por ação e progressão comercial
+
+### Diego, 27 anos — o leitor que precisa sentir a história avançar
+
+Diego tem 27 anos, trabalha com tecnologia, acompanha quadrinhos, animações, jogos narrativos e fantasia urbana. Ele se interessa imediatamente por histórias de pessoas comuns que despertam habilidades, mas sua permanência depende de uma sensação constante de progressão: cada conversa precisa alterar uma relação, revelar uma regra, preparar um confronto ou produzir uma escolha.
+
+Ele não exige ação ininterrupta. Aceita capítulos introspectivos e discussões morais quando elas transformam o que o personagem fará em seguida. Seu incômodo aparece quando a narrativa interrompe uma urgência já estabelecida para recapitular fatos, explicar uma ideia que a cena já demonstrou ou prolongar uma reflexão sem consequência imediata.
+
+#### Hábitos e preferências
+
+- lê de oito a doze livros por ano e consome muito mais histórias em quadrinhos, séries e jogos;
+- gosta de poderes imaginativos, equipes instáveis, rivalidades e confrontos com consequências;
+- aceita sistemas de habilidades flexíveis quando consegue compreender o que está em risco;
+- prefere capítulos que terminem com decisão, revelação, perigo ou mudança de objetivo;
+- tolera uma cronologia complexa se cada retorno ao passado recompensar sua atenção.
+
+#### Desejos como leitor
+
+- descobrir novas aplicações das habilidades sem perder o fio do conflito central;
+- acompanhar o crescimento do Garoto por decisões e fracassos, não apenas por reflexões;
+- sentir que os antagonistas pressionam ativamente a trama;
+- encontrar variedade entre ação física, investigação, estratégia e conflito emocional;
+- chegar ao clímax com todas as principais forças narrativas em movimento.
+
+#### Dores e objeções
+
+- perde o impulso diante de recapitulações extensas em momentos de urgência;
+- considera repetitiva uma discussão filosófica que não modifica a ação seguinte;
+- desconfia de longos desvios depois de um clímax aparente;
+- fica confuso quando transições de tempo ou espaço são reveladas muito depois da cena;
+- pode abandonar quando a promessa de confronto é adiada várias vezes seguidas.
+
+#### O que o convenceria a ler
+
+> Em Arreal, qualquer pessoa pode despertar uma habilidade — mas cada novo poder amplia uma guerra que já atravessa sonhos, memórias e futuros possíveis. Para impedir o fim do mundo, um jovem terá de descobrir se está perseguindo o inimigo ou se tornando a origem dele.
+
+#### Reação esperada depois da leitura
+
+Diego tende a chegar ao final se a escalada de poderes e revelações compensar as pausas reflexivas. Seu teste identifica onde uma cena ainda contém uma boa ideia, mas demora demais para convertê-la em movimento dramático.
+
+## 10. Persona orientada por linguagem, subtexto e ambiguidade
+
+### Teresa, 48 anos — a leitora que desconfia de toda moral explicada
+
+Teresa tem 48 anos, é professora de língua portuguesa e lê ficção literária, realismo fantástico e fantasia especulativa. Ela não procura um sistema de poderes impecavelmente técnico nem uma sequência contínua de batalhas. Procura uma linguagem com personalidade, imagens que permaneçam depois da leitura e conflitos morais que não sejam resolvidos por uma frase de efeito.
+
+Seu olhar se volta para a distância entre aquilo que o texto dramatiza e aquilo que o narrador explica. Teresa aceita abstração, fragmentação e ambiguidade, mas perde confiança quando o livro interpreta a própria cena pelo leitor, repete sua tese em formulações diferentes ou substitui subtexto por uma conclusão moral explícita.
+
+#### Hábitos e preferências
+
+- lê de vinte a trinta livros por ano, em papel e em e-book;
+- alterna literatura brasileira contemporânea, ficção psicológica e fantasia de ideias;
+- aprecia narradores imperfeitos e imagens simbólicas que admitem mais de uma leitura;
+- não se incomoda com capítulos lentos quando a linguagem ou a interioridade se aprofundam;
+- prefere diálogos em que os personagens não dizem tudo o que sabem ou sentem.
+
+#### Desejos como leitora
+
+- perceber que as imagens do relógio, da porta, do fogo e do vazio acumulam significado;
+- encontrar vozes narrativas distinguíveis sem caricatura;
+- acompanhar dilemas em que nenhuma resposta é inteiramente confortável;
+- receber espaço para interpretar a relação entre poder, desejo e responsabilidade;
+- sentir que o desfecho transforma as perguntas do início em vez de apenas respondê-las.
+
+#### Dores e objeções
+
+- rejeita aforismos acumulados quando todos apontam para a mesma tese;
+- perde o envolvimento quando um diálogo funciona apenas como explicação do universo;
+- percebe como excesso toda recapitulação que não modifica o sentido dos fatos;
+- considera frágil uma emoção anunciada antes que corpo, gesto ou escolha a revelem;
+- prefere uma contradição produtiva a uma moral final excessivamente fechada.
+
+#### O que a convenceria a ler
+
+> Um menino aprende que a realidade cede àquilo em que as pessoas acreditam. Anos depois, diante de um mundo deformado por desejos transformados em poder, ele precisa decidir se salvar alguém também pode significar apagá-lo.
+
+#### Reação esperada depois da leitura
+
+Teresa pode se tornar uma defensora do livro quando sua ambição filosófica emerge de cenas concretas. Seu teste separa a reflexão que amplia uma imagem da explicação que apenas repete o significado já produzido pela narrativa.
+
+## 11. Persona orientada por relações LGBTQIA+ e intimidade dramatizada
+
+### Bianca, 26 anos — a leitora que quer ver o vínculo acontecer
+
+Bianca tem 26 anos, trabalha com design e lê fantasia urbana, romance queer e ficção especulativa centrada em personagens. Ela não exige que uma relação afetiva domine a trama, mas se envolve quando proximidade, confiança e desejo surgem de escolhas observáveis, tempo compartilhado e reciprocidade.
+
+Seu olhar é diferente do de Aline: enquanto Aline testa a agência das personagens femininas no conjunto do livro, Bianca acompanha especificamente como os vínculos são construídos. Ela observa idade, consentimento, assimetria de poder e dependência, mas também quer saber se duas personagens tiveram espaço para se conhecer além da crise que as aproximou.
+
+#### Hábitos e preferências
+
+- lê de quinze a vinte livros por ano e participa de comunidades de fantasia e romance queer;
+- gosta de relações que começam por atrito, aliança ou amizade e mudam gradualmente;
+- aceita finais discretos e afetos sem rótulo quando o texto oferece intimidade suficiente;
+- valoriza gestos específicos, conversas privadas e pequenas decisões de cuidado;
+- diferencia química em situação de perigo de um relacionamento efetivamente construído.
+
+#### Desejos como leitora
+
+- compreender o que Larissa e Lúcia reconhecem uma na outra;
+- ver as duas escolherem a aproximação sem coerção ou dependência inevitável;
+- acompanhar a passagem entre parceria, amizade, desejo e compromisso;
+- encontrar confirmação etária clara quando ela é relevante para o consentimento;
+- chegar ao romance adulto sentindo que o beijo conclui uma trajetória, não a substitui.
+
+#### Dores e objeções
+
+- rejeita ambiguidade etária em relações com diferença de idade;
+- não considera convivência durante uma crise, sozinha, prova suficiente de intimidade romântica;
+- percebe como atalho quando vários anos de vínculo aparecem apenas em resumo;
+- perde o interesse quando uma personagem existe somente para validar ou curar a outra;
+- desconfia de declarações de conexão que não tenham equivalentes em ações e conversas.
+
+#### O que a convenceria a ler
+
+> Quando duas mulheres capazes de incendiar o mundo precisam aprender a confiar uma na outra, sobreviver é apenas o começo. O que permanece depois da guerra depende das escolhas que farão quando já não precisarem ficar juntas.
+
+#### Reação esperada depois da leitura
+
+Bianca aceita uma construção lenta e secundária ao conflito principal, desde que os marcos emocionais sejam visíveis. Seu teste mostra se a relação entre Larissa e Lúcia é segura e coerente — e se o texto dramatiza, com força suficiente, a passagem da aliança para o amor.
+
+## 12. Públicos secundários
 
 ### Leitores adultos de fantasia urbana
 
@@ -241,7 +402,7 @@ Leitores menos ligados a super-heróis, mas atraídos pela ideia de que habilida
 
 Leitores que desejam cenários, relações e vozes brasileiras em gêneros muitas vezes associados a cidades estrangeiras. Arreal, a escola, o coreto, as relações familiares e o contraste posterior com Nova Iorque são elementos importantes para esse posicionamento.
 
-## 9. Público com menor afinidade
+## 13. Público com menor afinidade
 
 *Arreal* provavelmente terá menor aderência entre leitores que:
 
@@ -254,7 +415,7 @@ Leitores que desejam cenários, relações e vozes brasileiras em gêneros muita
 
 Esse grupo não deve determinar a identidade do livro, mas suas expectativas precisam ser administradas pela capa, sinopse e categorização corretas.
 
-## 10. Promessas de leitura
+## 14. Promessas de leitura
 
 A comunicação de *Arreal* deve priorizar quatro promessas:
 
@@ -263,7 +424,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 3. **Conflito moral:** descobrir o próprio poder não significa saber como utilizá-lo.
 4. **Escalada narrativa:** a história começa em uma pequena cidade brasileira e cresce até alcançar outras épocas, lugares e possibilidades de realidade.
 
-## 11. Cuidados de comunicação
+## 15. Cuidados de comunicação
 
 - Não classificar o livro apenas como uma aventura adolescente ou escolar.
 - Não prometer somente grandes batalhas de super-heróis.
@@ -272,7 +433,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - Usar a identidade brasileira como diferencial sem sugerir que toda a narrativa permanece em Arreal.
 - Evitar tratar as habilidades como um sistema mecânico; no livro, elas são fundamentalmente sensoriais e emocionais.
 
-## 12. Possíveis mensagens de divulgação
+## 16. Possíveis mensagens de divulgação
 
 - “O que você faria se descobrisse que sempre pôde fazer o impossível?”
 - “Toda habilidade nasce de alguma coisa que tentamos esconder.”
@@ -280,7 +441,7 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - “Todos podem despertar. Nem todos deveriam decidir pelo mundo.”
 - “Antes de salvar a humanidade, ele terá de descobrir se deseja salvá-la ou controlá-la.”
 
-## 13. Hipóteses para validação
+## 17. Hipóteses para validação
 
 Antes de fechar o posicionamento comercial, recomenda-se testar com leitores beta:
 
@@ -292,7 +453,7 @@ Antes de fechar o posicionamento comercial, recomenda-se testar com leitores bet
 - quais elementos podem ser mencionados na sinopse sem prejudicar as revelações;
 - se leitores fora do público habitual de super-heróis se interessam pela dimensão psicológica.
 
-## 14. Síntese editorial
+## 18. Síntese editorial
 
 O público de maior potencial para *Arreal* é formado por leitores jovens adultos e adultos jovens que cresceram imaginando ter superpoderes, mas hoje procuram histórias capazes de questionar essa fantasia. A persona central não deseja apenas descobrir quem é mais forte: deseja entender o que o poder revela sobre quem o possui.
 
