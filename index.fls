@@ -284,6 +284,8 @@ INPUT chapters/chapter6.tex
 INPUT chapters/chapter7.tex
 INPUT chapters/chapter7.tex
 INPUT chapters/chapter7.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT chapters/chapter8.tex
 INPUT chapters/chapter8.tex
 INPUT chapters/chapter8.tex
@@ -350,8 +352,6 @@ INPUT chapters/chapter26.tex
 INPUT chapters/chapter27.tex
 INPUT chapters/chapter27.tex
 INPUT chapters/chapter27.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT chapters/chapter28.tex
 INPUT chapters/chapter28.tex
 INPUT chapters/chapter28.tex

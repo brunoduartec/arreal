@@ -4,6 +4,34 @@ O projeto passou por uma revisora profissional que levantou os pontos abaixo.
 
 Os comentários foram transcritos integralmente do arquivo `Arreal_Editado.docx` e organizados por capítulo. Quando a observação estava inserida dentro de um parágrafo, o trecho correspondente foi mantido como contexto.
 
+## Ajuste canônico — idade de Larissa
+
+Status de revisão: Revisado
+
+Mudanças: Por decisão do autor, Larissa passa a ter dezoito anos durante o despertar, a crise e o primeiro encontro com Lúcia. O capítulo 14 esclarece que ela ainda frequenta a escola porque as faltas durante a doença da mãe e o luto posterior a fizeram repetir alguns anos letivos, o que explica sua convivência com colegas mais novos. A aproximação com Lúcia permanece não romântica durante a crise; o relacionamento e o beijo continuam confirmados apenas no interlúdio “Cinco anos depois”, quando Larissa tem vinte e três anos. A continuidade etária foi harmonizada nos capítulos 14, 33, 36, 37, 40, 44 e 45; nos capítulos 36 e 37, as repetições artificiais da idade foram substituídas por ações da personagem. Não houve cortes.
+
+---
+
+## Rodada final — acabamento editorial e continuidade
+
+Status de revisão: Revisado
+
+Mudanças: Executado integralmente o `PLANO_REVISAO_FINAL.md` nos capítulos 0 a 45, no apêndice e na Nota do Autor. Foi concluída a revisão linguística; corrigidas a montagem da chegada a Nova Iorque, a posição das ilusões, a ligação de Pedro e a preparação do disfarce de Crispim; preservada a abertura restaurada do capítulo 33 com ajuste exclusivamente local; reforçadas as consequências para Pedro e a caracterização de Ítalo; e dramatizada a reflexão temática do capítulo 42. A decisão canônica posterior estabelece Larissa com dezoito anos durante toda a crise e no primeiro encontro com Lúcia, mantendo a aproximação sem envolvimento romântico nessa fase. O capítulo 45 introduz o marcador “Cinco anos depois”; somente então, aos vinte e três anos, o relacionamento é confirmado. Nenhum dos 48 arquivos foi reduzido: o conjunto passou de 76.092 para 76.841 palavras. O PDF final possui 244 páginas, sem erro LaTeX. Nota editorial final: 8,8/10.
+
+Documentos de fechamento: `AUDITORIA_REVISAO_FINAL.md`, `CONTROLE_EXTENSAO_REVISAO_FINAL.md` e `AVALIACAO_EDITORIAL_FINAL.md`.
+
+---
+
+## Rodada complementar — voz narrativa e qualidade da prosa
+
+Status de revisão: Revisado
+
+Mudanças: Executado o plano de voz narrativa do capítulo 0 ao 45, preservando integralmente os acontecimentos e impedindo redução de extensão em qualquer capítulo. Foram reforçadas a voz do Garoto, a diferenciação dos personagens centrais, a dramatização de reflexões abstratas e a fluidez entre capítulos. O trecho entre os capítulos 11 e 12 agora explicita que o Garoto permanece desacordado enquanto sua consciência desdobrada percorre o vilarejo. O capítulo 43 foi ampliado para preparar diretamente a decisão final. A cronologia canônica atual estabelece Larissa com dezoito anos no despertar e quando conhece Lúcia; o relacionamento é confirmado somente cinco anos depois, quando ela tem vinte e três. O conjunto dos capítulos cresceu de 72.991 para 75.227 palavras e foi compilado integralmente em um PDF de 245 páginas, sem erros naquela rodada.
+
+Documento de execução: `PLANO_REVISAO_VOZ_NARRATIVA.md`.
+
+---
+
 Capitulo: O despertar
 Nome do arquivo: chapter0.tex
 Status de revisão: Revisado
@@ -198,7 +226,7 @@ Entendi, aqui você mudou o narrador para mostra a visão do Pedro. Assim fica b
 Capitulo: Larissa, a Menina de Fogo
 Nome do arquivo: chapter14.tex
 Status de revisão: Revisado
-Mudanças: Preservadas a narração em primeira pessoa, a identificação de Larissa pelo título e a perspectiva elogiada pela revisora; acrescentada a informação de que Larissa tinha quinze anos na época do despertar, estabelecendo sua idade antes do salto temporal de cinco anos. O capítulo foi ampliado, sem cortes.
+Mudanças: Preservadas a narração em primeira pessoa, a identificação de Larissa pelo título e a perspectiva elogiada pela revisora; estabelecido que Larissa tinha dezoito anos na época do despertar; e explicado que ela ainda frequentava a escola com colegas mais novos porque a doença da mãe e o luto posterior a fizeram repetir alguns anos letivos. O capítulo foi ampliado, sem cortes.
 
 Beleza, aqui você manteve a narrativa em primeira pessoa e como o título se refere à Larissa, já sabemos que é a visão dela.
 
@@ -374,7 +402,7 @@ Diálogo muito bem feito. Você conseguiu demonstrar que o garçom estava brigan
 Capitulo: Traído
 Nome do arquivo: chapter33.tex
 Status de revisão: Revisado
-Mudanças: Corrigida a continuidade de Lúcio no capítulo anterior, estabelecendo que ele permanece no Brasil com dona Marta e, portanto, não é abandonado nem exposto à multidão em Nova Iorque; apresentada Larissa como uma jovem de cerca de vinte anos; substituído “ergueu” por “ajudou-a a se levantar” para que o resgate não sugira uma criança no colo; ajustada a maiúscula em “Segurou” após o encerramento da fala. O capítulo foi ampliado, sem cortes.
+Mudanças: Corrigida a continuidade de Lúcio no capítulo anterior, estabelecendo que ele permanece no Brasil com dona Marta e, portanto, não é abandonado nem exposto à multidão em Nova Iorque; apresentada Larissa explicitamente como jovem de dezoito anos; substituído “ergueu” por “ajudou-a a se levantar” para que o resgate não sugira uma criança no colo; ajustada a maiúscula em “Segurou” após o encerramento da fala; e corrigido localmente o objetivo ultrapassado do Garoto sem substituir a abertura restaurada. O capítulo foi ampliado, sem cortes.
 
 No trecho
 
@@ -428,7 +456,7 @@ Ela pontuou
 Capitulo: Sem moral
 Nome do arquivo: chapter40.tex
 Status de revisão: Revisado
-Mudanças: Explicitado antes da ligação com Pedro que a personagem acompanhada por Lúcia é uma jovem de vinte anos; reforçada a mesma idade quando o nome de Larissa é revelado; corrigidos nos capítulos anteriores os termos e gestos que faziam Larissa parecer uma criança. Assim, a continuidade estabelece que ela tinha cerca de quinze anos no despertar ocorrido cinco anos antes e é adulta na fase de Nova Iorque. O capítulo foi ampliado, sem cortes.
+Mudanças: Explicitado antes da ligação com Pedro e quando o nome é revelado que Larissa é uma jovem de dezoito anos; corrigida a continuidade do telefone ao mostrar que Ítalo encontrou Pedro desacordado, retirou-o do metrô e lhe emprestou o aparelho; removida a ambiguidade romântica do diálogo, preservando apenas a formação da aliança com Lúcia. O relacionamento não começa neste capítulo. O capítulo foi ampliado, sem cortes.
 
 No trecho
 
@@ -536,7 +564,7 @@ Ela pontuou
 Capitulo: Recomeço
 Nome do arquivo: chapter44.tex
 Status de revisão: Revisado
-Mudanças: Corrigida a descrição interna do dirigível, substituindo calor e cheiro de combustível por ar filtrado, vibração baixa dos motores e elementos da cabine; substituída a levitação não estabelecida de Larissa por sua subida na banca; explicitado que Lúcia cruzou o oceano no voo agendado, enquanto Larissa, Pedro e Ítalo chegaram de sua cidade natal pelo teletransporte espacial fracassado do Garoto. Preservado o final por esquecimento, pois a revisora reconheceu sua função e não propôs alternativa. O capítulo foi ampliado, sem cortes.
+Mudanças: Corrigida a descrição interna do dirigível, substituindo calor e cheiro de combustível por ar filtrado, vibração baixa dos motores e elementos da cabine; substituída a levitação não estabelecida de Larissa por sua subida na banca; preservada apenas uma lembrança curta da chegada involuntária, sem repetir a revelação completa do capítulo 41; acrescentada a consequência emocional do ataque de Pedro contra Crispim; mantida Larissa com dezoito anos após o apagamento, em vínculo de aliança e abraço com Lúcia, sem beijo. Preservado o final por esquecimento. O capítulo foi ampliado, sem cortes.
 
 No trecho
 
@@ -563,7 +591,7 @@ Olha, essa solução pode causar um “efeito Lost” em que o leitor fica meio 
 Capitulo: O Peso do Silêncio
 Nome do arquivo: chapter45.tex
 Status de revisão: Revisado
-Mudanças: Substituído o metrô por um ônibus compatível com a cidade natal pequena; explicado que Lúcia acompanha o irmão à escola para assinar os documentos de retorno exigidos pela coordenação; reafirmado que Larissa tem vinte anos na fase posterior ao salto temporal; corrigida a construção para “uma coisa à qual sobreviveram juntas”. O capítulo foi ampliado, sem cortes.
+Mudanças: Substituído o metrô por um ônibus compatível com a cidade natal pequena; explicado que Lúcia acompanha o irmão à escola para assinar os documentos de retorno exigidos pela coordenação; preservado o retorno imediato do Garoto à escola; introduzido depois o marcador explícito “Cinco anos depois”; reafirmado que Larissa tem vinte e três anos nessa fase e somente então confirmado seu relacionamento com Lúcia; mantida a fotografia de Crispim. O capítulo foi ampliado, sem cortes.
 
 No trecho
 
@@ -605,7 +633,14 @@ E se o objetivo é anotar por anotar e esquecer depois, onde o garoto escondeu i
 Revisão geral
 Escopo: Livro completo
 Status de revisão: Revisado
-Mudanças: Mantido Lúcio no Brasil, sob os cuidados de dona Marta, fora do caos em Nova Iorque; padronizadas com asteriscos e identificações as mudanças de perspectiva apontadas ao longo dos capítulos; definida a continuidade etária de Larissa, com quinze anos no despertar e vinte anos após o salto temporal de cinco anos; criada Arreal como a pequena cidade brasileira fictícia onde começa a história, com o nome propagado pelos principais marcos geográficos, incluindo praça, coreto, Asturion Building, escola e retornos temporais; corrigido um destaque residual em Markdown para o comando LaTeX adequado; preservada a extensão de todos os capítulos, sem redução do total de palavras em nenhum arquivo revisado; mantido o alinhamento justificado já aplicado pelo LaTeX, adequado ao miolo editorial, sem centralizar os parágrafos do corpo do texto. O compêndio de habilidades foi convertido em apêndice editorial para eliminar a contradição com o apagamento final.
+Mudanças: Mantido Lúcio no Brasil, sob os cuidados de dona Marta, fora do caos em Nova Iorque; padronizadas com asteriscos e identificações as mudanças de perspectiva apontadas ao longo dos capítulos; definida a continuidade etária de Larissa, com dezoito anos no despertar e durante toda a crise, inclusive quando conhece Lúcia, e vinte e três anos no interlúdio “Cinco anos depois”, quando o relacionamento é confirmado; criada Arreal como a pequena cidade brasileira fictícia onde começa a história, com o nome propagado pelos principais marcos geográficos, incluindo praça, coreto, Asturion Building, escola e retornos temporais; corrigido um destaque residual em Markdown para o comando LaTeX adequado; preservada a extensão de todos os capítulos, sem redução do total de palavras em nenhum arquivo revisado; mantido o alinhamento justificado já aplicado pelo LaTeX, adequado ao miolo editorial, sem centralizar os parágrafos do corpo do texto. O compêndio de habilidades foi convertido em apêndice editorial para eliminar a contradição com o apagamento final.
+
+---
+
+Revisão estrutural dos leitores sintéticos
+Escopo: Capítulos 12, 29 e 32; auditoria transversal do livro
+Status de revisão: Revisado
+Mudanças: Explicitado no capítulo 12 que o Garoto permanece fisicamente desacordado enquanto sua consciência desdobrada percorre o vilarejo sem ser percebida; removida do capítulo 29 a repetição do capítulo 28 e ampliado o período de treinamento solitário, sem reduzir a proposta do capítulo; mantido Lúcio exclusivamente no Brasil durante os acontecimentos de Nova Iorque; padronizado o garçom como homem idoso conforme a referência visual, inclusive sob o disfarce de técnico; fixado Guaraciara como nome da anciã; esclarecidas as regras do corpo e das projeções de Crispim; sinalizadas mudanças de perspectiva e reforçados deslocamentos geográficos e temporais. A nova leitura sequencial das quatro personas foi registrada em `REVALIDACAO_LEITORES_SINTETICOS.md`, e nenhuma voltou a interromper a leitura nos antigos bloqueios.
 
 Hora do temível feedback!
 
