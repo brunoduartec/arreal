@@ -1,0 +1,5 @@
+.venv/
+models/
+mlx-video/
+__pycache__/
+*.log
