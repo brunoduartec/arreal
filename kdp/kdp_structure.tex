@@ -1,0 +1,72 @@
+\documentclass[11pt,twoside,openright]{memoir}
+
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[osf]{libertine}
+\usepackage{microtype}
+\usepackage{pgffor}
+\usepackage{etoolbox}
+\usepackage{tikz}
+\usepackage{tikzpagenodes}
+\usepackage[
+  unicode=true,
+  bookmarks=true,
+  bookmarksnumbered=false,
+  bookmarksopen=false,
+  colorlinks=false,
+  pdfborder={0 0 0},
+  pdftitle={Arreal},
+  pdfauthor={Bruno Duarte Corrêa},
+  pdfsubject={Romance de fantasia psicológica}
+]{hyperref}
+
+\newcommand{\useChapters}{true}
+
+% KDP paperback: 5.5 x 8.5 in, black-and-white interior, no bleed.
+\setstocksize{8.5in}{5.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\setlrmarginsandblock{0.75in}{0.625in}{*}
+\setulmarginsandblock{0.65in}{0.75in}{*}
+\setheadfoot{14pt}{18pt}
+\setheaderspaces{*}{12pt}{*}
+\checkandfixthelayout
+
+\linespread{1.12}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\midsloppy
+\raggedbottom
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+
+\makepagestyle{arreal}
+\makeevenfoot{arreal}{\thepage}{}{}
+\makeoddfoot{arreal}{}{}{\thepage}
+\makeheadrule{arreal}{\textwidth}{0pt}
+\pagestyle{arreal}
+
+\makechapterstyle{kdp}{
+  \renewcommand{\chapterheadstart}{\vspace*{0.16\textheight}}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\printchapternum}{}
+  \renewcommand{\afterchapternum}{}
+  \renewcommand{\printchaptertitle}[1]{\raggedright\itshape\huge ##1}
+  \renewcommand{\afterchaptertitle}{\par\vskip 2.6\onelineskip}
+}
+\chapterstyle{kdp}
+\aliaspagestyle{chapter}{empty}
+
+\setsecheadstyle{\raggedright\itshape\large}
+\setsubsecheadstyle{\raggedright\itshape\normalsize}
+\setbeforesecskip{1.4\onelineskip}
+\setaftersecskip{0.5\onelineskip}
+\setbeforesubsecskip{1.0\onelineskip}
+\setaftersubsecskip{0.35\onelineskip}
+
+\renewenvironment{quote}
+  {\list{}{\leftmargin=1.2em\rightmargin=1.2em}\item[]\itshape}
+  {\endlist}
+
+\setsecnumdepth{none}

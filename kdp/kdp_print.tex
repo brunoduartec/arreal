@@ -1,0 +1,50 @@
+\def\chapterslist{0,1,2-3,4-5,6,7,8,8-1,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45}
+
+\input{kdp/kdp_structure.tex}
+
+\title{Arreal}
+\author{Bruno Duarte Corrêa}
+
+\begin{document}
+
+\frontmatter
+\pagestyle{empty}
+
+\thispagestyle{empty}
+\begin{center}
+  \vspace*{0.25\textheight}
+  {\Huge\sffamily\bfseries\MakeUppercase{Arreal}\par}
+  \vspace{2.2cm}
+  {\Large Bruno Duarte Corrêa\par}
+\end{center}
+\vfill
+
+\clearpage
+\thispagestyle{empty}
+\null\vfill
+\begin{center}
+\small
+Copyright \textcopyright{} 2026 Bruno Duarte Corrêa\\[0.8em]
+Todos os direitos reservados.\\[1.2em]
+Nenhuma parte desta publicação pode ser reproduzida, armazenada ou transmitida
+por qualquer meio sem autorização prévia do autor, exceto em citações breves
+para fins de resenha ou crítica.\\[1.2em]
+Primeira edição, 2026.\\
+Brasil.
+\end{center}
+\vfill\null
+
+\cleardoublepage
+\mainmatter
+\pagestyle{arreal}
+
+\makeatletter
+\@for\ch:=\chapterslist\do{%
+  \IfFileExists{chapters/chapter\ch.tex}{\input{chapters/chapter\ch.tex}}{}%
+}
+\makeatother
+
+\input{chapters/habilidades.tex}
+\input{chapters/nota_autor.tex}
+
+\end{document}
