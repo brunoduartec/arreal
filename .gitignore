@@ -1,0 +1,27 @@
+# Arquivos do macOS e caches Python
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Videos gerados ou importados
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+
+# Geracao local: dependencias externas e pesos grandes
+local-video/.venv/
+local-video/models/
+local-video/mlx-video/
+
+# Artefatos temporarios e de compilacao
+tmp/
+output/pdf/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
