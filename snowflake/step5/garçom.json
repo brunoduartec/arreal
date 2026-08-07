@@ -1,0 +1,67 @@
+{
+  "META": {
+    "status": "PENDENTE_DE_AUDITORIA_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Garçom",
+    "role": "funcionário antigo do La Fontaine e antagonista",
+    "age_or_stage": "homem velho"
+  },
+  "CHARACTER_SYNOPSIS": "Depois de uma vida de invisibilidade e ressentimento, o Garçom descobre como abalar certezas e retirar habilidades. Passa a reivindicar como direito aquilo que antes julgava inacessível.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "velho e baixo",
+      "postura um pouco curvada",
+      "cabeça calva",
+      "rosto vincado e pele muito marcada",
+      "sobrancelhas grisalhas",
+      "olhos pequenos, verde quase cinza",
+      "terno preto gasto",
+      "camisa amarelada pelo tempo",
+      "cabelo ralo quando visto no reflexo"
+    ],
+    "not_confirmed": [
+      "altura numérica",
+      "peso",
+      "formato exato do rosto além das marcas descritas"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Homem velho e baixo, ligeiramente curvado, cabeça praticamente calva com cabelo ralo, rosto profundamente vincado, pele muito marcada, sobrancelhas grisalhas e olhos pequenos de verde quase cinza. Usa terno preto visivelmente gasto e camisa envelhecida, amarelada pelo tempo; não deve parecer um maître luxuoso.",
+  "OPEN_DECISIONS": [
+    "definir traços faciais incidentais sem suavizar a idade ou o desgaste"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter7.tex",
+      "lines": "46",
+      "evidence": "velho, baixo, curvado, calvo, rosto vincado e terno preto gasto"
+    },
+    {
+      "file": "chapters/chapter8.tex",
+      "lines": "34-39",
+      "evidence": "pele marcada, camisa amarelada e olhos pequenos verde quase cinza"
+    },
+    {
+      "file": "chapters/chapter8-1.tex",
+      "lines": "97",
+      "evidence": "uniforme manchado e cabelo ralo"
+    },
+    {
+      "file": "chapters/chapter41.tex",
+      "lines": "184",
+      "evidence": "sobrancelhas grisalhas"
+    }
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/garçom.png",
+    "status": "REPROVA",
+    "reason": "traje impecável, camisa branca, gravata-borboleta e postura ereta contradizem o desgaste canônico"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/garçom-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna",
+    "reason": "postura curvada, rosto marcado, olhos verde-cinza e uniforme gasto correspondem à ficha"
+  }
+}

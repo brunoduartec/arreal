@@ -18,8 +18,11 @@
 %----------------------------------------------------------------------------------------
 %	DOCUMENT CONFIGURATIONS AND INFORMATION
 %----------------------------------------------------------------------------------------
-
-\documentclass[oneside,16pt]{memoir} % Font size
+ 
+% Optionally define a custom list of chapters. Use comma-separated names.
+% Example: \def\chapterslist{0,1,2-3,4-5,6,...}
+% We predefine it here to register merged files `chapter2-3.tex` and `chapter4-5.tex`.
+\def\chapterslist{0,1,2-3,4-5,6,7,8,8-1,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45}
 
 \input{structure.tex} % Include the file that specifies the document structure and layout
 
@@ -31,12 +34,14 @@
 
 \begin{document}
 
+
+
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
  
 \thispagestyle{empty} % Suppress page numbering
-\ThisCenterWallPaper{1.0}{./images/capa} % Add the background image, the first argument is the scaling - adjust this as necessary so the image fits the entire page
+\ThisCenterWallPaper{1.0}{./images/capa_kdp_refinada} % Add the background image, the first argument is the scaling - adjust this as necessary so the image fits the entire page
 
 % \includegraphics[width=12.5cm]{./images/cover}
 
@@ -47,6 +52,8 @@
 
 \newpage\null\thispagestyle{empty}\newpage
 
+\input{chapters/dedicatoria.tex}
+
 \newpage % Make sure the following content is on a new page
  
 %----------------------------------------------------------------------------------------
@@ -55,12 +62,37 @@
 
 % \tableofcontents % Prints the table of contents
 
-\input{chapters/sinopse.tex}
+% \input{chapters/sinopse.tex}
 
-\foreach \chapternumber in {0,...,44}{
-	\input{chapters/chapter\chapternumber.tex}
-} 
+% Iterate through possible chapter files but only input when the file exists.
+% This prevents compilation errors when some chapter files are intentionally missing.
+% You can optionally define a comma-separated list of chapter names
+% (for example: \def\chapterslist{0,1,2-3,4,5}) to control which files
+% are included and to allow merged chapter files like `chapter2-3.tex`.
+% If \chapterslist is not defined, the code falls back to the numeric
+% sequence 0..44 and will include `chapters/chapter<NUM>.tex` when present.
+\makeatletter
+\@ifundefined{chapterslist}{%
+	% Default behaviour: iterate numeric chapters 0..44 and input when file exists
+	\foreach \chapternumber in {0,...,44}{%
+		\IfFileExists{chapters/chapter\chapternumber.tex}{%
+			\input{chapters/chapter\chapternumber.tex}%
+		}{}%
+	}
+}{%
+	% User provided a custom comma-separated list in \chapterslist
+	% Example: \def\chapterslist{0,1,2-3,4}
+	\@for\ch:=\chapterslist\do{%
+		\IfFileExists{chapters/chapter\ch.tex}{%
+			\input{chapters/chapter\ch.tex}%
+		}{}%
+	}
+}
+\makeatother
 
+
+\input{chapters/habilidades.tex}
+ 
 \input{chapters/nota_autor.tex}
 
 \end{document}

@@ -1,0 +1,38 @@
+# Arquivos do macOS e caches Python
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Videos gerados ou importados
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+
+# Pastas dedicadas a videos gerados pesados
+local-video/tmp_identidade_exata/
+output/marketing/videos_locais/
+
+# Pastas mistas: ignorar somente os videos, preservando imagens e fontes
+output/marketing/*.mp4
+output/marketing/reels/*.mp4
+
+# Geracao local: dependencias externas e pesos grandes
+local-video/.venv/
+local-video/models/
+local-video/mlx-video/
+
+# Artefatos temporarios e de compilacao
+tmp/
+output/pdf/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+output/video_review/*
+local-video/*

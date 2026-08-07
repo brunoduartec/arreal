@@ -25,3 +25,18 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+Svg {
+  background: #052338;
+  box-sizing: border-box;
+  height: 82vh;
+  padding: 5%;
+  width: 100vw;
+}
+
+polygon {
+  fill: none;
+  stroke:#00C2FF;
+  stroke-width: 2;
+}

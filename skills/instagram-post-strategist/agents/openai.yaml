@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Post Strategist"
+  short_description: "Cria posts atuais e orientados por dados"
+  default_prompt: "Use $instagram-post-strategist para planejar e escrever meu próximo post no Instagram."

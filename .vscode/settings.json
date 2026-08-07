@@ -1,0 +1,22 @@
+{
+  // Workspace settings for LaTeX (using Docker)
+  // Use LaTeX-Workshop as the default formatter for .tex files
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+
+  // Enable LaTeX-Workshop formatting features
+  "latex-workshop.formatting.enabled": true,
+
+  // latexindent settings (will be executed inside the container if Docker is enabled)
+  "latex-workshop.formatting.latexindent.path": "latexindent",
+  "latex-workshop.formatting.latexindent.args": ["-w"],
+
+  // Use Docker for builds (set image used by the extension)
+  "latex-workshop.docker.enabled": true,
+  // Image that contains TeX Live and latexindent; change if you prefer another image
+  "latex-workshop.docker.image.latex": "blang/latex:latest",
+
+  // Optional: make sure format-on-save is enabled for convenience
+  "editor.formatOnSave": true
+}

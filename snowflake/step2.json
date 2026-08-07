@@ -2,22 +2,22 @@
     "description": "Step 2: Expand it to a one-paragraph summary",
     "exposition": {
         "description": "(what is the status quo at the start of the story)",
-        "text": "No inicio da historia o personagem principal, estudante da setima serie, sem nenhum amigo e desacreditado de todos."
+        "text": "No início, o garoto é um estudante da sétima série que vive à margem: invisível para os colegas, inseguro, entregue às expectativas alheias e dividido entre fantasia e realidade. Sua única âncora emocional é a irmã, Lúcia, que o apoia do jeito torto que sabe. Embora ainda não entenda, pequenos traços de habilidade já começam a surgir como manifestações de emoções reprimidas."
     },
     "first plot point": {
         "description": "(what major event kicks off the story)",
-        "text": "Em um sonho vive um tempo em uma casa perturbada enquanto na verdade está em coma por ter sido levado à uma realidade fantasiosa por Crispim, ao despertar descobre que todo ser humano pode ter habilidades especiais."
+        "text": "O primeiro grande gatilho ocorre quando Ítalo aparece flutuando na floresta, confirmando que as habilidades são reais. Logo depois, o garoto passa por um estado de desdobramento emocional enquanto Crispim tenta manipulá-lo. Ao despertar — fisicamente e simbolicamente — ele percebe que outras pessoas também possuem poderes e que algo maior está acontecendo."
     },
     "mid-point": {
         "description": "(where things take a turn for the worse)",
-        "text": "Vai atrás de compreender as habilidades especiais e acaba descobrindo que algumas pessoas ja sabiam mas que eles não estão felizes com ele saber e ter habilidades"
+        "text": "Ao tentar entender suas habilidades e o impacto delas, descobre que Crispim e outros despertos já sabem mais do que revelam. Ele percebe que está no centro de uma disputa velada: alguns querem usá-lo, outros temem seu potencial. As relações começam a se deteriorar, e o garçom surge como uma presença ameaçadora capaz de corroer a confiança do grupo."
     },
     "Plot point two": {
         "description": "(where your character hits rock-bottom and starts turning things around)",
-        "text": "Depois de se sentir muito culpado pela morte de algumas pessoas por não usar bem suas habilidades, acredita que em um futuro próximo vai haver muita morte por conta das pessoas terem descoberto as habilidades e decide tomar a dianteira da situação para impedir esse futuro mas percebe que tudo é inevitável"
+        "text": "Após mortes que ele não conseguiu impedir, e consumido pela culpa, o garoto acessa memórias fragmentadas de um futuro devastado. Acredita que as habilidades levarão a humanidade ao caos e tenta desesperadamente impedir esse destino — mas percebe que o padrão humano é inevitável. Sua identidade vacila, as amizades se quebram e ele percebe que não é o herói que imaginava."
     },
     "Climax and denouement": {
         "description": "(how the story resolves)",
-        "text": "O futuro que previu era na verdade uma fantasia que havia criado por acreditar que as habilidades o trariam grandes poderes. Enquanto ele busca compreender como pode sozinho resolver toda a questão, alguns despertos orquestram uma revolta entre despertos e não despertos. Por fim o garoto não aceitando que na verdade toda sua luta era sem sentido e havia causado mais problemas do que resolvido alguma coisa faz com que todos esqueçam que existem as habilidades"
+        "text": "No clímax, o garoto confronta o garçom e o mata em um gesto impulsivo de raiva, percebendo que se tornou parte da violência que temia. Puxado de volta para o vilarejo ancestral, testemunha o sacrifício da Princesa e entende que poder sem propósito destrói. Com isso, toma a decisão extrema: apaga todas as memórias sobre habilidades, inclusive as suas, reiniciando a história humana. No novo mundo, laços emocionais resistem — como ecos — mas o poder fica adormecido até que a humanidade esteja pronta."
     }
 }

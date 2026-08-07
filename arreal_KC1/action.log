@@ -1,0 +1,25 @@
+[Tue Nov 18 00:22:38 UTC 2025][INFO] [Action] EE NewBook
+[Tue Nov 18 00:22:50 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Tue Nov 18 00:23:04 UTC 2025][INFO] [Action] E ItemChanged - -1,3
+[Tue Nov 18 00:23:06 UTC 2025][INFO] [Action] E ItemChanged - -1,15013
+[Tue Nov 18 00:23:09 UTC 2025][INFO] [Action] E ItemChanged - -1,28303
+[Tue Nov 18 00:24:15 UTC 2025][INFO] [Action] E FixedFormAction - MCwzLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkFycmVhbCJ9LHsibmFtZSI6ImJvb2tfc3VidGl0bGUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiVW0gZW5zYWlvIHNvYnJlIG8gcG9kZXIifSx7Im5hbWUiOiJhdXRob3JfbmFtZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJCcnVubyBEdWFydGUgQ29ycsOqYSJ9LHsibmFtZSI6InB1Ymxpc2hlciIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIifSx7Im5hbWUiOiJwdWJsaXNoZXJfbG9nbyIsInR5cGUiOiJpbWFnZSIsInZhbHVlIjoiL1VzZXJzL2JydW5vLmR1YXJ0ZWMvT25lRHJpdmUvw4FyZWEgZGUgVHJhYmFsaG8vQXJyZWFsL0xhVGV4L2ltYWdlcy9jb3Zlci5qcGcifV0sInBhZ2VfdHlwZSI6InRpdGxlX3BhZ2UifQo=
+[Tue Nov 18 00:24:22 UTC 2025][INFO] [Action] E ItemChanged - -1,51
+[Tue Nov 18 00:24:28 UTC 2025][INFO] [Action] E ItemChanged - -1,381962
+[Tue Nov 18 00:24:29 UTC 2025][INFO] [Action] E ItemChanged - -1,378651
+[Tue Nov 18 00:24:35 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Tue Nov 18 00:24:48 UTC 2025][INFO] [Action] E FixedFormAction - MSwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkFycmVhbCJ9LHsibmFtZSI6ImJvb2tfc3VidGl0bGUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiVW0gZW5zYWlvIHNvYnJlIG8gcG9kZXIifSx7Im5hbWUiOiJhdXRob3JfbmFtZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJCcnVubyBEdWFydGUgQ29ycsOqYSJ9LHsibmFtZSI6InB1Ymxpc2hlciIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIifSx7Im5hbWUiOiJwdWJsaXNoZXJfbG9nbyIsInR5cGUiOiJpbWFnZSIsInZhbHVlIjoiIn1dLCJwYWdlX3R5cGUiOiJ0aXRsZV9wYWdlIn0K
+[Tue Nov 18 00:24:56 UTC 2025][INFO] [Action] E PreviewBook - 1
+[Tue Nov 18 00:25:09 UTC 2025][INFO] [Action] E ItemChanged - -1,50
+[Tue Nov 18 00:25:17 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Tue Nov 18 00:26:57 UTC 2025][INFO] [Action] E ItemChanged - -1,50
+[Tue Nov 18 00:27:01 UTC 2025][INFO] [Action] E ItemChanged - -1,50
+[Tue Nov 18 00:27:02 UTC 2025][INFO] [Action] E ItemChanged - -1,50
+[Tue Nov 18 00:27:03 UTC 2025][INFO] [Action] E DeleteContent - (r,50,50),B
+[Tue Nov 18 00:27:14 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Tue Nov 18 00:40:04 UTC 2025][INFO] [Action] EE ExportAction
+[Tue Nov 18 00:40:13 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Nov 18 00:40:16 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Nov 18 00:40:20 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Nov 18 00:40:24 UTC 2025][INFO] [Action] E SaveBook - SaveAs
+[Tue Nov 18 00:40:29 UTC 2025][INFO] Logger Terminated

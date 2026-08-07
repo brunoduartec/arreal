@@ -1,0 +1,77 @@
+[Wed Jul 31 23:14:26 UTC 2024][INFO] [Action] EE NewBook
+[Wed Jul 31 23:14:38 UTC 2024][INFO] [Action] E AutoChapterGroupAction - 0
+[Wed Jul 31 23:14:50 UTC 2024][INFO] [Action] E ItemChanged - -1,3
+[Wed Jul 31 23:14:52 UTC 2024][INFO] [Action] E ItemChanged - -1,16272
+[Wed Jul 31 23:14:53 UTC 2024][INFO] [Action] E ItemChanged - -1,40762
+[Wed Jul 31 23:15:02 UTC 2024][INFO] [Action] E SaveBook - Save
+[Wed Jul 31 23:15:16 UTC 2024][INFO] [Action] E SaveBook - SaveforExport
+[Wed Jul 31 23:15:39 UTC 2024][INFO] [Action] EE ExportAction
+[Wed Jul 31 23:15:39 UTC 2024][INFO] [Action] EFail ExportAction - 5
+[Wed Jul 31 23:15:44 UTC 2024][INFO] [Action] E SaveBook - SaveforExport
+[Wed Jul 31 23:17:16 UTC 2024][INFO] [Action] EE ExportAction
+[Wed Jul 31 23:17:20 UTC 2024][INFO] [Action] E PreviewBook - 40762
+[Wed Jul 31 23:20:37 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:20:39 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:20:40 UTC 2024][INFO] [Action] E DeleteContent - (r,1,1),B
+[Wed Jul 31 23:21:39 UTC 2024][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkFycmVhbCJ9LHsibmFtZSI6ImJvb2tfc3VidGl0bGUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoiYXV0aG9yX25hbWUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQnJ1bm8gRHVhcnRlIENvcnLDqmEifSx7Im5hbWUiOiJwdWJsaXNoZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoicHVibGlzaGVyX2xvZ28iLCJ0eXBlIjoiaW1hZ2UiLCJ2YWx1ZSI6IkM6L1VzZXJzL1NhbXN1bmcvT25lRHJpdmUvw4FyZWEgZGUgVHJhYmFsaG8vQXJyZWFsL0xhVGV4L2ltYWdlcy9jYXBhLnBuZyJ9XSwicGFnZV90eXBlIjoidGl0bGVfcGFnZSJ9Cg==
+[Wed Jul 31 23:21:45 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:21:46 UTC 2024][INFO] [Action] E ItemChanged - -1,28
+[Wed Jul 31 23:21:48 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:21:52 UTC 2024][INFO] [Action] E PreviewBook - 1
+[Wed Jul 31 23:22:01 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:22:03 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:22:21 UTC 2024][INFO] [Action] E FixedFormAction - MSwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkFycmVhbCJ9LHsibmFtZSI6ImJvb2tfc3VidGl0bGUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoiYXV0aG9yX25hbWUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoicHVibGlzaGVyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IiJ9LHsibmFtZSI6InB1Ymxpc2hlcl9sb2dvIiwidHlwZSI6ImltYWdlIiwidmFsdWUiOiJDOi9Vc2Vycy9TYW1zdW5nL09uZURyaXZlL8OBcmVhIGRlIFRyYWJhbGhvL0FycmVhbC9MYVRleC9hcnJlYWxfS0NcXHJlc291cmNlc1xccmVzL3JzcmMyUlIifV0sInBhZ2VfdHlwZSI6InRpdGxlX3BhZ2UifQo=
+[Wed Jul 31 23:22:56 UTC 2024][INFO] [Action] E ApplyThemeBook - cosmos_theme
+[Wed Jul 31 23:22:59 UTC 2024][INFO] [Action] E ItemChanged - -1,9
+[Wed Jul 31 23:23:02 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:27:37 UTC 2024][INFO] [Action] E SaveBook - Save
+[Wed Jul 31 23:27:56 UTC 2024][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQnJ1bm8gRHVhcnRlIENvcnLDqmEifSx7Im5hbWUiOiJjb3B5cmlnaHRfeWVhciIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIyMDI0In0seyJuYW1lIjoiY29weXJpZ2h0X3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQWxsIHJpZ2h0cyByZXNlcnZlZFxuXG5UaGUgY2hhcmFjdGVycyBhbmQgZXZlbnRzIHBvcnRyYXllZCBpbiB0aGlzIGJvb2sgYXJlIGZpY3RpdGlvdXMuIEFueSBzaW1pbGFyaXR5IHRvIHJlYWwgcGVyc29ucywgbGl2aW5nIG9yIGRlYWQsIGlzIGNvaW5jaWRlbnRhbCBhbmQgbm90IGludGVuZGVkIGJ5IHRoZSBhdXRob3IuXG5cbk5vIHBhcnQgb2YgdGhpcyBib29rIG1heSBiZSByZXByb2R1Y2VkLCBvciBzdG9yZWQgaW4gYSByZXRyaWV2YWwgc3lzdGVtLCBvciB0cmFuc21pdHRlZCBpbiBhbnkgZm9ybSBvciBieSBhbnkgbWVhbnMsIGVsZWN0cm9uaWMsIG1lY2hhbmljYWwsIHBob3RvY29weWluZywgcmVjb3JkaW5nLCBvciBvdGhlcndpc2UsIHdpdGhvdXQgZXhwcmVzcyB3cml0dGVuIHBlcm1pc3Npb24gb2YgdGhlIHB1Ymxpc2hlci5cblxuSVNCTi0xMzogOTc4MTIzNDU2Nzg5MFxuSVNCTi0xMDogMTQ3NzEyMzQ1NlxuXG5Db3ZlciBkZXNpZ24gYnk6IEFydCBQYWludGVyXG5MaWJyYXJ5IG9mIENvbmdyZXNzIENvbnRyb2wgTnVtYmVyOiAyMDE4Njc1MzA5XG5QcmludGVkIGluIHRoZSBVbml0ZWQgU3RhdGVzIG9mIEFtZXJpY2EifV0sInBhZ2VfdHlwZSI6ImNvcHlyaWdodCJ9Cg==
+[Wed Jul 31 23:33:46 UTC 2024][INFO] [Action] E SaveBook - Save
+[Wed Jul 31 23:33:48 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:38:24 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:38:26 UTC 2024][INFO] [Action] E ItemChanged - -1,1
+[Wed Jul 31 23:38:38 UTC 2024][INFO] [Action] E FixedFormAction - MSwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkFycmVhbCJ9LHsibmFtZSI6ImJvb2tfc3VidGl0bGUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoiYXV0aG9yX25hbWUiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQnJ1bm8gRHVhcnRlIENvcnLDqmEifSx7Im5hbWUiOiJwdWJsaXNoZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoicHVibGlzaGVyX2xvZ28iLCJ0eXBlIjoiaW1hZ2UiLCJ2YWx1ZSI6IiJ9XSwicGFnZV90eXBlIjoidGl0bGVfcGFnZSJ9Cg==
+[Wed Jul 31 23:39:55 UTC 2024][INFO] [Action] E ItemChanged - -1,27
+[Wed Jul 31 23:39:58 UTC 2024][INFO] [Action] E ItemChanged - -1,640
+[Wed Jul 31 23:40:22 UTC 2024][INFO] [Action] E AddTextContainer - (c,30756,2),0,0,0
+[Wed Jul 31 23:40:22 UTC 2024][INFO] [Action] E AddTextContainer - (c,30757,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30758,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30759,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30760,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30761,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30762,1),1,0,0
+[Wed Jul 31 23:40:24 UTC 2024][INFO] [Action] E AddTextContainer - (c,30763,1),1,0,0
+[Wed Jul 31 23:40:25 UTC 2024][INFO] [Action] E AddTextContainer - (c,30764,1),1,0,0
+[Wed Jul 31 23:40:25 UTC 2024][INFO] [Action] E AddTextContainer - (c,30765,1),1,0,0
+[Wed Jul 31 23:40:25 UTC 2024][INFO] [Action] E AddTextContainer - (c,30766,1),1,0,0
+[Wed Jul 31 23:40:25 UTC 2024][INFO] [Action] E AddTextContainer - (c,30767,1),1,0,0
+[Wed Jul 31 23:40:25 UTC 2024][INFO] [Action] E AddTextContainer - (c,30768,1),1,0,0
+[Wed Jul 31 23:40:26 UTC 2024][INFO] [Action] E AddTextContainer - (c,30769,1),1,0,0
+[Wed Jul 31 23:40:26 UTC 2024][INFO] [Action] E AddTextContainer - (c,30770,1),1,0,0
+[Wed Jul 31 23:40:26 UTC 2024][INFO] [Action] E AddTextContainer - (c,30771,1),1,0,0
+[Wed Jul 31 23:40:26 UTC 2024][INFO] [Action] E AddTextContainer - (c,30772,1),1,0,0
+[Wed Jul 31 23:40:26 UTC 2024][INFO] [Action] E AddTextContainer - (c,30773,1),1,0,0
+[Wed Jul 31 23:40:27 UTC 2024][INFO] [Action] E AddTextContainer - (c,30774,1),1,0,0
+[Wed Jul 31 23:40:27 UTC 2024][INFO] [Action] E AddTextContainer - (c,30775,1),1,0,0
+[Wed Jul 31 23:40:27 UTC 2024][INFO] [Action] E AddTextContainer - (c,30776,1),1,0,0
+[Wed Jul 31 23:40:27 UTC 2024][INFO] [Action] E AddTextContainer - (c,30777,1),1,0,0
+[Wed Jul 31 23:40:27 UTC 2024][INFO] [Action] E AddTextContainer - (c,30778,1),1,0,0
+[Wed Jul 31 23:40:28 UTC 2024][INFO] [Action] E AddTextContainer - (c,30779,1),1,0,0
+[Wed Jul 31 23:40:47 UTC 2024][INFO] [Action] E ApplySemantics - (r,30781,30803),chapter_title
+[Wed Jul 31 23:40:51 UTC 2024][INFO] [Action] E ItemChanged - -1,640
+[Wed Jul 31 23:40:52 UTC 2024][INFO] [Action] E ItemChanged - -1,16909
+[Wed Jul 31 23:40:54 UTC 2024][INFO] [Action] E ItemChanged - -1,30782
+[Wed Jul 31 23:42:03 UTC 2024][INFO] [Action] E ApplySemantics - (r,49085,49115),chapter_title
+[Wed Jul 31 23:45:11 UTC 2024][INFO] [Action] E SaveBook - SaveforExport
+[Thu Aug 01 11:07:33 UTC 2024][INFO] [Action] EE ExportAction
+[Thu Aug 01 11:07:41 UTC 2024][INFO] [Action] E SaveBook - Save
+[Thu Aug 01 11:07:42 UTC 2024][INFO] Logger Terminated
+[Mon Nov 17 10:43:36 UTC 2025][INFO] [Action] EE OpenBook
+[Mon Nov 17 10:43:49 UTC 2025][INFO] [Action] E ItemChanged - -1,268522
+[Mon Nov 17 10:43:55 UTC 2025][INFO] [Action] E ItemChanged - -1,640
+[Mon Nov 17 10:44:17 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Mon Nov 17 10:44:19 UTC 2025][INFO] [Action] E ItemChanged - -1,27
+[Mon Nov 17 10:44:26 UTC 2025][INFO] [Action] E SaveBook - Save
+[Mon Nov 17 10:44:26 UTC 2025][INFO] Logger Terminated
+[Tue Nov 18 00:20:46 UTC 2025][INFO] [Action] EE OpenBook
+[Tue Nov 18 00:21:13 UTC 2025][INFO] Logger Terminated
