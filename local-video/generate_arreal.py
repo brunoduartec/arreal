@@ -27,15 +27,37 @@ PRESETS = {
     "curto": {"width": 384, "height": 672, "frames": 33, "steps": 12},
     # Aproximadamente 2 s em 9:16. Use somente depois de aprovar o teste.
     "social": {"width": 576, "height": 1024, "frames": 49, "steps": 20},
+    # Melhor equilibrio para o M4 Pro de 24 GB: mais detalhe e 30 etapas.
+    "qualidade": {"width": 576, "height": 1024, "frames": 33, "steps": 30},
+    # Resolucao vertical nativa do Wan 2.2. Pode levar dezenas de minutos.
+    "maxima": {"width": 704, "height": 1280, "frames": 33, "steps": 40},
+    # 3,04 s a 24 fps, mesma proporcao 2:3 das artes e quase toda a area nativa
+    # do Wan 2.2. E o teto recomendado para o M4 Pro com 24 GB.
+    "maxima_3s": {
+        "width": 768,
+        "height": 1152,
+        "frames": 73,
+        "steps": 40,
+        "guide_scale": 5.0,
+        "tiling": "aggressive",
+        "scheduler": "unipc",
+    },
 }
 
 IDENTITY_GUARD = (
     " Use the supplied image as the exact visual identity and first frame."
     " Preserve the same character, facial structure, hair, clothing, age, body proportions,"
     " painterly illustration style, colors, lighting and environment throughout the entire shot."
-    " Only subtle natural motion. No transformation, no gender change, no costume change,"
+    " Keep the camera completely locked and keep the original background completely fixed."
+    " Motion must come only from the existing character: natural breathing, one realistic blink,"
+    " a small controlled head movement and subtle secondary motion in existing hair and clothing."
+    " No zoom, no pan, no camera shake, no reframing and no newly revealed border content."
+    " No transformation, no gender change, no costume change,"
     " no new people, no duplicate character, no mirrored composition, no reversed reflection,"
-    " no text, no logo and no scene replacement."
+    " no text, no logo and no scene replacement. Animate only elements already visible in the"
+    " reference image. Do not invent new shapes, limbs, flames, objects or background details."
+    " Keep the face sharp, stable and consistent in every frame. Preserve the exact composition"
+    " and the clean painterly background from the supplied reference for the full shot."
 )
 
 
@@ -112,11 +134,13 @@ def main() -> int:
         "--steps",
         str(preset["steps"]),
         "--guide-scale",
-        "5.0",
+        str(preset.get("guide_scale", 5.0)),
         "--seed",
         str(args.seed),
         "--tiling",
-        "aggressive",
+        preset.get("tiling", "aggressive"),
+        "--scheduler",
+        preset.get("scheduler", "unipc"),
         "--output-path",
         str(output),
     ]
