@@ -1,19 +1,31 @@
-# Calendário de posts — Arreal
+# Próximos posts — Arreal
 
 Todos os horários usam o fuso de São Paulo.
 
-| Post | Data e hora | Tema | Objetivo | Arquivos |
+## Campanha ativa
+
+A campanha baseada nos dados reais do Instagram está em
+`campanha_14_dias_2026-07-24.md`. O período sugerido vai de 24 de julho a
+6 de agosto de 2026, com cinco Reels, dois carrosséis e Stories diários.
+
+## Linha editorial atual
+
+A campanha deve construir autoridade e apresentar a proposta de *Arreal* antes de depender de comentários ou outras respostas públicas. Os posts vendem a experiência da leitura, a identidade brasileira e o dilema moral do livro, sem revelar acontecimentos da trama.
+
+| Post | Formato | Tema | Objetivo | Status |
 | --- | --- | --- | --- | --- |
-| 03 | 20/07/2026, 19h30 | Lúcia e o dossiê | Mistério e comentários | `post_03_dossie/arte.png` e `post_03_dossie/legenda.txt` |
-| 04 | 23/07/2026, 19h30 | Pedro salva a mãe | Vínculo emocional e identificação | `post_04_pedro/arte.png` e `post_04_pedro/legenda.txt` |
-| 05 | 26/07/2026, 19h30 | Lúcia, Larissa e o dirigível | Escala do universo e curiosidade | `post_05_dirigivel/arte.png` e `post_05_dirigivel/legenda.txt` |
-| 06 | 29/07/2026, 19h30 | A transmissão no metrô | Ameaça, compartilhamentos e debate | `post_06_transmissao/arte.png` e `post_06_transmissao/legenda.txt` |
-| 07 | 01/08/2026, 19h30 | Leia no Kindle | Conversão para leitura | `post_07_kindle/arte.png` e `post_07_kindle/legenda.txt` |
+| 03 | Vídeo do autor | Por que escrevi *Arreal* | Conexão pessoal e posicionamento | Gravação a cargo do autor |
+| 04 | Carrossel tipográfico | *Arreal* não é uma história sobre escolhidos | Explicar o diferencial da premissa | A produzir |
+| 05 | Carrossel tipográfico | *Arreal* é para quem… | Identificação e qualificação do leitor | A produzir |
 
-## Linha editorial
+## Regras editoriais
 
-1. Abrir com investigação, sem explicar demais.
-2. Humanizar os poderes por meio de uma escolha afetiva.
-3. Ampliar o mundo com uma imagem de grande escala.
-4. Apresentar a ameaça como um acontecimento público.
-5. Encerrar o ciclo com uma chamada clara para leitura no Kindle.
+1. Não usar cenas do terço final, alianças, confrontos ou revelações.
+2. Não depender de perguntas ou pedidos de comentários nesta fase da conta.
+3. Priorizar afirmações fortes, trechos iniciais, bastidores do autor e identidade brasileira.
+4. Manter a paleta escura, dourada e azul da capa.
+5. Usar chamadas para o Kindle apenas quando forem naturais ao conteúdo.
+
+## Referências arquivadas
+
+Os conceitos abandonados foram preservados em `output/marketing/referencias_internas/posts_descartados_2026-07-20/`. Eles não fazem mais parte do calendário de publicação.
