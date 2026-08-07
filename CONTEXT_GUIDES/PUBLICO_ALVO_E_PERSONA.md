@@ -402,6 +402,34 @@ Leitores menos ligados a super-heróis, mas atraídos pela ideia de que habilida
 
 Leitores que desejam cenários, relações e vozes brasileiras em gêneros muitas vezes associados a cidades estrangeiras. Arreal, a escola, o coreto, as relações familiares e o contraste posterior com Nova Iorque são elementos importantes para esse posicionamento.
 
+### Leitores de sobrenatural espiritual e imaginário espírita
+
+Existe um público de ponte que talvez não chegue a *Arreal* pela fantasia urbana ou pelos super-heróis, mas pela familiaridade com ideias como desdobramento da consciência, experiência fora do corpo, comunicação entre mentes, presenças que sobrevivem à morte e transformação moral por meio da crença. Para leitores brasileiros, esse conjunto pode lembrar a mediunidade e o imaginário espírita mesmo quando o texto não utiliza essa nomenclatura.
+
+Essa afinidade é relevante, mas precisa ser comunicada com precisão. *Arreal* possui inspiração parcial nesse repertório; não é um romance espírita doutrinário, não ensina uma cosmologia religiosa e não oferece a comprovação da vida após a morte como sua promessa central. Seu uso do espiritual pertence a uma ficção especulativa híbrida, misturada a superpoderes, trauma, viagem no tempo e conflito moral.
+
+Dentro desse segmento, a maior possibilidade de adesão está em leitores que:
+
+- consomem romances sobrenaturais, espiritualistas ou histórias sobre consciência além do corpo;
+- aceitam a espiritualidade como metáfora, mistério ou hipótese ficcional, sem exigir fidelidade doutrinária;
+- se interessam por luto, permanência dos vínculos, livre-arbítrio, responsabilidade e evolução moral;
+- preferem histórias em que o invisível interfere nas escolhas humanas, mas não resolve os conflitos de forma simples;
+- podem não procurar uma história de super-heróis, porém se interessariam por habilidades apresentadas como manifestações da consciência.
+
+Esse grupo deve ser tratado como **público secundário de alto potencial**, especialmente em recomendações boca a boca. A reação espontânea de uma leitora que reconheceu semelhanças com a mediunidade espírita funciona como evidência qualitativa inicial dessa ponte, ainda não como confirmação de mercado.
+
+#### Persona de ponte: Renata, 38 anos — a leitora do invisível sem catequese
+
+Renata lê romances sobrenaturais, histórias espiritualistas, dramas sobre luto e alguma ficção brasileira contemporânea. Pode ter contato cultural, familiar ou religioso com o espiritismo, sem necessariamente se definir como espírita praticante. A ideia de uma consciência capaz de deixar o corpo e alcançar outras pessoas é imediatamente legível para ela; não precisa que o livro explique esse fenômeno apenas pela linguagem dos superpoderes.
+
+Ela se aproxima de *Arreal* pela dimensão invisível, mas permanece pela pergunta moral. Interessa-se menos por descobrir quem venceria uma batalha e mais por saber o que acontece com alguém que acessa a dor, a memória e a consciência dos outros. A presença de mortos, a continuidade dos vínculos e o papel da crença podem produzir forte identificação, desde que não pareçam uma tentativa superficial de imitar uma religião.
+
+O que a convenceria a ler:
+
+> Depois de deixar o próprio corpo, um jovem descobre que a consciência pode atravessar pessoas, lugares e épocas. Mas compreender a dor dos outros não lhe dá o direito de decidir por eles.
+
+Sua principal objeção surgiria se a divulgação chamasse *Arreal* de “romance espírita” e o texto entregasse uma fantasia de poderes, guerras e paradoxos temporais. Também poderia se afastar se a comunicação enfatizasse apenas combates e cultura de super-heróis, escondendo justamente a dimensão espiritual que a atrairia.
+
 ## 13. Público com menor afinidade
 
 *Arreal* provavelmente terá menor aderência entre leitores que:
@@ -413,16 +441,19 @@ Leitores que desejam cenários, relações e vozes brasileiras em gêneros muita
 - buscam uma narrativa infantil por causa da idade inicial do protagonista;
 - não gostam de ambiguidades ou finais que deixam espaço para debate moral.
 
+Também haverá baixa afinidade entre leitores que procuram especificamente literatura espírita doutrinária, com explicação religiosa reconhecível, finalidade pedagógica ou fidelidade a conceitos formais da tradição. A semelhança temática pode atraí-los para uma amostra, mas não deve ser usada para prometer um gênero que o romance não entrega.
+
 Esse grupo não deve determinar a identidade do livro, mas suas expectativas precisam ser administradas pela capa, sinopse e categorização corretas.
 
 ## 14. Promessas de leitura
 
-A comunicação de *Arreal* deve priorizar quatro promessas:
+A comunicação de *Arreal* deve priorizar cinco promessas:
 
 1. **Fantasia reconhecível com uma ideia própria:** qualquer pessoa pode despertar, e o impossível depende daquilo em que consegue acreditar.
 2. **Poder como revelação emocional:** as habilidades materializam desejos, medos e feridas.
 3. **Conflito moral:** descobrir o próprio poder não significa saber como utilizá-lo.
 4. **Escalada narrativa:** a história começa em uma pequena cidade brasileira e cresce até alcançar outras épocas, lugares e possibilidades de realidade.
+5. **Consciência além do corpo:** o fantástico atravessa memória, presença, morte e vínculos humanos sem se fechar em uma explicação religiosa única.
 
 ## 15. Cuidados de comunicação
 
@@ -432,6 +463,8 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - Apresentar o amadurecimento do tom como qualidade: a história cresce junto com o conflito do protagonista.
 - Usar a identidade brasileira como diferencial sem sugerir que toda a narrativa permanece em Arreal.
 - Evitar tratar as habilidades como um sistema mecânico; no livro, elas são fundamentalmente sensoriais e emocionais.
+- Não divulgar *Arreal* como “romance espírita”. Quando útil, falar em inspiração no imaginário da mediunidade, espiritualidade não doutrinária ou consciência além do corpo.
+- Para o público espiritualista, reduzir a ênfase em “super-heróis” e destacar desdobramento, vínculos que atravessam a morte, livre-arbítrio e responsabilidade.
 
 ## 16. Possíveis mensagens de divulgação
 
@@ -440,6 +473,8 @@ A comunicação de *Arreal* deve priorizar quatro promessas:
 - “O poder não corrompe. Ele revela.”
 - “Todos podem despertar. Nem todos deveriam decidir pelo mundo.”
 - “Antes de salvar a humanidade, ele terá de descobrir se deseja salvá-la ou controlá-la.”
+- “O corpo pode ficar para trás. As consequências, não.”
+- “Compreender a consciência de outra pessoa não significa ter o direito de escolher por ela.”
 
 ## 17. Hipóteses para validação
 
@@ -452,9 +487,14 @@ Antes de fechar o posicionamento comercial, recomenda-se testar com leitores bet
 - se a promessa de superpoderes cria uma expectativa de ação diferente da experiência efetiva do livro;
 - quais elementos podem ser mencionados na sinopse sem prejudicar as revelações;
 - se leitores fora do público habitual de super-heróis se interessam pela dimensão psicológica.
+- se leitores com contato com o espiritismo reconhecem afinidade sem esperar uma obra doutrinária;
+- se as expressões “consciência além do corpo”, “desdobramento” e “espiritualidade” atraem mais do que confundem;
+- se mencionar a inspiração na mediunidade amplia a curiosidade ou cria uma expectativa religiosa incompatível com o livro.
 
 ## 18. Síntese editorial
 
-O público de maior potencial para *Arreal* é formado por leitores jovens adultos e adultos jovens que cresceram imaginando ter superpoderes, mas hoje procuram histórias capazes de questionar essa fantasia. A persona central não deseja apenas descobrir quem é mais forte: deseja entender o que o poder revela sobre quem o possui.
+O público de maior potencial para *Arreal* continua sendo formado por leitores jovens adultos e adultos jovens que cresceram imaginando ter superpoderes, mas hoje procuram histórias capazes de questionar essa fantasia. A persona central não deseja apenas descobrir quem é mais forte: deseja entender o que o poder revela sobre quem o possui.
+
+A nova hipótese amplia esse mapa: existe um segundo caminho de entrada, composto por leitores adultos de sobrenatural espiritual e por pessoas culturalmente próximas do imaginário espírita. Eles podem reconhecer no desdobramento, na permanência das consciências e na força da crença uma linguagem familiar. Não formam necessariamente o núcleo do gênero, mas podem constituir um público de ponte valioso e gerar recomendações para além das comunidades de fantasia.
 
 O melhor posicionamento, portanto, não é “mais uma história de super-heróis”, mas uma fantasia urbana brasileira sobre poder pessoal, identidade e a perigosa distância entre ser capaz de fazer algo e ter o direito de fazê-lo.
