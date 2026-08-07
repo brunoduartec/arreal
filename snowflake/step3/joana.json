@@ -6,5 +6,24 @@
   ],
   "goals": ["Cuidar do Crispim", "Ser uma arquiteta"],
   "conflict": "Sempre quis ser arquiteta mas o pai entrou em coma muito cedo e ela decidiu largar sua vida para cuidar dele",
-  "epiphany": "Quando percebe que o pai a enganava porque não estava em coma como ela achava mas só se escondendo decide vingar dele se aliando ao garçom porque ela quer tirar de Crispim tudo que ele ama, o direito de ser a pessoa mais poderosa do mundo, fazendo com que todos possam ter habilidades"
+  "epiphany": "Quando percebe que o pai a enganava porque não estava em coma como ela achava mas só se escondendo decide vingar dele se aliando ao garçom porque ela quer tirar de Crispim tudo que ele ama, o direito de ser a pessoa mais poderosa do mundo, fazendo com que todos possam ter habilidades",
+  "canonical_appearance": {
+    "confirmed": [
+      "olhos cor de mel",
+      "descrita pelo narrador como muito bonita",
+      "usa vestido florido em uma tarde na casa de Crispim"
+    ],
+    "not_confirmed_in_manuscript": [
+      "tom de pele",
+      "cor, comprimento e textura do cabelo",
+      "altura, peso e tipo de corpo"
+    ],
+    "sources": [
+      "chapters/chapter2-3.tex:31-38",
+      "chapters/chapter20.tex:27-31"
+    ],
+    "image": null,
+    "image_status": "REPROVA",
+    "image_reason": "Não há retrato individual de Joana na pasta images; a personagem não pode ser auditada visualmente. A descrição física extensa do step5 não é confirmada pelo manuscrito."
+  }
 }

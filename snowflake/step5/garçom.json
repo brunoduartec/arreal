@@ -1,22 +1,67 @@
 {
-    "BASIC": {
-        "Name": "Sem nome",
-        "Age": "60",
-        "Place of birth": "Cidadezinha",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "Primeiro grau imcompleto",
-        "Occupation": "garçom",
-        "Income": "R$1200/mes"
+  "META": {
+    "status": "PENDENTE_DE_AUDITORIA_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Garçom",
+    "role": "funcionário antigo do La Fontaine e antagonista",
+    "age_or_stage": "homem velho"
+  },
+  "CHARACTER_SYNOPSIS": "Depois de uma vida de invisibilidade e ressentimento, o Garçom descobre como abalar certezas e retirar habilidades. Passa a reivindicar como direito aquilo que antes julgava inacessível.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "velho e baixo",
+      "postura um pouco curvada",
+      "cabeça calva",
+      "rosto vincado e pele muito marcada",
+      "sobrancelhas grisalhas",
+      "olhos pequenos, verde quase cinza",
+      "terno preto gasto",
+      "camisa amarelada pelo tempo",
+      "cabelo ralo quando visto no reflexo"
+    ],
+    "not_confirmed": [
+      "altura numérica",
+      "peso",
+      "formato exato do rosto além das marcas descritas"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Homem velho e baixo, ligeiramente curvado, cabeça praticamente calva com cabelo ralo, rosto profundamente vincado, pele muito marcada, sobrancelhas grisalhas e olhos pequenos de verde quase cinza. Usa terno preto visivelmente gasto e camisa envelhecida, amarelada pelo tempo; não deve parecer um maître luxuoso.",
+  "OPEN_DECISIONS": [
+    "definir traços faciais incidentais sem suavizar a idade ou o desgaste"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter7.tex",
+      "lines": "46",
+      "evidence": "velho, baixo, curvado, calvo, rosto vincado e terno preto gasto"
     },
-    "PHYSICAL APPEARANCE": "Cabelos grisalhos, bariga saliente, careca, com a ponta dos dedos e as barbas queimadas de cigarro, pele enrugada",
-    "SPEECH AND COMMUNICATION": {
-        "posture": ["Violenta","arrogante","metódico"]
-
+    {
+      "file": "chapters/chapter8.tex",
+      "lines": "34-39",
+      "evidence": "pele marcada, camisa amarelada e olhos pequenos verde quase cinza"
     },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "O garçom viveu uma infância de muitas privações, seu pai sempre empregado do dono do restaurante, vivia dizendo pra ele que não tinha direito a nada a não ser a vida que tinham e a aceitar a vida que tinham."
+    {
+      "file": "chapters/chapter8-1.tex",
+      "lines": "97",
+      "evidence": "uniforme manchado e cabelo ralo"
     },
-    "Short Description": "Sempre viveu como invisível no restaurante da cidade, quando seu pai morreu assumiu seu papel de garçom, posição essa que manteve até os 60 anos de idade nunca tendo ambições por crer que não tinha direito"
+    {
+      "file": "chapters/chapter41.tex",
+      "lines": "184",
+      "evidence": "sobrancelhas grisalhas"
+    }
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/garçom.png",
+    "status": "REPROVA",
+    "reason": "traje impecável, camisa branca, gravata-borboleta e postura ereta contradizem o desgaste canônico"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/garçom-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna",
+    "reason": "postura curvada, rosto marcado, olhos verde-cinza e uniforme gasto correspondem à ficha"
+  }
 }

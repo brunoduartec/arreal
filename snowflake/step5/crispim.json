@@ -1,22 +1,70 @@
 {
-    "BASIC": {
-        "Name": "Crispim Gonçalves",
-        "Age": "70",
-        "Place of birth": "Cidadezinha",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "Segundo grau completo",
-        "Occupation": "Militar do exército",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_ESCOLHA_DA_FASE",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Antônio Crispim",
+    "role": "ex-militar, pai de Joana e pai biológico de Larissa; manipulador de ilusões",
+    "age_or_stage": "idoso no corpo; mais jovem em projeções mentais"
+  },
+  "CHARACTER_SYNOPSIS": "Crispim foge das limitações do corpo por meio do desdobramento e das ilusões. Convencido de que enxerga melhor que os demais, manipula jovens despertos até ser confrontado pelas consequências de seu controle.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed_variants": {
+      "physical_body": [
+        "senhor idoso",
+        "cabeça baixa",
+        "barbas grisalhas descuidadas",
+        "cabelos grisalhos descuidados"
+      ],
+      "mental_projection_chapter1": [
+        "aparência mais jovem que o corpo catatônico",
+        "roupão vermelho",
+        "charuto entre os dedos",
+        "olhar fixo",
+        "tique nos olhos"
+      ]
     },
-    "PHYSICAL APPEARANCE": "Cabelos grandes e brancos, barba grande e branca, pele enrugada",
-    "SPEECH AND COMMUNICATION": {
-        "posture": ["Rígida, sóbria,agressiva"]
-
+    "not_confirmed": [
+      "calvície",
+      "cor dos olhos",
+      "tom de pele ou etnia",
+      "altura e peso",
+      "traços faciais exatos"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Escolher uma única fase. Corpo físico: senhor idoso, cabeça baixa, cabelos e barba grisalhos, longos o suficiente para parecerem descuidados. Projeção do capítulo 1: versão mais jovem, de roupão vermelho, charuto entre os dedos, olhar fixo e tique ocular. Não fundir as duas aparições.",
+  "OPEN_DECISIONS": [
+    "escolher corpo físico ou projeção mental para o retrato",
+    "definir rosto, pele e olhos",
+    "padronizar o nome do arquivo de imagem de crispin para crispim"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter1.tex",
+      "lines": "29-43",
+      "evidence": "roupão vermelho, charuto, olhar fixo e tique nos olhos"
     },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Filho único, decidiu virar militar quando viu um anúncio e acho que fosse um caminho mais fácil do que estudar muitos anos e ir atrás de um emprego"
+    {
+      "file": "chapters/chapter2-3.tex",
+      "lines": "49-53",
+      "evidence": "corpo idoso com barbas e cabelos grisalhos descuidados"
     },
-    "Short Description": "Militar medíocre nunca conseguiu subir de cargo e vivia vários anos na mesma patente o que fazia com que ele tivesse raiva da idéia de o poder ser dado a alguém que a seu ver não tinha direito"
+    {
+      "file": "chapters/chapter2-3.tex",
+      "lines": "81",
+      "evidence": "projeção mais jovem que o corpo"
+    }
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/crispin.png",
+    "status": "REPROVA",
+    "reason": "calvo com barba curta; não corresponde ao corpo nem à projeção documentada"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/crispim-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna do corpo físico",
+    "reason": "cabelos e barba grisalhos longos e descuidados correspondem ao corpo catatônico"
+  }
 }

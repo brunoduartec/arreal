@@ -2,7 +2,8 @@
     "motivations": [
         "Orgulho de ser a pessoa com mais habilidades",
         "Ser amado pela sua irmã",
-        "Ser justo"
+        "Ser justo",
+        "Acreditar depois de um tempo que é o único que pode resolver o problema"
     ],
     "goals": [
         "Impedir que o futuro seja apocalíptico",
@@ -11,9 +12,39 @@
         "Ser sempre moralmente bom",
         "Ter sempre razão"
     ],
+    "flaws":[
+        "Não suporta ser questionado e contrariado",
+        "Faz tudo se alguem duvidar dele"
+    ],
     "conflict": "Assumir a responsabilidade de agir e não ficar só esperando que tudo se resolva",
-    "epiphany": [
+  "epiphany": [
         "Ao notar que tem pessoas querendo que o futuro se concretize precisa abrir mão da ideia que tem que é o salvador e vai resolver tudo mas sim que a humanidade é muito maior que ele e faria tudo aquilo independente de quão poderoso ele se torne",
-        "No final mata o garçom que representava a sua inveja e sua vontade de poder e de estar sempre certo e logo depois aceita que o que precisa é fazer com que todos esqueçam de tudo"
-    ]
+    "No final mata o garçom que representava a sua inveja e sua vontade de poder e de estar sempre certo e logo depois aceita que o que precisa é fazer com que todos esqueçam de tudo"
+  ],
+  "canonical_appearance": {
+    "confirmed": [
+      "adolescente em idade escolar",
+      "usa uniforme escolar na abertura"
+    ],
+    "author_approved_visual_traits": [
+      "negro de pele clara",
+      "avô paterno negro retinto e avó paterna negra",
+      "avós maternos brancos, descendentes de portugueses"
+    ],
+    "not_confirmed_in_manuscript": [
+      "nome próprio",
+      "cor e textura do cabelo",
+      "cor dos olhos",
+      "rosto",
+      "roupa casual específica fora da escola"
+    ],
+    "sources": [
+      "chapters/chapter0.tex:38-58",
+      "chapters/chapter1.tex:129-139",
+      "chapters/chapter2-3.tex:8-17"
+    ],
+    "image": "images/garoto.png",
+    "image_status": "REPROVA",
+    "image_reason": "A idade aparente e a pele negra clara são plausíveis, mas a arte fixa cabelo, rosto, moletom e mochila sem fonte; também não o mostra com o uniforme escolar da única roupa explicitamente confirmada pelo manuscrito."
+  }
 }

@@ -1,22 +1,55 @@
 {
-    "BASIC": {
-        "Name": "Bento Dinis da Silva",
-        "Age": "15",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_DEFINICAO_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Bento",
+    "role": "valentão da escola e posterior aliado do Garçom",
+    "age_or_stage": "aluno na abertura; cinco anos mais velho na linha principal"
+  },
+  "CHARACTER_SYNOPSIS": "Bento associa força a direito e reage pela intimidação. Mais tarde, aproxima-se do Garçom por acreditar numa liberdade conquistada pela imposição.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "aluno da escola na abertura",
+      "integra o grupo de valentões ligado a Jonas"
+    ],
+    "not_confirmed": [
+      "idade exata",
+      "tom de pele ou etnia",
+      "cor dos olhos",
+      "cor e corte do cabelo",
+      "altura, peso e tipo físico",
+      "roupa específica"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "A aparência física de Bento não está definida no manuscrito. Qualquer retrato deve primeiro escolher entre o aluno da abertura e o personagem cinco anos mais velho; todos os traços faciais e corporais dependem de decisão autoral.",
+  "OPEN_DECISIONS": [
+    "escolher a fase narrativa",
+    "definir idade, pele, rosto, olhos, cabelo, corpo e roupa",
+    "decidir se a concepção antiga — loiro, pele clara e olhos verdes — será incorporada ao manuscrito ou descartada"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter0.tex",
+      "lines": "78-90",
+      "evidence": "Bento é aluno e valentão; não há descrição física"
     },
-    "PHYSICAL APPEARANCE": "",
-    "SPEECH AND COMMUNICATION": {
-        "posture": "" // Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?,
-
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+    {
+      "file": "chapters/chapter41.tex",
+      "lines": "184-188",
+      "evidence": "aparece ao lado de Jonas e do Garçom após o salto temporal"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/bento.png",
+    "status": "REPROVA",
+    "reason": "homem adulto de cabelo escuro sem fase narrativa ou fonte física definida"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/bento-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna com casting aprovado pelo autor",
+    "reason": "adolescente de 15 anos, robusto, loiro e de olhos verdes"
+  }
 }

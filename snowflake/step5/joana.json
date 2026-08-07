@@ -1,21 +1,54 @@
 {
-    "BASIC": {
-        "Name": "Joana Gonçalves",
-        "Age": "30",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_DEFINICAO_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Joana",
+    "role": "filha de Crispim e cuidadora de seu corpo catatônico",
+    "age_or_stage": "jovem adulta; idade exata não confirmada"
+  },
+  "CHARACTER_SYNOPSIS": "Joana sustenta a casa e cuida durante anos do corpo ausente de Crispim. Quando descobre que o suposto coma encobria uma escolha do pai, sua dedicação se converte em ressentimento e desejo de reação.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "olhos cor de mel",
+      "descrita pelo narrador como muito bonita",
+      "usa vestido florido em uma tarde na casa de Crispim"
+    ],
+    "not_confirmed": [
+      "idade exata",
+      "tom de pele ou etnia",
+      "cor, comprimento e textura do cabelo",
+      "altura, peso e tipo físico",
+      "roupa definitiva fora da cena do vestido florido"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Jovem adulta de olhos cor de mel, percebida pelo narrador como muito bonita. Para a cena do capítulo 20, usa vestido florido movido pelo vento. Cabelo, pele, rosto e tipo físico dependem de decisão autoral.",
+  "OPEN_DECISIONS": [
+    "definir idade, pele, rosto, cabelo e tipo físico",
+    "decidir se a descrição antiga do step5 será incorporada ao manuscrito ou descartada"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter2-3.tex",
+      "lines": "31-38",
+      "evidence": "olhos de mel e descrita como muito bonita"
     },
-    "PHYSICAL APPEARANCE": ["Morena"],
-    "SPEECH AND COMMUNICATION": {
-        "posture": ["submissa","vingativa"]
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Quando pequena convivia com seu pai sempre ausente emocionalmente, ele a tratava sempre com formalismo por ser militar e não tratava sua mãe muito bem. Quanso sua mão Helena, faleceu sentiu seu pai ainda mais distante"
+    {
+      "file": "chapters/chapter20.tex",
+      "lines": "27-31",
+      "evidence": "vestido florido ao vento"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": null,
+    "status": "REPROVA",
+    "reason": "não há retrato individual de Joana em images"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/joana-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna com casting aprovado pelo autor",
+    "reason": "jovem adulta parda clara, cabelos longos ondulados, olhos de mel e vestido florido"
+  }
 }

@@ -1,25 +1,55 @@
 {
-    "BASIC": {
-        "Name": "Ítalo Santos",
-        "Age": "17",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_DEFINICAO_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Ítalo",
+    "role": "jovem volitador",
+    "age_or_stage": "rapaz jovem; idade exata não confirmada"
+  },
+  "CHARACTER_SYNOPSIS": "Marcado por solidão, humilhação e desejo de alívio, Ítalo aprende a volitar como expressão de leveza. Busca uma figura capaz de orientar sua fé e seu senso de justiça.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "rapaz ou garoto jovem",
+      "possui cabelo com comprimento suficiente para o vento brincar com ele durante a volitação"
+    ],
+    "not_confirmed": [
+      "idade exata",
+      "tom de pele ou etnia",
+      "cor e textura do cabelo",
+      "óculos",
+      "cor dos olhos",
+      "altura, peso e tipo físico",
+      "roupa específica"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Rapaz jovem cuja aparência ainda não foi fechada pelo manuscrito. O único marcador físico aproveitável é a presença de cabelo perceptivelmente movido pelo vento quando ele volita. Rosto, etnia, óculos, roupa e tipo físico exigem decisão autoral.",
+  "OPEN_DECISIONS": [
+    "definir idade, etnia, pele, rosto, cabelo, olhos, tipo físico e roupa",
+    "decidir se a antiga concepção do step5 — negro, cabelo curto e camisa de flanela — deve se tornar cânone mediante alteração do manuscrito"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter0.tex",
+      "lines": "96-116",
+      "evidence": "rapaz/garoto que desce do céu volitando"
     },
-    "PHYSICAL APPEARANCE": "",
-    "SPEECH AND COMMUNICATION": {
-        "posture": [
-            "Amável",
-            "Pacífica"
-        ]
-
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Sempre viveu uma vida religiosa, criado por seus pais que o reprimiam muito fazendo com que ele falasse pouco por medo de ser repreendido. Crispim sempre percebia como ele era reprimido e um tanto sucetível a se revoltar e portanto ter contato com seus sentimentos mais de agressividade, fazendo com que sua habilidade despertasse."
+    {
+      "file": "chapters/chapter19.tex",
+      "lines": "70-98",
+      "evidence": "o cabelo flutua e o vento brinca com ele"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/ítalo.png",
+    "status": "REPROVA",
+    "reason": "pele, cabelo, óculos e moletom não têm fonte no manuscrito"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/ítalo-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna com casting aprovado pelo autor",
+    "reason": "jovem negro, sem óculos, cabelo preto curto, camiseta preta e camisa de flanela"
+  }
 }
