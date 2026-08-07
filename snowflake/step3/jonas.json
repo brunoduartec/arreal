@@ -12,5 +12,24 @@
         "Seguir aqueles que acha mais forte"
     ],
     "conflict": "Sempre foi apaixonado por Lucia mas na verdade porque ela nunca deu bola pra ele e por isso precisa ser poderoso para que ela o note",
-    "epiphany": "No meio da batalha final percebe o como a sua inveja foi sem sentido e o fez fazer mal às pessoas"
+  "epiphany": "No meio da batalha final percebe o como a sua inveja foi sem sentido e o fez fazer mal às pessoas",
+  "canonical_appearance": {
+    "confirmed": [
+      "colega de turma de Lúcia e duas turmas à frente do Garoto na abertura",
+      "olhos expressivos, associados a malícia e entusiasmo"
+    ],
+    "not_confirmed_in_manuscript": [
+      "tom de pele",
+      "cor e textura do cabelo",
+      "cor dos olhos",
+      "roupa específica"
+    ],
+    "sources": [
+      "chapters/chapter0.tex:58-72",
+      "chapters/chapter11.tex:38-47"
+    ],
+    "image": "images/jonas.png",
+    "image_status": "REPROVA",
+    "image_reason": "O retrato fixa um rosto adulto, cabelo escuro cacheado e roupa preta sem fonte textual e sem indicar se é Jonas adolescente ou cinco anos depois. O brilho malicioso do olhar é compatível, mas insuficiente para validar a identidade visual inteira."
+  }
 }

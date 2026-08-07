@@ -1,22 +1,63 @@
 {
-    "BASIC": {
-        "Name": "Lúcia Nascimento",
-        "Age": "20",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_AUDITORIA_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Lúcia",
+    "role": "irmã mais velha do Garoto; investigadora e jornalista",
+    "age_or_stage": "vinte e um anos, após o salto de cinco anos"
+  },
+  "AUTHOR_DECISIONS": [
+    {
+      "date": "2026-08-07",
+      "decision": "O novo retrato deve representar Lúcia aos vinte e um anos, depois do salto de cinco anos."
     },
-    "PHYSICAL APPEARANCE": "",
-    "SPEECH AND COMMUNICATION": {
-        "posture": "" // Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?,
-
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+    {
+      "date": "2026-08-07",
+      "decision": "Lúcia é uma mulher negra de pele clara, assim como o irmão. O avô paterno é negro retinto, a avó paterna é negra e os avós maternos são brancos descendentes de portugueses."
     }
-
+  ],
+  "CHARACTER_SYNOPSIS": "Lúcia protege o irmão com pragmatismo e desconfiança. A curiosidade investigativa a leva a reunir indícios sobre os despertos e a agir no caos sem possuir habilidades.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "alta para a idade",
+      "magra",
+      "cabelos superlisos",
+      "olhos verdes"
+    ],
+    "not_confirmed": [
+      "cor e comprimento dos cabelos",
+      "formato do rosto",
+      "roupa específica fora de uma cena selecionada"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Mulher negra de pele clara, com vinte e um anos, alta e magra, cabelos de textura inequivocamente superlisa e olhos verdes claramente legíveis. Sua ascendência combina o lado paterno negro — avô retinto e avó negra — com o lado materno branco, descendente de portugueses. A cor e o comprimento do cabelo, os traços faciais e a roupa permanecem em aberto.",
+  "OPEN_DECISIONS": [
+    "definir cor e comprimento dos cabelos",
+    "definir traços faciais"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter0.tex",
+      "lines": "58",
+      "evidence": "alta, magra, cabelos superlisos e olhos verdes"
+    },
+    {
+      "file": "chapters/chapter1.tex",
+      "lines": "129-139",
+      "evidence": "o Garoto recorda Lúcia com dezesseis anos e descobre que se passaram cinco anos"
+    }
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/lúcia.png",
+    "status": "REPROVA",
+    "reason": "cabelo crespo preso e olhos escuros contradizem o manuscrito"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/lúcia-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna",
+    "reason": "representa Lúcia aos 21 anos, negra de pele clara, com cabelos superlisos e olhos verdes"
+  }
 }

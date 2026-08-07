@@ -1,30 +1,68 @@
 {
-    "BASIC": {
-        "Name": "sem nome",
-        "Age": "17",
-        "Place of birth": "Cidade pequena",
-        "Sign": "Leão",
-        "Current location": "Cidade pequena",
-        "Nationality": "Brasileira",
-        "Education": "7 serie",
-        "Occupation": "Estudante",
-        "Income": "classe média"
+  "META": {
+    "status": "PENDENTE_DE_DEFINICAO_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Garoto",
+    "role": "protagonista e narrador",
+    "age_or_stage": "adolescente em idade escolar; desperta ainda adolescente após cinco anos de coma"
+  },
+  "AUTHOR_DECISIONS": [
+    {
+      "date": "2026-08-07",
+      "decision": "O Garoto é negro de pele clara, assim como Lúcia. O avô paterno é negro retinto, a avó paterna é negra e os avós maternos são brancos descendentes de portugueses."
+    }
+  ],
+  "CHARACTER_SYNOPSIS": "Um adolescente solitário e fascinado por super-heróis desperta para habilidades extraordinárias. Sua busca por aceitação e certeza gradualmente se transforma no risco de decidir pelos outros em nome do bem.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "adolescente",
+      "estudante",
+      "usa uniforme escolar na abertura"
+    ],
+    "not_confirmed": [
+      "nome próprio",
+      "idade numérica",
+      "cor e textura do cabelo",
+      "cor dos olhos",
+      "rosto",
+      "altura, peso e tipo físico",
+      "roupa casual fora de cenas específicas"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Adolescente negro de pele clara, em idade escolar, irmão de Lúcia. Sua ascendência combina o lado paterno negro — avô retinto e avó negra — com o lado materno branco, descendente de portugueses. Na abertura, usa uniforme da escola, cujo desenho e cores não são especificados. Nome, rosto, cabelo, olhos e tipo físico ainda dependem de decisão autoral.",
+  "OPEN_DECISIONS": [
+    "definir idade exata, traços faciais, cabelo, olhos e tipo físico",
+    "definir o uniforme escolar",
+    "escolher se o retrato representa antes ou depois do coma"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter0.tex",
+      "lines": "38-58",
+      "evidence": "adolescente, estudante e uniforme escolar"
     },
-    "PHYSICAL APPEARANCE": {
-        "altura": "1.7m",
-        "peso": "70kg",
-        "tom da pele": "moreno de pele clara",
-        "cabelo": "cabelo curto"
+    {
+      "file": "chapters/chapter1.tex",
+      "lines": "129-139",
+      "evidence": "desperta após cinco anos e ainda é tratado como adolescente"
     },
-    "SPEECH AND COMMUNICATION": {
-        "posture (Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?)": [
-            "tímido",
-            "relutante",
-            "omisso"
-        ]
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Teve uma infância boa com pais que o amavam"
-    },
-    "Short Description": "Sempre foi um menino curioso e gostou de realizar coisas que estimulassem a sua criatividade. Não tinha muitos amigos pois todos os achavam excentrico demais. Tinha uma relação de dependência com sua mãe e quando a mesma morre fica um pouco perdido e acaba transferindo tal afeição para sua irmão Lúcia. Por conta de todos o desprezarem acabou desenvolvendo uma obsessão pela aprovação do outro o que faz com que todas as suas decisões fossem embasadas em ser aceito e amado.Gostava muito de histórias de superheróis e seus superpoderes, sendo o superman seu favorito. Desde pequeno sonha em viajar o mundo e conhecer as culturas e comidas variadas."
+    {
+      "file": "chapters/chapter2-3.tex",
+      "lines": "8-17",
+      "evidence": "estranhamento de acordar adolescente"
+    }
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/garoto.png",
+    "status": "REPROVA",
+    "reason": "idade plausível, mas rosto, pele, cabelo, moletom e mochila não têm fonte"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/garoto-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna com casting aprovado pelo autor",
+    "reason": "adolescente de 17 anos, negro de pele clara, em uniforme escolar e com identidade preservada"
+  }
 }

@@ -1,22 +1,48 @@
 {
-    "BASIC": {
-        "Name": "Pedro da Silva",
-        "Age": "16",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
-    },
-    "PHYSICAL APPEARANCE": "",
-    "SPEECH AND COMMUNICATION": {
-        "posture": "" // Stiff, military, Slouching, Casual and relaxed, ‘Turtle,’ tired, Other?,
-
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+  "META": {
+    "status": "PENDENTE_DE_AUDITORIA_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Pedro",
+    "role": "adolescente desperto capaz de mover objetos à distância",
+    "age_or_stage": "cerca de quinze anos"
+  },
+  "CHARACTER_SYNOPSIS": "Pedro reage ao medo e à injustiça com impulso e agressividade. Manipulado por figuras mais poderosas, precisa aprender a distinguir força, obediência e responsabilidade.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "cerca de quinze anos",
+      "corpo atarracado",
+      "olhar desconfiado"
+    ],
+    "not_confirmed": [
+      "tom de pele ou etnia",
+      "cor e corte do cabelo",
+      "cor dos olhos",
+      "roupa específica"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Adolescente de cerca de quinze anos, corpo baixo ou compacto e atarracado, com olhar desconfiado. Não deve parecer um adulto jovem alto, esguio ou com físico de modelo atlético.",
+  "OPEN_DECISIONS": [
+    "definir tom de pele, rosto, cabelo e olhos",
+    "escolher uma cena específica antes de mostrar telecinese"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter16.tex",
+      "lines": "28",
+      "evidence": "uns quinze anos, corpo atarracado e olhar desconfiado"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/pedro.png",
+    "status": "REPROVA",
+    "reason": "aparência adulta e atlética; pedras levitando sem cena-fonte definida"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/pedro-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna",
+    "reason": "aparência adolescente, corpo compacto e olhar desconfiado, sem poder genérico"
+  }
 }
