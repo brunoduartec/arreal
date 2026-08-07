@@ -12,10 +12,12 @@ from reportlab.pdfgen import canvas
 
 
 ROOT = Path(__file__).resolve().parents[1]
-FRONT = ROOT / "images" / "capa_kdp_refinada.png"
+FRONT = ROOT / "images" / "capa_kdp_sem_texto_v2.png"
 OUTPUT_DIR = ROOT / "output" / "kdp"
 
-PAGE_COUNT = 308
+ISBN13 = "9786502276570"
+ISBN_DISPLAY = "978-65-02-27657-0"
+PAGE_COUNT = 310
 TRIM_W_IN = 5.5
 TRIM_H_IN = 8.5
 BLEED_IN = 0.125
@@ -24,9 +26,10 @@ FULL_W_IN = (2 * TRIM_W_IN) + SPINE_IN + (2 * BLEED_IN)
 FULL_H_IN = TRIM_H_IN + (2 * BLEED_IN)
 PPI = 300
 
-PNG_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_308p.png"
-JPG_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_308p.jpg"
-PDF_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_308p.pdf"
+PNG_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_310p.png"
+JPG_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_310p.jpg"
+PDF_OUT = OUTPUT_DIR / "Arreal_Capa_Impressa_55x85_310p.pdf"
+BARCODE_OUT = OUTPUT_DIR / "Arreal_ISBN_978-65-02-27657-0_EAN13.png"
 
 ARIAL = Path("/System/Library/Fonts/Supplemental/Arial.ttf")
 ARIAL_BOLD = Path("/System/Library/Fonts/Supplemental/Arial Bold.ttf")
@@ -45,6 +48,27 @@ BLURB = (
     "Arreal é uma fantasia psicológica sobre identidade, dor e o poder devastador "
     "das narrativas que contamos a nós mesmos."
 )
+
+EAN_L = {
+    "0": "0001101", "1": "0011001", "2": "0010011", "3": "0111101",
+    "4": "0100011", "5": "0110001", "6": "0101111", "7": "0111011",
+    "8": "0110111", "9": "0001011",
+}
+EAN_G = {
+    "0": "0100111", "1": "0110011", "2": "0011011", "3": "0100001",
+    "4": "0011101", "5": "0111001", "6": "0000101", "7": "0010001",
+    "8": "0001001", "9": "0010111",
+}
+EAN_R = {
+    "0": "1110010", "1": "1100110", "2": "1101100", "3": "1000010",
+    "4": "1011100", "5": "1001110", "6": "1010000", "7": "1000100",
+    "8": "1001000", "9": "1110100",
+}
+EAN_PARITY = {
+    "0": "LLLLLL", "1": "LLGLGG", "2": "LLGGLG", "3": "LLGGGL",
+    "4": "LGLLGG", "5": "LGGLLG", "6": "LGGGLL", "7": "LGLGLG",
+    "8": "LGLGGL", "9": "LGGLGL",
+}
 
 
 def font(path: Path, points: float) -> ImageFont.FreeTypeFont:
@@ -92,13 +116,125 @@ def draw_centered_tracking(
     chosen_font: ImageFont.FreeTypeFont,
     fill: tuple[int, int, int],
     tracking: int,
-) -> None:
+) -> tuple[float, float, float, float]:
     widths = [draw.textlength(char, font=chosen_font) for char in text]
     total = sum(widths) + tracking * max(0, len(text) - 1)
     x = center_x - total / 2
+    bounds: list[tuple[float, float, float, float]] = []
     for char, width in zip(text, widths):
+        bounds.append(draw.textbbox((x, y), char, font=chosen_font))
         draw.text((x, y), char, font=chosen_font, fill=fill)
         x += width + tracking
+    return (
+        min(box[0] for box in bounds),
+        min(box[1] for box in bounds),
+        max(box[2] for box in bounds),
+        max(box[3] for box in bounds),
+    )
+
+
+def assert_inside(
+    label: str,
+    bounds: tuple[float, float, float, float],
+    safe_box: tuple[float, float, float, float],
+) -> None:
+    left, top, right, bottom = bounds
+    safe_left, safe_top, safe_right, safe_bottom = safe_box
+    if left < safe_left or top < safe_top or right > safe_right or bottom > safe_bottom:
+        raise ValueError(f"{label} fora da zona segura: {bounds}; zona segura: {safe_box}")
+
+
+def isbn13_check_digit(first_twelve: str) -> str:
+    if len(first_twelve) != 12 or not first_twelve.isdigit():
+        raise ValueError("O ISBN deve fornecer exatamente os 12 primeiros dígitos.")
+    weighted_sum = sum(
+        int(digit) * (1 if index % 2 == 0 else 3)
+        for index, digit in enumerate(first_twelve)
+    )
+    return str((10 - weighted_sum % 10) % 10)
+
+
+def ean13_modules(value: str) -> str:
+    if len(value) != 13 or not value.isdigit():
+        raise ValueError("EAN-13 deve conter exatamente 13 dígitos.")
+    expected = isbn13_check_digit(value[:12])
+    if value[-1] != expected:
+        raise ValueError(f"Dígito verificador inválido: esperado {expected}, recebido {value[-1]}.")
+
+    parity = EAN_PARITY[value[0]]
+    left = "".join(
+        (EAN_L if encoding == "L" else EAN_G)[digit]
+        for digit, encoding in zip(value[1:7], parity)
+    )
+    right = "".join(EAN_R[digit] for digit in value[7:])
+    modules = f"101{left}01010{right}101"
+    if len(modules) != 95:
+        raise AssertionError(f"EAN-13 deveria ter 95 módulos, mas tem {len(modules)}.")
+    return modules
+
+
+def build_barcode() -> Image.Image:
+    """Render a press-ready Bookland EAN-13 block at 300 ppi."""
+    canvas_w = round(2.15 * PPI)
+    canvas_h = round(1.35 * PPI)
+    module_w = 5
+    quiet_left = 12
+    quiet_right = 10
+    modules = ean13_modules(ISBN13)
+    symbol_w = (quiet_left + len(modules) + quiet_right) * module_w
+    symbol_x = (canvas_w - symbol_w) // 2 + quiet_left * module_w
+
+    barcode = Image.new("RGB", (canvas_w, canvas_h), "white")
+    barcode_draw = ImageDraw.Draw(barcode)
+    label_font = font(ARIAL, 9)
+    digits_font = font(ARIAL, 10)
+
+    label = f"ISBN {ISBN_DISPLAY}"
+    label_box = barcode_draw.textbbox((0, 0), label, font=label_font)
+    barcode_draw.text(
+        ((canvas_w - (label_box[2] - label_box[0])) / 2, round(0.08 * PPI)),
+        label,
+        font=label_font,
+        fill="black",
+    )
+
+    bar_top = round(0.31 * PPI)
+    bar_bottom = round(1.03 * PPI)
+    guard_bottom = round(1.09 * PPI)
+    guard_ranges = ((0, 3), (45, 50), (92, 95))
+    for index, bit in enumerate(modules):
+        if bit != "1":
+            continue
+        is_guard = any(start <= index < end for start, end in guard_ranges)
+        barcode_draw.rectangle(
+            (
+                symbol_x + index * module_w,
+                bar_top,
+                symbol_x + (index + 1) * module_w - 1,
+                guard_bottom if is_guard else bar_bottom,
+            ),
+            fill="black",
+        )
+
+    digit_y = round(1.075 * PPI)
+    first_width = barcode_draw.textlength(ISBN13[0], font=digits_font)
+    barcode_draw.text(
+        (symbol_x - 7 * module_w - first_width / 2, digit_y),
+        ISBN13[0],
+        font=digits_font,
+        fill="black",
+    )
+    for offset, digit in enumerate(ISBN13[1:7]):
+        center = symbol_x + (3 + offset * 7 + 3.5) * module_w
+        digit_width = barcode_draw.textlength(digit, font=digits_font)
+        barcode_draw.text((center - digit_width / 2, digit_y), digit, font=digits_font, fill="black")
+    for offset, digit in enumerate(ISBN13[7:]):
+        center = symbol_x + (50 + offset * 7 + 3.5) * module_w
+        digit_width = barcode_draw.textlength(digit, font=digits_font)
+        barcode_draw.text((center - digit_width / 2, digit_y), digit, font=digits_font, fill="black")
+
+    barcode.save(BARCODE_OUT, format="PNG", dpi=(PPI, PPI), optimize=True)
+    return barcode
 
 
 def build() -> None:
@@ -176,7 +312,56 @@ def build() -> None:
             y += line_height
         y += paragraph_gap
 
-    # Reserve the lower-right back-cover area for KDP's automatically placed barcode.
+    # Draw the front-cover typography as separate, measurable elements. KDP asks
+    # for at least 0.375 in from every trim edge; 0.5 in provides extra tolerance
+    # for cutting variance and automated quality checks.
+    front_trim_left = front_x
+    front_trim_right = width - bleed
+    front_trim_top = bleed
+    front_trim_bottom = height - bleed
+    front_safe_inset = round(0.5 * PPI)
+    front_safe = (
+        front_trim_left + front_safe_inset,
+        front_trim_top + front_safe_inset,
+        front_trim_right - front_safe_inset,
+        front_trim_bottom - front_safe_inset,
+    )
+    front_center_x = (front_trim_left + front_trim_right) / 2
+
+    front_title = "ARREAL"
+    front_title_font = font(ARIAL_NARROW_BOLD, 88)
+    front_title_tracking = round(0.06 * PPI)
+    title_reference = draw.textbbox((0, 0), front_title, font=front_title_font)
+    title_y = front_safe[1] - title_reference[1]
+    title_bounds = draw_centered_tracking(
+        draw,
+        front_center_x,
+        title_y,
+        front_title,
+        front_title_font,
+        warm,
+        front_title_tracking,
+    )
+    assert_inside("Título da frente", title_bounds, front_safe)
+
+    front_author = "BRUNO DUARTE CORRÊA"
+    front_author_font = font(ARIAL, 15)
+    front_author_tracking = round(0.045 * PPI)
+    author_reference = draw.textbbox((0, 0), front_author, font=front_author_font)
+    author_y = front_safe[3] - author_reference[3]
+    author_bounds = draw_centered_tracking(
+        draw,
+        front_center_x,
+        author_y,
+        front_author,
+        front_author_font,
+        warm,
+        front_author_tracking,
+    )
+    assert_inside("Autor da frente", author_bounds, front_safe)
+
+    # Place our assigned ISBN as a Bookland EAN-13 barcode. Supplying it in the
+    # cover prevents KDP from adding a second barcode to the reserved area.
     barcode_w = round(2.15 * PPI)
     barcode_h = round(1.35 * PPI)
     barcode_right = bleed + back_w - round(0.25 * PPI)
@@ -187,14 +372,10 @@ def build() -> None:
         barcode_right,
         barcode_bottom,
     )
-    barcode_overlay = Image.new("RGBA", cover.size, (0, 0, 0, 0))
-    barcode_draw = ImageDraw.Draw(barcode_overlay)
-    barcode_draw.rounded_rectangle(
-        barcode_box,
-        radius=round(0.04 * PPI),
-        fill=(7, 14, 24, 220),
-    )
-    cover = Image.alpha_composite(cover.convert("RGBA"), barcode_overlay).convert("RGB")
+    barcode = build_barcode()
+    if barcode.size != (barcode_w, barcode_h):
+        raise AssertionError(f"Tamanho inesperado do código de barras: {barcode.size}")
+    cover.paste(barcode, (barcode_box[0], barcode_box[1]))
 
     # Spine typography, centered and safely inset from fold lines.
     spine_center_x = bleed + back_w + spine_w / 2
@@ -239,6 +420,11 @@ def build() -> None:
     print(f"Page count: {PAGE_COUNT}")
     print(f"Spine: {SPINE_IN:.3f} in")
     print(f"Full cover: {FULL_W_IN:.3f} x {FULL_H_IN:.3f} in")
+    print(f"Front safe zone: 0.500 in from trim edges")
+    print(f"Front title bounds: {title_bounds}")
+    print(f"Front author bounds: {author_bounds}")
+    print(f"ISBN: {ISBN_DISPLAY} (EAN-13 válido)")
+    print(BARCODE_OUT)
     print(PDF_OUT)
 
 

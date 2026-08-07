@@ -1,6 +1,6 @@
 # Pacote de publicação de *Arreal* no Amazon KDP
 
-Gerado em 15 de julho de 2026 a partir dos capítulos LaTeX revisados.
+Gerado em 26 de julho de 2026 a partir dos capítulos LaTeX revisados.
 
 ## eBook Kindle
 
@@ -10,36 +10,41 @@ Gerado em 15 de julho de 2026 a partir dos capítulos LaTeX revisados.
 - Título: *Arreal*
 - Autor: Bruno Duarte Corrêa
 
-O EPUB é refluível e contém folha de rosto, direitos autorais, sumário navegável,
-45 capítulos, apêndice e nota do autor. A capa não foi incorporada ao EPUB porque o
-KDP a adiciona a partir do arquivo de capa enviado na configuração do eBook.
+O EPUB é refluível e contém folha de rosto, direitos autorais, dedicatória,
+sumário navegável, 45 capítulos, apêndice e nota do autor. A capa não foi
+incorporada ao EPUB porque o KDP a adiciona a partir do arquivo de capa enviado
+na configuração do eBook.
 
 ## Livro de capa comum
 
-- Miolo: `Arreal_Miolo_Impresso_55x85_308p.pdf`
-- Capa completa: `Arreal_Capa_Impressa_55x85_308p.pdf`
+- Miolo: `Arreal_Miolo_Impresso_55x85_310p.pdf`
+- Capa completa: `Arreal_Capa_Impressa_55x85_310p.pdf`
 - Formato de corte: 5,5 x 8,5 polegadas
-- Páginas: 308
+- Páginas: 310
 - Interior: preto e branco
 - Papel: creme
 - Sangria do miolo: não
 - Sangria da capa: 0,125 polegada
-- Lombada: 0,770 polegada
+- Lombada: 0,775 polegada
 - Acabamento recomendado: fosco
+- Zona segura dos textos da capa: 0,500 polegada a partir das bordas de corte
+- ISBN: `978-65-02-27657-0`
 
-O retângulo vazio no canto inferior direito da quarta capa está reservado para o
-código de barras inserido pelo KDP.
+A capa completa já contém o código de barras Bookland EAN-13 correspondente ao
+ISBN da edição impressa. No KDP, informar que o arquivo enviado já possui código
+de barras para evitar a inserção de um segundo símbolo.
 
 ## Arquivos auxiliares
 
-- `Arreal_Capa_Impressa_55x85_308p.png`: arte completa em 300 ppp.
-- `Arreal_Capa_Impressa_55x85_308p.jpg`: prévia compacta da capa completa.
+- `Arreal_Capa_Impressa_55x85_310p.png`: arte completa em 300 ppp.
+- `Arreal_Capa_Impressa_55x85_310p.jpg`: prévia compacta da capa completa.
+- `Arreal_ISBN_978-65-02-27657-0_EAN13.png`: código de barras isolado em 300 ppp.
 
 ## Antes de publicar
 
 1. Enviar os arquivos aos formatos correspondentes no painel do KDP.
 2. Confirmar exatamente as opções de impressão listadas acima.
 3. Abrir o Kindle Previewer e o Print Previewer do KDP.
-4. Verificar se o KDP não reposicionou a lombada ou o código de barras.
+4. Verificar se o KDP não adicionou um segundo código de barras nem reposicionou
+   a lombada.
 5. Solicitar uma prova física antes de liberar a venda do impresso.
-

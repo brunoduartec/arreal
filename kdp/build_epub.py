@@ -182,6 +182,18 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8", newline="\n")
 
 
+def dedication_text() -> str:
+    source = (ROOT / "chapters" / "dedicatoria.tex").read_text(encoding="utf-8")
+    match = re.search(
+        r"\\itshape\s*(.*?)\s*\\end\{flushleft\}",
+        source,
+        flags=re.DOTALL,
+    )
+    if not match:
+        raise ValueError("Não foi possível extrair a dedicatória de chapters/dedicatoria.tex")
+    return inline_tex(match.group(1))
+
+
 def build() -> None:
     if BUILD.exists():
         shutil.rmtree(BUILD)
@@ -212,6 +224,8 @@ h3 { font-style: italic; font-weight: normal; margin: 1.2em 0 0.4em; }
 .title-page h1 { font-family: sans-serif; font-style: normal; font-weight: bold; margin: 0 0 2em; letter-spacing: 0.12em; }
 .title-page p, .copyright p { text-indent: 0; text-align: center; margin: 0.8em 0; }
 .copyright { padding-top: 28%; }
+.dedication { padding-top: 65%; text-align: left; font-style: italic; }
+.dedication p { text-indent: 0; }
 .scene { text-align: center; text-indent: 0; margin: 1.6em 0; font-style: italic; }
 .breath { height: 1.2em; }
 blockquote { margin: 1.2em 8%; font-style: italic; }
@@ -232,6 +246,14 @@ li { margin: 0.7em 0; }
   <p>Primeira edição, 2026.<br />Brasil.</p>
 </div>'''
     write_text(OEBPS / "copyright.xhtml", xhtml_document("Direitos autorais", copyright_body, "copyright"))
+
+    dedication_body = f'''<div class="dedication" epub:type="dedication">
+  <p>{dedication_text()}</p>
+</div>'''
+    write_text(
+        OEBPS / "dedication.xhtml",
+        xhtml_document("Dedicatória", dedication_body, "dedication"),
+    )
 
     entries: list[tuple[str, str, str]] = []
     for index, chapter in enumerate(CHAPTERS, start=1):
@@ -279,12 +301,17 @@ li { margin: 0.7em 0; }
         '<item id="css" href="styles.css" media-type="text/css" />',
         '<item id="title" href="title.xhtml" media-type="application/xhtml+xml" />',
         '<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />',
+        '<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml" />',
     ]
     manifest_entries.extend(
         f'<item id="{item_id}" href="{filename}" media-type="application/xhtml+xml" />'
         for item_id, filename, _ in entries
     )
-    spine_entries = ['<itemref idref="title" />', '<itemref idref="copyright" />']
+    spine_entries = [
+        '<itemref idref="title" />',
+        '<itemref idref="copyright" />',
+        '<itemref idref="dedication" />',
+    ]
     spine_entries.extend(f'<itemref idref="{item_id}" />' for item_id, _, _ in entries)
 
     opf = f'''<?xml version="1.0" encoding="utf-8"?>
@@ -296,7 +323,7 @@ li { margin: 0.7em 0; }
     <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
     <dc:language>{LANG}</dc:language>
     <dc:rights>Copyright © 2026 Bruno Duarte Corrêa. Todos os direitos reservados.</dc:rights>
-    <meta property="dcterms:modified">2026-07-15T12:00:00Z</meta>
+    <meta property="dcterms:modified">2026-07-25T12:00:00Z</meta>
   </metadata>
   <manifest>
     {chr(10).join(manifest_entries)}
@@ -322,4 +349,3 @@ li { margin: 0.7em 0; }
 
 if __name__ == "__main__":
     build()
-
