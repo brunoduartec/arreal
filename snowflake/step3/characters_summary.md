@@ -3,6 +3,25 @@
 
 Este arquivo consolida as descrições e notas de motivação, objetivos, conflitos e epifanias encontradas em `snowflake/step3`.
 
+## Aparência canônica e auditoria das imagens
+
+As fichas individuais agora separam três coisas que antes estavam misturadas: o que o manuscrito confirma, o que permanece indefinido e o que a arte existente inventa ou contradiz. `chapters/*.tex` é a única autoridade narrativa; descrições antigas do `step5` não foram promovidas a cânone sem confirmação textual.
+
+| Personagem | Aparência confirmada no manuscrito | Situação da imagem |
+|---|---|---|
+| Lúcia | Alta, magra, cabelos superlisos, olhos verdes | REPROVA: cabelo e olhos contradizem o texto |
+| Larissa | 18 anos; cabelo azul curto, depois azul mais longo | REPROVA: fase indefinida e contradição azul/vermelho no manuscrito |
+| Pedro | Cerca de 15 anos, corpo atarracado, olhar desconfiado | REPROVA: adulto/atlético e ação sem cena-fonte |
+| Garçom | Velho, baixo, curvado, calvo, rosto vincado, olhos verde-cinza, traje gasto | REPROVA: postura e traje excessivamente elegantes |
+| Crispim | Corpo idoso com cabelos e barba grisalhos descuidados; projeção mais jovem | REPROVA: não corresponde a nenhuma fase documentada |
+| Ítalo | Rapaz jovem; cabelo movido pelo vento ao volitar | REPROVA: identidade visual quase toda sem fonte |
+| Bento | Aluno valentão; sem descrição física específica | REPROVA: fase e traços sem fonte |
+| Jonas | Colega de Lúcia; olhar malicioso/entusiasmado | REPROVA: fase e traços sem fonte |
+| Garoto | Adolescente; uniforme escolar na abertura | REPROVA: rosto e roupa casual sem fonte |
+| Joana | Olhos de mel; vestido florido no capítulo 20 | REPROVA: imagem inexistente |
+
+A auditoria completa está em `images/auditoria-canonica-personagens.md`.
+
 ---
 
 
@@ -162,4 +181,3 @@ Este arquivo consolida as descrições e notas de motivação, objetivos, confli
 	- Seguir aqueles que tem mais poder
 - Conflito: Quer fazer o que é certo mas seus sentimentos de raiva o impedem de raciocinar direito e por isso acaba seguindo Crispim por muito tempo e depois fica tentado em seguir o garçom
 - Epifania: Percebe que tomou muitas deciões erradas e que pode fazer diferença salvando a Lúcia do Crispim o matando
-

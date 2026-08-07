@@ -11,5 +11,27 @@
         "Impedir que os despertos dominem o mundo"
     ],
     "conflict": "Suspeita que o irmão esteja envolvido em alguma coisa mas por outro lado o vê como alguém inofensivo",
-    "epiphany": "Percebe que existem os despertos que eles são perigosos e que seu irmão é um deles"
+  "epiphany": "Percebe que existem os despertos que eles são perigosos e que seu irmão é um deles",
+  "canonical_appearance": {
+    "confirmed": [
+      "alta para a idade",
+      "magra",
+      "cabelos superlisos",
+      "olhos verdes",
+      "vinte e um anos depois do salto temporal de cinco anos"
+    ],
+    "author_approved_visual_traits": [
+      "negra de pele clara",
+      "avô paterno negro retinto e avó paterna negra",
+      "avós maternos brancos, descendentes de portugueses"
+    ],
+    "sources": [
+      "chapters/chapter0.tex:58",
+      "chapters/chapter1.tex:129-139",
+      "decisão autoral de 2026-08-07: representar Lúcia aos vinte e um anos"
+    ],
+    "image": "images/lúcia.png",
+    "image_status": "REPROVA",
+    "image_reason": "A arte mostra cabelo crespo preso em coque e olhos escuros; contradiz os cabelos superlisos e os olhos verdes descritos no manuscrito. A pele negra clara é compatível com a decisão autoral, mas a jaqueta jeans não está vinculada a uma cena-fonte."
+  }
 }

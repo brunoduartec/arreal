@@ -5,5 +5,24 @@
     "ser uma pessoa boa"
   ],
   "conflict": "Sua religiosidade o impele a sempre ser bom e não duvidar e perdoar a todos",
-  "epiphany": "Ao perceber que o garoto não é o messias e ele precisa ser responsável por suas decisões"
+  "epiphany": "Ao perceber que o garoto não é o messias e ele precisa ser responsável por suas decisões",
+  "canonical_appearance": {
+    "confirmed": [
+      "rapaz/garoto jovem",
+      "cabelo com comprimento suficiente para se mover ao vento durante a volitação"
+    ],
+    "not_confirmed_in_manuscript": [
+      "tom de pele ou etnia",
+      "cor e textura do cabelo",
+      "óculos",
+      "roupa específica"
+    ],
+    "sources": [
+      "chapters/chapter0.tex:96-116",
+      "chapters/chapter19.tex:70-98"
+    ],
+    "image": "images/ítalo.png",
+    "image_status": "REPROVA",
+    "image_reason": "A arte fixa pele clara, cabelo preto cacheado, óculos e moletom sem apoio no manuscrito. A ficha antiga do step5 dizia que Ítalo era negro, de cabelo curto, jeans e camisa de flanela, mas esses detalhes também não foram confirmados nos capítulos e não devem ser tratados como cânone."
+  }
 }

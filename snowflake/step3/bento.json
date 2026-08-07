@@ -9,5 +9,21 @@
         "Ser justo segundo seus preceitos"
     ],
     "conflict": "Pensa que tudo deve ser conquistado pela violência então não percebe que todos tem os mesmos direitos",
-    "epiphany": "Ao perceber que na verdade o garçom não era uma pessoa justa fica perdido e instável"
+  "epiphany": "Ao perceber que na verdade o garçom não era uma pessoa justa fica perdido e instável",
+  "canonical_appearance": {
+    "confirmed": [
+      "aluno da escola na abertura",
+      "valentão que integra o grupo de Jonas"
+    ],
+    "not_confirmed_in_manuscript": [
+      "cor da pele",
+      "cor dos olhos",
+      "cor e corte do cabelo",
+      "altura, peso e roupa específica"
+    ],
+    "source": "chapters/chapter0.tex:78-90",
+    "image": "images/bento.png",
+    "image_status": "REPROVA",
+    "image_reason": "O retrato mostra um homem adulto de cabelo escuro, sem definir se representa a abertura ou cinco anos depois. A antiga ficha do step5 o descreve como loiro, de pele clara e olhos verdes aos quinze anos, mas o manuscrito não confirma esses traços; nenhuma das duas versões pode ser aprovada como cânone."
+  }
 }

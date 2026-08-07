@@ -1,22 +1,55 @@
 {
-    "BASIC": {
-        "Name": "Jonas Albuquerque",
-        "Age": "16",
-        "Place of birth": "",
-        "Sign": "",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "PENDENTE_DE_DEFINICAO_AUTORAL",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Jonas",
+    "role": "colega de Lúcia, antagonista escolar e posterior aliado do Garçom",
+    "age_or_stage": "duas turmas à frente do Garoto na abertura; cinco anos mais velho na linha principal"
+  },
+  "CHARACTER_SYNOPSIS": "Jonas usa popularidade, intimidação e aproximação de Lúcia para alimentar o próprio status. Seu desejo de reconhecimento o torna vulnerável à promessa de poder do Garçom.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "colega de turma de Lúcia",
+      "duas turmas à frente do Garoto",
+      "olhos expressivos associados a malícia e entusiasmo"
+    ],
+    "not_confirmed": [
+      "idade numérica",
+      "tom de pele ou etnia",
+      "cor e textura do cabelo",
+      "cor dos olhos",
+      "altura, peso e tipo físico",
+      "roupa específica"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Jovem em idade escolar na abertura, com olhar vivo que mistura malícia e entusiasmo. O manuscrito não define rosto, pele, cabelo, olhos, corpo ou roupa; escolher também se o retrato mostra o adolescente ou sua versão cinco anos mais velha.",
+  "OPEN_DECISIONS": [
+    "escolher a fase narrativa",
+    "definir idade, pele, rosto, olhos, cabelo, corpo e roupa"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter0.tex",
+      "lines": "58-72",
+      "evidence": "colega de Lúcia e duas turmas à frente do Garoto"
     },
-    "PHYSICAL APPEARANCE": "",
-    "SPEECH AND COMMUNICATION": {
-        "posture": ["convencido", "arrogante", "violento"]
-
-    },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": ""
+    {
+      "file": "chapters/chapter11.tex",
+      "lines": "38-47",
+      "evidence": "olhos brilhando com malícia e entusiasmo"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/jonas.png",
+    "status": "REPROVA",
+    "reason": "retrato adulto com rosto, cabelo e roupa sem fonte nem fase definida"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/jonas-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna com casting aprovado pelo autor",
+    "reason": "adolescente de 16 anos com cabelo cacheado e olhar malicioso e entusiasmado"
+  }
 }

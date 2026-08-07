@@ -1,3 +1,27 @@
 {
-    "description": "Step 5. Character bibles and character synopses"
+  "step": 5,
+  "description": "Bíblias, sinopses e descrições visuais auditáveis dos personagens",
+  "schema_version": "2.0",
+  "status": "PENDENTE_DE_AUDITORIA_AUTORAL",
+  "canonical_authority": "chapters/*.tex",
+  "characters": [
+    "bento",
+    "crispim",
+    "garçom",
+    "garoto",
+    "italo",
+    "joana",
+    "jonas",
+    "larissa",
+    "lucia",
+    "pedro"
+  ],
+  "usage_rules": [
+    "Apenas campos em confirmed podem ser tratados como fatos visuais.",
+    "Campos em not_confirmed exigem decisão autoral antes de um retrato frontal definitivo.",
+    "Escolher uma fase narrativa e uma cena-fonte antes de gerar qualquer imagem.",
+    "Não misturar aparência, roupa, ação ou poderes de cenas diferentes.",
+    "Nenhuma ficha deste diretório equivale, sozinha, à aprovação de uma imagem final."
+  ],
+  "required_prompt_suffix": "Representar somente este acontecimento literal. Não criar montagem, simbolismo narrativo ou antecipação de eventos posteriores."
 }

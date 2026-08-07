@@ -10,5 +10,24 @@
         "Impedir que Crispim faça muito mal pois julga ela ser responsável por não o ter detido quando pode"
     ],
     "conflict": "Quer ser independente e impedir que Crispim faça muita merda mas por outro lado não quer que ele fique mal então está sempre por perto",
-    "epiphany": "Ao perceber que Crispim está do seu lado e era seu pai biológico fingindo ser seu pai adotivo para não ter que assumir todas as responsabilidades e o perdoa em seu leito de morte"
+  "epiphany": "Ao perceber que Crispim está do seu lado e era seu pai biológico fingindo ser seu pai adotivo para não ter que assumir todas as responsabilidades e o perdoa em seu leito de morte",
+  "canonical_appearance": {
+    "confirmed": [
+      "dezoito anos na linha narrativa principal",
+      "cabelo azul curto na escola",
+      "cabelo azul mais longo em uma visão posterior",
+      "olhos fundos após noites mal dormidas"
+    ],
+    "sources": [
+      "chapters/chapter11.tex:56-65",
+      "chapters/chapter14.tex:15",
+      "chapters/chapter15.tex:37",
+      "chapters/chapter17.tex:45",
+      "chapters/chapter22.tex:14"
+    ],
+    "continuity_warning": "chapters/chapter40.tex:203 descreve os cabelos como vermelhos, sem explicar mudança de cor; isso contradiz os capítulos 11, 17 e 22 e precisa de decisão autoral.",
+    "image": "images/larissa.png",
+    "image_status": "REPROVA",
+    "image_reason": "A arte acerta o cabelo azul e pode se aproximar da versão de cabelo mais longo vista no capítulo 17, mas não define o momento narrativo e fixa pele, rosto e roupa sem fonte. Não pode funcionar como retrato canônico único enquanto a cor do cabelo estiver inconsistente no manuscrito."
+  }
 }

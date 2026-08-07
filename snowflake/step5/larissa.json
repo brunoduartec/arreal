@@ -1,22 +1,73 @@
 {
-    "BASIC": {
-        "Name": "Larissa Ferreira",
-        "Age": "15",
-        "Place of birth": "",
-        "Sign": "Touro",
-        "Current location": "",
-        "Nationality": "",
-        "Education": "",
-        "Occupation": "",
-        "Income": ""
+  "META": {
+    "status": "BLOQUEADA_POR_INCONSISTENCIA_CANONICA",
+    "canonical_authority": "chapters/*.tex"
+  },
+  "BASIC": {
+    "name": "Larissa",
+    "role": "jovem desperta ligada a Crispim; controla fogo",
+    "age_or_stage": "dezoito anos na linha narrativa principal"
+  },
+  "CHARACTER_SYNOPSIS": "Após perder a mãe e despertar o fogo em meio à raiva e ao luto, Larissa oscila entre a influência de Crispim, a culpa pelos danos causados e a tentativa de impedir uma destruição maior.",
+  "CANONICAL_PHYSICAL_APPEARANCE": {
+    "confirmed": [
+      "dezoito anos",
+      "cabelo azul curto na escola",
+      "cabelo azul mais longo em uma visão posterior",
+      "olhos fundos quando está sem dormir"
+    ],
+    "continuity_conflict": [
+      "o capítulo 40 descreve seus cabelos como vermelhos, sem explicar mudança em relação ao azul dos capítulos 11, 17 e 22"
+    ],
+    "not_confirmed": [
+      "tom de pele ou etnia",
+      "cor dos olhos",
+      "tipo físico",
+      "roupa cotidiana definitiva"
+    ]
+  },
+  "AUDITABLE_VISUAL_DESCRIPTION": "Jovem de dezoito anos. Na fase escolar, tem cabelo azul curto e olhar endurecido; numa visão posterior, o cabelo continua azul, porém mais longo. Não definir um retrato canônico único até resolver a menção a cabelos vermelhos no capítulo 40.",
+  "OPEN_DECISIONS": [
+    "decidir se cabelos vermelhos no capítulo 40 são erro de continuidade, mudança física ou efeito do fogo",
+    "definir tom de pele, rosto e olhos",
+    "escolher a fase exata do retrato"
+  ],
+  "SOURCE_EVIDENCE": [
+    {
+      "file": "chapters/chapter11.tex",
+      "lines": "56-65",
+      "evidence": "mulher de cabelo azul curto"
     },
-    "PHYSICAL APPEARANCE": ["cabelos curtos vermelhos, se veste com calças jeans e blusa de couro vermelha"],
-    "SPEECH AND COMMUNICATION": {
-        "posture": ["Violenta", "Arrogante", "Confiante"]
-
+    {
+      "file": "chapters/chapter14.tex",
+      "lines": "15",
+      "evidence": "dezoito anos"
     },
-    "THE PAST": {
-        "What type of childhood did they have (sheltered, neglected, etc.)?": "Viveu sua infância na periferia, somente com a sua mãe, seu pai, Crispim, era sempre distante porque na realidade tinha outra família. Cresceu vendo sua mãe ser maltratada e deixada de lado por isso traz dentro de si uma revolta constante com o mundo"
+    {
+      "file": "chapters/chapter17.tex",
+      "lines": "45",
+      "evidence": "cabelo azul mais longo numa visão posterior"
+    },
+    {
+      "file": "chapters/chapter22.tex",
+      "lines": "14",
+      "evidence": "cabelo azul faiscando em tons de labareda"
+    },
+    {
+      "file": "chapters/chapter40.tex",
+      "lines": "203",
+      "evidence": "cabelos descritos como vermelhos"
     }
-
+  ],
+  "EXISTING_IMAGE_AUDIT": {
+    "file": "images/larissa.png",
+    "status": "REPROVA",
+    "reason": "aproxima-se da fase de cabelo azul mais longo, mas não define o momento e não resolve a inconsistência de cor"
+  },
+  "NEW_REFERENCE_IMAGE_AUDIT": {
+    "file": "images/larissa-canon-v2.png",
+    "status": "PASSA",
+    "scope": "referência visual interna da fase do capítulo 11",
+    "reason": "representa Larissa aos 18 anos com cabelo azul curto e roupa preta"
+  }
 }

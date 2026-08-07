@@ -10,5 +10,24 @@
         "estar sempre certo"
     ],
     "conflict": "Sempre acreditou que não tinha direito a nada mas com as habilidades começa a tomar coragem para tomar tudo aquilo que acha ser seu por direito",
-    "epiphany": "Percebe que o garoto está totalmente perdido e por isso não toma atitude alguma, apesar de ter mais poder não vai fazer nada com ele"
+  "epiphany": "Percebe que o garoto está totalmente perdido e por isso não toma atitude alguma, apesar de ter mais poder não vai fazer nada com ele",
+  "canonical_appearance": {
+    "confirmed": [
+      "homem velho e baixo",
+      "postura um pouco curvada",
+      "cabeça calva",
+      "rosto vincado e pele muito marcada",
+      "sobrancelhas grisalhas",
+      "olhos pequenos, verde quase cinza",
+      "terno preto gasto e camisa amarelada pelo tempo"
+    ],
+    "sources": [
+      "chapters/chapter7.tex:46",
+      "chapters/chapter8.tex:34-39",
+      "chapters/chapter41.tex:184"
+    ],
+    "image": "images/garçom.png",
+    "image_status": "REPROVA",
+    "image_reason": "A arte acerta idade, calvície, rosto marcado e terno preto, mas o mostra ereto e com traje formal impecável, camisa branca e gravata-borboleta. O manuscrito exige postura curvada, terno gasto e camisa amarelada."
+  }
 }
