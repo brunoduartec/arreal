@@ -1,0 +1,58 @@
+Use case: ads-marketing
+Asset type: reusable background art for a seven-slide Instagram educational carousel, vertical 4:5
+Primary request: create one refined abstract editorial background with a deep midnight navy field, subtle paper grain, sparse warm-gold and muted-teal luminous threads, and a soft radial glow; sophisticated, literary, introspective, visually compatible with a contemporary Brazilian fantasy author's feed
+Style/medium: premium abstract mixed-media texture, restrained and minimal, elegant print-editorial finish
+Composition/framing: vertical canvas, generous clean negative space across the center and upper-middle for later typography; visual interest concentrated subtly near edges and lower corner
+Lighting/mood: mysterious but inviting, thoughtful rather than ominous
+Color palette: near-black navy, ink blue, warm antique gold, tiny teal accents, off-white only as subtle grain
+Constraints: purely abstract graphic texture; no text, no letters, no words, no logos, no watermark; no people, faces, silhouettes, characters, creatures, locations, objects, powers, fire, city, doorway, weapons, symbols, emblems, or narrative scene; no book cover; no identifiable story element. This will be reused as the background of multiple slides and must remain uncluttered.
+
+Modo usado: ferramenta integrada de geração de imagens. A tipografia e os símbolos geométricos das sete telas foram compostos localmente para garantir consistência e grafia exata.
+
+## Capa de impacto
+
+Use case: compositing
+Asset type: high-impact cover art for slide 1 of a vertical 4:5 Instagram educational carousel about narrative archetypes
+Input images: Image 1: reference for the anonymous hero figure and palette; Image 2: reference for the anonymous mentor figure and palette; Image 3: reference for the anonymous shadow figure and palette
+Primary request: create one arresting editorial key art that brings the three anonymous archetypal figures into a unified layered portrait composition. The shadow figure is the largest central foreground presence, face obscured and psychologically intriguing; the mentor appears as a warmly lit older profile on one side; the hero appears in three-quarter back view on the opposite side. They must read as three separate conceptual examples, not as characters interacting in a scene.
+Scene/backdrop: abstract deep midnight-navy void with subtle paper grain and restrained atmospheric texture; no identifiable place
+Style/medium: premium cinematic editorial illustration, painterly realism, sophisticated literary magazine cover, strong contrast, immediately legible at phone thumbnail size
+Composition/framing: vertical 4:5; faces and shoulders large in the upper and middle field; dynamic triangular hierarchy; leave a clean dark band across the lower third for later typography
+Lighting/mood: dramatic gold-versus-teal rim lighting, mystery and recognition, intelligent rather than ominous
+Constraints: no text, letters, logos, watermark, symbols, book cover, city, fire, powers, supernatural effects, weapons, battle, fantasy costumes, props, or extra people. This is not a scene from Arreal and must not imply that these are characters from Arreal. No narrative interaction among the figures.
+
+## Figura do herói
+
+Use case: illustration-story
+Asset type: symbolic character illustration for slide 3 of an Instagram carousel about narrative archetypes
+Primary request: an anonymous, gender-ambiguous young adult figure representing the narrative hero archetype, seen in three-quarter back view, taking one calm step forward across a simple band of light
+Scene/backdrop: abstract deep midnight-navy void with subtle paper grain, no identifiable location
+Subject: one solitary human figure only; dark contemporary neutral clothing without logos, armor, costume, weapon, cape, or supernatural features; face not visible
+Style/medium: premium editorial illustration, painterly realism simplified into strong shapes, restrained and literary
+Composition/framing: full body on the right half of a vertical 4:5 canvas, generous clean negative space on the left and upper-left for typography
+Lighting/mood: soft warm-gold rim light ahead, small muted-teal accent behind; contemplative courage, not action spectacle
+Constraints: generic symbolic figure, not a named character and not from any existing book; no text, letters, logos, watermark, symbols, city, fire, powers, monsters, battle, fantasy costume, props, or additional people.
+
+## Figura do mentor
+
+Use case: illustration-story
+Asset type: symbolic character illustration for slide 4 of an Instagram carousel about narrative archetypes
+Primary request: an anonymous older adult figure representing the narrative mentor archetype, calm posture in three-quarter view, one open hand suggesting guidance without holding any object
+Scene/backdrop: abstract deep midnight-navy void with subtle paper grain, no identifiable location
+Subject: one solitary human figure only; simple dark contemporary neutral clothing without logos, robes, armor, costume, staff, book, weapon, or supernatural features; facial detail soft and non-specific
+Style/medium: premium editorial illustration, painterly realism simplified into strong shapes, restrained and literary
+Composition/framing: half-to-three-quarter body on the right half of a vertical 4:5 canvas, generous clean negative space on the left and upper-left for typography
+Lighting/mood: gentle warm-gold rim light and a small muted-teal reflected light; quiet intelligence, warmth, ambiguity
+Constraints: generic symbolic figure, not a named character and not from any existing book; no text, letters, logos, watermark, symbols, city, fire, powers, monsters, fantasy costume, props, or additional people.
+
+## Figura da sombra
+
+Use case: illustration-story
+Asset type: symbolic character illustration for slide 5 of an Instagram carousel about narrative archetypes
+Primary request: one anonymous human figure representing the narrative shadow archetype through a restrained double-exposure treatment: the same person's soft dark reflection offset behind them, with both forms clearly belonging to one symbolic identity
+Scene/backdrop: abstract deep midnight-navy void with subtle paper grain, no identifiable location
+Subject: one gender-ambiguous adult figure only, front or three-quarter view, dark contemporary neutral clothing without logos; face mostly obscured by shadow and not identifiable
+Style/medium: premium editorial illustration, painterly realism simplified into strong shapes, psychologically evocative but not horror
+Composition/framing: half-to-three-quarter body on the right half of a vertical 4:5 canvas, generous clean negative space on the left and upper-left for typography
+Lighting/mood: muted teal on the visible figure, subtle antique-gold edge on the offset reflection; introspective tension, not menace
+Constraints: the offset form is a purely graphic reflection, not a second character, ghost, monster, power, or supernatural event; generic symbolic figure, not a named character and not from any existing book; no text, letters, logos, watermark, city, fire, weapons, battle, fantasy costume, props, or additional people.

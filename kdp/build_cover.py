@@ -39,14 +39,15 @@ GEORGIA = Path("/System/Library/Fonts/Supplemental/Georgia.ttf")
 HOOK_LINES = ("ELE DORMIU CRIANÇA.", "ACORDOU ESTRANHO.")
 BLURB = (
     "Depois de cinco anos em coma, um garoto acorda com memórias de um mundo "
-    "impossível. Enquanto tenta retomar a vida, pessoas ao seu redor começam a "
-    "manifestar habilidades sobrenaturais que nascem de crenças, sentimentos e "
-    "traumas profundos - e ele percebe que também mudou.\n\n"
-    "Preso entre realidade e fantasia, o Garoto precisa compreender a verdade "
-    "sobre o próprio passado antes que o poder humano transforme o futuro em algo "
-    "irreconhecível.\n\n"
-    "Arreal é uma fantasia psicológica sobre identidade, dor e o poder devastador "
-    "das narrativas que contamos a nós mesmos."
+    "que não deveria existir. Enquanto tenta retomar a vida, descobre que "
+    "crenças, sentimentos e traumas podem se transformar em habilidades "
+    "sobrenaturais.\n\n"
+    "Em Arreal, o risco não está apenas em ganhar poder, mas em decidir o que "
+    "fazer com ele. Quando essa descoberta começa a se espalhar, o que era "
+    "segredo vira disputa, e cada escolha cobra um preço.\n\n"
+    "Arreal é uma fantasia urbana brasileira sobre poder, identidade e "
+    "responsabilidade. Uma história sobre pessoas comuns diante do extraordinário "
+    "e sobre o que acontece quando o impossível deixa de ser exceção."
 )
 
 EAN_L = {

@@ -36,12 +36,12 @@ Regra central: primeiro despertar curiosidade ou identificação; apresentar o K
 
 Nome pesquisável:
 
-`Bruno Duarte | Autor de fantasia`
+`Bruno Duarte | Fantasia urbana`
 
 Bio:
 
-`Autor de ARREAL ⚡`  
-`Fantasia urbana sobre poderes, identidade e memórias`  
+`Autor de ARREAL`  
+`Fantasia urbana brasileira sobre poder, identidade e memórias`  
 `📖 Leia no Kindle e Kindle Unlimited ↓`
 
 Manter o link atual para a Amazon com os parâmetros de rastreamento.
